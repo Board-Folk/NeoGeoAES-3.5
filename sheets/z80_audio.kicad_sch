@@ -2279,7 +2279,7 @@
     (property "Value" "4.7KΩ" (id 1) (at 140.208 51.0539 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 138.684 49.784 0)
+    (property "Footprint" "1_NeoGeoLibrary:Resistor1-5mm" (id 2) (at 138.684 49.784 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 138.684 49.784 0)
