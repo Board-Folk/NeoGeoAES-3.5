@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "1_NeoGeoLibrary")(type "KiCad")(uri "${KIPRJMOD}/libs/1_NeoGeoLibrary.pretty")(options "")(descr ""))
+)
