@@ -2387,7 +2387,7 @@
     (property "Footprint" "" (id 2) (at 156.21 93.218 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS259" (id 3) (at 156.21 93.218 0)
+    (property "Datasheet" "" (id 3) (at 156.21 93.218 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 8d89a830-66fa-434c-81ea-2b5f7371c56f))

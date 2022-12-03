@@ -1497,223 +1497,223 @@
       (reference "PAL2") (unit 1) (value "0") (footprint "")
     )
     (path "/17d4dff8-1d4b-4fcd-9956-5ead09864ae3/2c341fb6-da27-4683-990c-3dfe73ac4eeb"
-      (reference "R1") (unit 1) (value "1K") (footprint "")
+      (reference "R1") (unit 1) (value "1KΩ") (footprint "")
     )
     (path "/17d4dff8-1d4b-4fcd-9956-5ead09864ae3/f16d86a6-060c-4d5f-9110-674774ec818e"
-      (reference "R2") (unit 1) (value "1K") (footprint "")
+      (reference "R2") (unit 1) (value "1KΩ") (footprint "")
     )
     (path "/17d4dff8-1d4b-4fcd-9956-5ead09864ae3/c2d6a1b5-e501-4f70-a7e2-578df8f76b87"
-      (reference "R3") (unit 1) (value "1K") (footprint "")
+      (reference "R3") (unit 1) (value "1KΩ") (footprint "")
     )
     (path "/17d4dff8-1d4b-4fcd-9956-5ead09864ae3/182a249a-9650-4ddb-be51-40b993c0ed67"
-      (reference "R4") (unit 1) (value "8.2K") (footprint "")
+      (reference "R4") (unit 1) (value "8.2KΩ") (footprint "")
     )
     (path "/17d4dff8-1d4b-4fcd-9956-5ead09864ae3/52b1a5e8-1b34-4a57-baa8-b8ce5d25b462"
-      (reference "R5") (unit 1) (value "8.2K") (footprint "")
+      (reference "R5") (unit 1) (value "8.2KΩ") (footprint "")
     )
     (path "/17d4dff8-1d4b-4fcd-9956-5ead09864ae3/7708ae66-c432-4aa9-901b-f59f7acc7fca"
-      (reference "R6") (unit 1) (value "8.2K") (footprint "")
+      (reference "R6") (unit 1) (value "8.2KΩ") (footprint "")
     )
     (path "/17d4dff8-1d4b-4fcd-9956-5ead09864ae3/0cd24572-dad5-43cf-ac9a-123203b76baa"
-      (reference "R7") (unit 1) (value "3.9K") (footprint "")
+      (reference "R7") (unit 1) (value "3.9KΩ") (footprint "")
     )
     (path "/17d4dff8-1d4b-4fcd-9956-5ead09864ae3/ea36d409-e98b-4f4c-a41f-2bf948531bbd"
-      (reference "R8") (unit 1) (value "2.2K") (footprint "")
+      (reference "R8") (unit 1) (value "2.2KΩ") (footprint "")
     )
     (path "/17d4dff8-1d4b-4fcd-9956-5ead09864ae3/c0ce558c-3ce7-4e37-8fd2-07584d367aaf"
-      (reference "R9") (unit 1) (value "470") (footprint "")
+      (reference "R9") (unit 1) (value "470Ω") (footprint "")
     )
     (path "/17d4dff8-1d4b-4fcd-9956-5ead09864ae3/04f4eae6-d916-414e-9aff-ff5fc3a4a836"
-      (reference "R10") (unit 1) (value "220") (footprint "")
+      (reference "R10") (unit 1) (value "220Ω") (footprint "")
     )
     (path "/17d4dff8-1d4b-4fcd-9956-5ead09864ae3/7e79e769-5c4b-4082-9610-445999529e15"
-      (reference "R11") (unit 1) (value "3.9K") (footprint "")
+      (reference "R11") (unit 1) (value "3.9KΩ") (footprint "")
     )
     (path "/17d4dff8-1d4b-4fcd-9956-5ead09864ae3/b8a8a8af-9df7-47d9-bb8b-548664793b25"
-      (reference "R12") (unit 1) (value "2.2K") (footprint "")
+      (reference "R12") (unit 1) (value "2.2KΩ") (footprint "")
     )
     (path "/17d4dff8-1d4b-4fcd-9956-5ead09864ae3/861a659d-ef1b-4c97-abaf-5e515772ad3d"
-      (reference "R13") (unit 1) (value "470") (footprint "")
+      (reference "R13") (unit 1) (value "470Ω") (footprint "")
     )
     (path "/17d4dff8-1d4b-4fcd-9956-5ead09864ae3/0986e18d-ccb5-40c1-bdb8-4c88c5a2f15e"
-      (reference "R14") (unit 1) (value "220") (footprint "")
+      (reference "R14") (unit 1) (value "220Ω") (footprint "")
     )
     (path "/17d4dff8-1d4b-4fcd-9956-5ead09864ae3/30ffffec-46e8-497a-b1f3-146bcdd5ad50"
-      (reference "R15") (unit 1) (value "3.9K") (footprint "")
+      (reference "R15") (unit 1) (value "3.9KΩ") (footprint "")
     )
     (path "/17d4dff8-1d4b-4fcd-9956-5ead09864ae3/3939ade4-e5eb-4065-a0d3-a0a9891606c9"
-      (reference "R16") (unit 1) (value "2.2K") (footprint "")
+      (reference "R16") (unit 1) (value "2.2KΩ") (footprint "")
     )
     (path "/17d4dff8-1d4b-4fcd-9956-5ead09864ae3/0faeb7e0-a2af-45f8-a87f-dc3ae8c86ad4"
-      (reference "R17") (unit 1) (value "470") (footprint "")
+      (reference "R17") (unit 1) (value "470Ω") (footprint "")
     )
     (path "/17d4dff8-1d4b-4fcd-9956-5ead09864ae3/a5702439-785c-4219-b994-2aeaf06836cd"
-      (reference "R18") (unit 1) (value "220") (footprint "")
+      (reference "R18") (unit 1) (value "220Ω") (footprint "")
     )
     (path "/17d4dff8-1d4b-4fcd-9956-5ead09864ae3/8c288a6a-8b7e-432d-998e-312e22327261"
-      (reference "R19") (unit 1) (value "150") (footprint "")
+      (reference "R19") (unit 1) (value "150Ω") (footprint "")
     )
     (path "/17d4dff8-1d4b-4fcd-9956-5ead09864ae3/2d2b91c7-9d47-4449-b6c8-acac59997f99"
-      (reference "R20") (unit 1) (value "150") (footprint "")
+      (reference "R20") (unit 1) (value "150Ω") (footprint "")
     )
     (path "/17d4dff8-1d4b-4fcd-9956-5ead09864ae3/0cb44d64-f630-4eeb-9445-2b944679d7c1"
-      (reference "R21") (unit 1) (value "150") (footprint "")
+      (reference "R21") (unit 1) (value "150Ω") (footprint "")
     )
     (path "/85e729e3-96be-4fe1-8753-abec14de71c9/cf4b5c5f-3d1d-47ec-861f-3826ad27b8a7"
-      (reference "R22") (unit 1) (value "22") (footprint "")
+      (reference "R22") (unit 1) (value "22Ω") (footprint "")
     )
     (path "/85e729e3-96be-4fe1-8753-abec14de71c9/693910aa-7c08-4422-b528-bf230968f6e7"
-      (reference "R23") (unit 1) (value "22") (footprint "")
+      (reference "R23") (unit 1) (value "22Ω") (footprint "")
     )
     (path "/85e729e3-96be-4fe1-8753-abec14de71c9/95eab545-eb08-4e1d-a472-18860851138d"
-      (reference "R24") (unit 1) (value "22") (footprint "")
+      (reference "R24") (unit 1) (value "22Ω") (footprint "")
     )
     (path "/85e729e3-96be-4fe1-8753-abec14de71c9/8c03b9c9-f3f8-4903-8845-79ca929950d6"
-      (reference "R25") (unit 1) (value "22") (footprint "")
+      (reference "R25") (unit 1) (value "22Ω") (footprint "")
     )
     (path "/85e729e3-96be-4fe1-8753-abec14de71c9/0a0f5602-56d3-4404-8304-8533fa3772a2"
-      (reference "R26") (unit 1) (value "22") (footprint "")
+      (reference "R26") (unit 1) (value "22Ω") (footprint "")
     )
     (path "/85e729e3-96be-4fe1-8753-abec14de71c9/43ca2578-843c-47d6-9d72-f8abfaa85159"
-      (reference "R27") (unit 1) (value "22") (footprint "")
+      (reference "R27") (unit 1) (value "22Ω") (footprint "")
     )
     (path "/a671da63-c188-4632-b677-2f60c419618b/57ea8965-982f-4bc2-b33b-0da79a156617"
-      (reference "R28") (unit 1) (value "10K") (footprint "")
+      (reference "R28") (unit 1) (value "10KΩ") (footprint "")
     )
     (path "/a671da63-c188-4632-b677-2f60c419618b/f8a7d360-5a01-461b-aaf3-464531095966"
-      (reference "R29") (unit 1) (value "47") (footprint "")
+      (reference "R29") (unit 1) (value "47Ω") (footprint "")
     )
     (path "/3cfae109-7808-4780-b2af-d719568614ca/b7f4dc44-1535-44e8-87c0-fe10798ee9de"
-      (reference "R30") (unit 1) (value "4.7K") (footprint "")
+      (reference "R30") (unit 1) (value "4.7KΩ") (footprint "")
     )
     (path "/c9473d33-e182-4f58-9f81-09857979aeb6/87339c6c-190f-4f6d-ab9d-393897452a5a"
-      (reference "R31") (unit 1) (value "4.7K") (footprint "")
+      (reference "R31") (unit 1) (value "4.7KΩ") (footprint "")
     )
     (path "/c9473d33-e182-4f58-9f81-09857979aeb6/e4b97727-52dd-4a4a-9c38-fe683fc10284"
-      (reference "R32") (unit 1) (value "1K") (footprint "")
+      (reference "R32") (unit 1) (value "1KΩ") (footprint "")
     )
     (path "/c9473d33-e182-4f58-9f81-09857979aeb6/75772ee4-56b1-446a-974c-aa3378aba092"
-      (reference "R33") (unit 1) (value "3.9") (footprint "")
+      (reference "R33") (unit 1) (value "3.9Ω") (footprint "")
     )
     (path "/c9473d33-e182-4f58-9f81-09857979aeb6/76523613-58a8-4c9a-803a-5011e3544536"
-      (reference "R34") (unit 1) (value "3.9") (footprint "")
+      (reference "R34") (unit 1) (value "3.9Ω") (footprint "")
     )
     (path "/c9473d33-e182-4f58-9f81-09857979aeb6/f11491f2-4bfb-4867-9bc4-558d4800665c"
-      (reference "R35") (unit 1) (value "1K") (footprint "")
+      (reference "R35") (unit 1) (value "1KΩ") (footprint "")
     )
     (path "/c9473d33-e182-4f58-9f81-09857979aeb6/03746031-b62a-4472-8ff7-47b144a6ba92"
-      (reference "R36") (unit 1) (value "1K") (footprint "")
+      (reference "R36") (unit 1) (value "1KΩ") (footprint "")
     )
     (path "/c9473d33-e182-4f58-9f81-09857979aeb6/3ec13c3b-2c92-4333-8c5a-9b4a4b279f95"
-      (reference "R37") (unit 1) (value "1K") (footprint "")
+      (reference "R37") (unit 1) (value "1KΩ") (footprint "")
     )
     (path "/c9473d33-e182-4f58-9f81-09857979aeb6/4f528115-d7bc-431c-99c9-fdeba918b14e"
-      (reference "R38") (unit 1) (value "1K") (footprint "")
+      (reference "R38") (unit 1) (value "1KΩ") (footprint "")
     )
     (path "/c9473d33-e182-4f58-9f81-09857979aeb6/881d9627-1fe9-4389-a5b0-5a79ae5bafe2"
-      (reference "R39") (unit 1) (value "4.7K") (footprint "")
+      (reference "R39") (unit 1) (value "4.7KΩ") (footprint "")
     )
     (path "/c9473d33-e182-4f58-9f81-09857979aeb6/8731b0e1-7bc5-46fe-9ff6-38ed409aefa3"
-      (reference "R40") (unit 1) (value "4.7K") (footprint "")
+      (reference "R40") (unit 1) (value "4.7KΩ") (footprint "")
     )
     (path "/c9473d33-e182-4f58-9f81-09857979aeb6/accded7b-c213-4d47-92a5-d25c4d094008"
-      (reference "R41") (unit 1) (value "4.7K") (footprint "")
+      (reference "R41") (unit 1) (value "4.7KΩ") (footprint "")
     )
     (path "/c9473d33-e182-4f58-9f81-09857979aeb6/5d03b48c-e965-4dca-b2e1-d8c37f297e1b"
-      (reference "R42") (unit 1) (value "4.7K") (footprint "")
+      (reference "R42") (unit 1) (value "4.7KΩ") (footprint "")
     )
     (path "/c9473d33-e182-4f58-9f81-09857979aeb6/00075e42-b1ad-4b31-b9de-0ba681a47241"
-      (reference "R45") (unit 1) (value "10K") (footprint "")
+      (reference "R45") (unit 1) (value "10KΩ") (footprint "")
     )
     (path "/c9473d33-e182-4f58-9f81-09857979aeb6/60e6f5eb-a22f-4761-a792-88268710c31d"
-      (reference "R46") (unit 1) (value "10K") (footprint "")
+      (reference "R46") (unit 1) (value "10KΩ") (footprint "")
     )
     (path "/c9473d33-e182-4f58-9f81-09857979aeb6/529c7b8e-0da8-4dd4-96bd-6ba7ff31c17f"
-      (reference "R47") (unit 1) (value "68K") (footprint "")
+      (reference "R47") (unit 1) (value "68KΩ") (footprint "")
     )
     (path "/c9473d33-e182-4f58-9f81-09857979aeb6/ae73d620-933d-41a0-afe9-0550c7de3ef4"
-      (reference "R48") (unit 1) (value "4.7K") (footprint "")
+      (reference "R48") (unit 1) (value "4.7KΩ") (footprint "")
     )
     (path "/c9473d33-e182-4f58-9f81-09857979aeb6/f7a43f25-da90-4416-9fd5-3d08476e1f27"
-      (reference "R49") (unit 1) (value "4.7K") (footprint "")
+      (reference "R49") (unit 1) (value "4.7KΩ") (footprint "")
     )
     (path "/781c624d-8d97-4a0b-a978-70b607a101af/16d599ff-2d2c-46a6-aef0-566aa64eba9c"
-      (reference "R50") (unit 1) (value "2.2K") (footprint "")
+      (reference "R50") (unit 1) (value "2.2KΩ") (footprint "")
     )
     (path "/781c624d-8d97-4a0b-a978-70b607a101af/1406fe9c-fbec-4ad0-9866-381405c8635d"
-      (reference "R51") (unit 1) (value "2.2K") (footprint "")
+      (reference "R51") (unit 1) (value "2.2KΩ") (footprint "")
     )
     (path "/781c624d-8d97-4a0b-a978-70b607a101af/91cb4c5c-e2dc-4009-beec-1fd1c749b80e"
-      (reference "R52") (unit 1) (value "2.2K") (footprint "")
+      (reference "R52") (unit 1) (value "2.2KΩ") (footprint "")
     )
     (path "/781c624d-8d97-4a0b-a978-70b607a101af/891be99f-bf08-4f83-9782-fc570c2331ba"
-      (reference "R53") (unit 1) (value "27K") (footprint "")
+      (reference "R53") (unit 1) (value "27KΩ") (footprint "")
     )
     (path "/781c624d-8d97-4a0b-a978-70b607a101af/84eda148-a6fe-4472-b0eb-25fa36e88b10"
-      (reference "R54") (unit 1) (value "1K") (footprint "")
+      (reference "R54") (unit 1) (value "1KΩ") (footprint "")
     )
     (path "/781c624d-8d97-4a0b-a978-70b607a101af/703829ac-99ad-42e5-aa39-087ac18a0c6f"
-      (reference "R55") (unit 1) (value "1K") (footprint "")
+      (reference "R55") (unit 1) (value "1KΩ") (footprint "")
     )
     (path "/781c624d-8d97-4a0b-a978-70b607a101af/79129903-9174-483e-a95b-69adc5c30f27"
-      (reference "R56") (unit 1) (value "820") (footprint "")
+      (reference "R56") (unit 1) (value "820Ω") (footprint "")
     )
     (path "/781c624d-8d97-4a0b-a978-70b607a101af/efdd9dd7-7585-4ae9-ae9f-9abf37d69ca0"
-      (reference "R57") (unit 1) (value "10K") (footprint "")
+      (reference "R57") (unit 1) (value "10KΩ") (footprint "")
     )
     (path "/781c624d-8d97-4a0b-a978-70b607a101af/2a650fda-95fe-4a93-9fb4-b1f5668e7bfa"
-      (reference "R58") (unit 1) (value "6.8K") (footprint "")
+      (reference "R58") (unit 1) (value "6.8KΩ") (footprint "")
     )
     (path "/781c624d-8d97-4a0b-a978-70b607a101af/265c4c60-ffed-4e3e-ba19-d7e23f3c0c02"
-      (reference "R59") (unit 1) (value "6.8K") (footprint "")
+      (reference "R59") (unit 1) (value "6.8KΩ") (footprint "")
     )
     (path "/781c624d-8d97-4a0b-a978-70b607a101af/9ad22f67-6feb-49fa-8f4c-7274bf02d4a1"
-      (reference "R60") (unit 1) (value "6.8K") (footprint "")
+      (reference "R60") (unit 1) (value "6.8KΩ") (footprint "")
     )
     (path "/781c624d-8d97-4a0b-a978-70b607a101af/51bf8061-1ea3-4c2a-ac4a-6cb037a49044"
-      (reference "R61") (unit 1) (value "68") (footprint "")
+      (reference "R61") (unit 1) (value "68Ω") (footprint "")
     )
     (path "/781c624d-8d97-4a0b-a978-70b607a101af/08b40868-164d-40e2-abc8-4b28b38f61ad"
-      (reference "R62") (unit 1) (value "68") (footprint "")
+      (reference "R62") (unit 1) (value "68Ω") (footprint "")
     )
     (path "/781c624d-8d97-4a0b-a978-70b607a101af/1e96d147-53cf-4b21-a1e4-4ec38a3152b3"
-      (reference "R63") (unit 1) (value "68") (footprint "")
+      (reference "R63") (unit 1) (value "68Ω") (footprint "")
     )
     (path "/781c624d-8d97-4a0b-a978-70b607a101af/27cfa54f-8ad3-4ac2-9964-f30d34c6d510"
-      (reference "R64") (unit 1) (value "68") (footprint "")
+      (reference "R64") (unit 1) (value "68Ω") (footprint "")
     )
     (path "/781c624d-8d97-4a0b-a978-70b607a101af/ff0cda1a-9064-41e3-9f7a-3260ad508bff"
-      (reference "R65") (unit 1) (value "68") (footprint "")
+      (reference "R65") (unit 1) (value "68Ω") (footprint "")
     )
     (path "/781c624d-8d97-4a0b-a978-70b607a101af/8d563e59-2e25-425a-ba93-40f030e8b734"
-      (reference "R66") (unit 1) (value "470") (footprint "")
+      (reference "R66") (unit 1) (value "470Ω") (footprint "")
     )
     (path "/395516b4-de87-4f49-9253-15d185c97222/74e8355d-0285-4efd-a8cf-a91ce3966790"
-      (reference "R67") (unit 1) (value "10K") (footprint "")
+      (reference "R67") (unit 1) (value "10KΩ") (footprint "")
     )
     (path "/2a5ccfb4-5e07-49ca-a83b-8f2b8b902202/1dacf2c4-7e58-4737-9519-84849204d8e9"
-      (reference "R68") (unit 1) (value "22k") (footprint "")
+      (reference "R68") (unit 1) (value "22KΩ") (footprint "")
     )
     (path "/2a5ccfb4-5e07-49ca-a83b-8f2b8b902202/83f3d22e-d745-416a-b9c1-f1101f1bdf18"
-      (reference "R69") (unit 1) (value "100k") (footprint "")
+      (reference "R69") (unit 1) (value "100KΩ") (footprint "")
     )
     (path "/2a5ccfb4-5e07-49ca-a83b-8f2b8b902202/c955fbf0-b193-4bc5-9b3f-da57402881e6"
-      (reference "R70") (unit 1) (value "1M") (footprint "")
+      (reference "R70") (unit 1) (value "1MΩ") (footprint "")
     )
     (path "/2a5ccfb4-5e07-49ca-a83b-8f2b8b902202/754ef409-7f1f-44b1-acb1-c414cb24837b"
-      (reference "R71") (unit 1) (value "3.3k") (footprint "")
+      (reference "R71") (unit 1) (value "3.3KΩ") (footprint "")
     )
     (path "/2a5ccfb4-5e07-49ca-a83b-8f2b8b902202/292c2d01-5392-42ee-84b7-8ca5ad81a4d8"
-      (reference "R72") (unit 1) (value "1M") (footprint "")
+      (reference "R72") (unit 1) (value "1MΩ") (footprint "")
     )
     (path "/2a5ccfb4-5e07-49ca-a83b-8f2b8b902202/182151e1-4bbb-4914-b972-4c62d997854f"
-      (reference "R73") (unit 1) (value "10") (footprint "")
+      (reference "R73") (unit 1) (value "10Ω") (footprint "")
     )
     (path "/2a5ccfb4-5e07-49ca-a83b-8f2b8b902202/cae325ea-6a15-4d51-bba4-b89279384378"
-      (reference "R74") (unit 1) (value "220k") (footprint "")
+      (reference "R74") (unit 1) (value "220Ω") (footprint "")
     )
     (path "/781c624d-8d97-4a0b-a978-70b607a101af/d9c3a3b6-d3f2-4844-812f-1f8dfdee53d3"
-      (reference "R75") (unit 1) (value "3.3K") (footprint "")
+      (reference "R75") (unit 1) (value "3.3Ω") (footprint "")
     )
     (path "/a671da63-c188-4632-b677-2f60c419618b/ddedc9dc-8d8b-4090-8d89-4abb67c00de6"
       (reference "R5814") (unit 1) (value "0") (footprint "")
@@ -1722,7 +1722,7 @@
       (reference "R5863") (unit 1) (value "0") (footprint "")
     )
     (path "/abf92dea-d97d-4ab6-a8b1-0d15ffdbb24b/1201e3e6-744e-4de0-abbd-60d8ff96abe2"
-      (reference "RA1") (unit 1) (value "4.7K") (footprint "Resistor_THT:R_Array_SIP5")
+      (reference "RA1") (unit 1) (value "4.7KΩ") (footprint "Resistor_THT:R_Array_SIP5")
     )
     (path "/a671da63-c188-4632-b677-2f60c419618b/2dd69eb2-295c-4640-a5b0-08b245fbc521"
       (reference "SW1") (unit 1) (value "RESET SWITCH") (footprint "")

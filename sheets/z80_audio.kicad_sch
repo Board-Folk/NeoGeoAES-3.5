@@ -2276,7 +2276,7 @@
     (property "Reference" "R30" (id 0) (at 140.208 48.5139 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "4.7K" (id 1) (at 140.208 51.0539 0)
+    (property "Value" "4.7KΩ" (id 1) (at 140.208 51.0539 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (id 2) (at 138.684 49.784 0)
