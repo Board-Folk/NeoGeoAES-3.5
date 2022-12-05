@@ -1869,7 +1869,7 @@
       (reference "U23") (unit 1) (value "HM6116ASP-20") (footprint "Package_DIP:DIP-28_W15.24mm")
     )
     (path "/3cfae109-7808-4780-b2af-d719568614ca/c6fc8d4f-f23f-48a5-bf79-a4ea422b4e17"
-      (reference "U24") (unit 1) (value "Z80CPU") (footprint "Package_DIP:DIP-40_W7.62mm")
+      (reference "U24") (unit 1) (value "Z80CPU") (footprint "Package_DIP:DIP-40_W15.24mm")
     )
     (path "/c9473d33-e182-4f58-9f81-09857979aeb6/036d0e59-b139-44ec-bf44-63aaba51cced"
       (reference "U25") (unit 1) (value "NJM2016D") (footprint "Package_DIP:DIP-16_W7.62mm")
