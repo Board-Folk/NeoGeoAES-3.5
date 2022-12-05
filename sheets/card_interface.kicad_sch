@@ -2118,7 +2118,7 @@
   (symbol (lib_id "74xx:74HC04") (at 121.285 143.51 0) (unit 3)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid b56638df-a3e9-4646-ab64-7cb3af337f53)
-    (property "Reference" "U8" (id 0) (at 121.285 134.62 0))
+    (property "Reference" "U80" (id 0) (at 121.285 134.62 0))
     (property "Value" "74HC04" (id 1) (at 121.285 137.16 0))
     (property "Footprint" "Package_DIP:DIP-14_W7.62mm" (id 2) (at 121.285 143.51 0)
       (effects (font (size 1.27 1.27)) hide)
