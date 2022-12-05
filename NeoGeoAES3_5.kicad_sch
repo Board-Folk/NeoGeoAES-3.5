@@ -1770,7 +1770,7 @@
       (reference "U8") (unit 4) (value "74HC04") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/2a5ccfb4-5e07-49ca-a83b-8f2b8b902202/344886d8-a869-4352-87f6-3addc12d8c7b"
-      (reference "U8") (unit 5) (value "74HC04") (footprint "")
+      (reference "U8") (unit 5) (value "74HC04") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/2a5ccfb4-5e07-49ca-a83b-8f2b8b902202/c334bb98-30bb-4a9f-9fa8-b521ba6e1f17"
       (reference "U8") (unit 6) (value "74HC04") (footprint "Package_DIP:DIP-14_W7.62mm")
