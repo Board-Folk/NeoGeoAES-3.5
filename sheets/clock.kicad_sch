@@ -1430,7 +1430,7 @@
     (uuid 344886d8-a869-4352-87f6-3addc12d8c7b)
     (property "Reference" "U8" (id 0) (at 311.912 110.49 0))
     (property "Value" "74HC04" (id 1) (at 313.436 119.888 0))
-    (property "Footprint" "" (id 2) (at 312.166 115.316 0)
+    (property "Footprint" "Package_DIP:DIP-14_W7.62mm" (id 2) (at 312.166 115.316 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" (id 3) (at 312.166 115.316 0)
