@@ -1133,6 +1133,12 @@
     (path "/a671da63-c188-4632-b677-2f60c419618b/5f74da81-735f-4f17-813a-56bb8cb7db2e"
       (reference "#PWR0263") (unit 1) (value "GND") (footprint "")
     )
+    (path "/395516b4-de87-4f49-9253-15d185c97222/26d2612c-316b-4a9b-8ac4-37fa5b911493"
+      (reference "#PWR0264") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/395516b4-de87-4f49-9253-15d185c97222/58c3af86-1d0a-4a1a-bd69-a89b2fe4f3c9"
+      (reference "#PWR0265") (unit 1) (value "VCC") (footprint "")
+    )
     (path "/85e729e3-96be-4fe1-8753-abec14de71c9/0ba6dbc2-2919-476c-ac0c-427268e07602"
       (reference "BF1") (unit 1) (value "ZBF253D") (footprint "1_NeoGeoLibrary:BF-2.5mm")
     )
@@ -1423,6 +1429,54 @@
     )
     (path "/2a5ccfb4-5e07-49ca-a83b-8f2b8b902202/d60577da-ac52-4bc6-b363-a41b5ac5e603"
       (reference "C65") (unit 1) (value "30pF(CH)    (100pF(CH))") (footprint "1_NeoGeoLibrary:CAP1-5mm")
+    )
+    (path "/395516b4-de87-4f49-9253-15d185c97222/c35de2b3-9994-41e0-b12d-ccbd7fc16830"
+      (reference "C101") (unit 1) (value "100nF") (footprint "1_NeoGeoLibrary:CAP3-5mm")
+    )
+    (path "/395516b4-de87-4f49-9253-15d185c97222/ab175f70-231a-4308-aa9a-4da3aa055a8f"
+      (reference "C102") (unit 1) (value "100nF") (footprint "1_NeoGeoLibrary:CAP3-5mm")
+    )
+    (path "/395516b4-de87-4f49-9253-15d185c97222/0e9e0e10-de5d-468c-b425-5e50fb38724f"
+      (reference "C103") (unit 1) (value "100nF") (footprint "1_NeoGeoLibrary:CAP3-5mm")
+    )
+    (path "/395516b4-de87-4f49-9253-15d185c97222/38eda392-c3ce-44c6-a554-1e02412a7723"
+      (reference "C104") (unit 1) (value "100nF") (footprint "1_NeoGeoLibrary:CAP3-5mm")
+    )
+    (path "/395516b4-de87-4f49-9253-15d185c97222/70c73c74-4381-4f4c-8038-c796fb32ba60"
+      (reference "C105") (unit 1) (value "100nF") (footprint "1_NeoGeoLibrary:CAP3-5mm")
+    )
+    (path "/395516b4-de87-4f49-9253-15d185c97222/c7e9e042-cd8c-4e01-bf99-f620a03fa99b"
+      (reference "C106") (unit 1) (value "100nF") (footprint "1_NeoGeoLibrary:CAP3-5mm")
+    )
+    (path "/395516b4-de87-4f49-9253-15d185c97222/39c2f683-01eb-4f56-b9cc-c43666c9c039"
+      (reference "C107") (unit 1) (value "100nF") (footprint "1_NeoGeoLibrary:CAP3-5mm")
+    )
+    (path "/395516b4-de87-4f49-9253-15d185c97222/ac9e96c6-e0f7-4d37-bce8-cca824d88e7d"
+      (reference "C108") (unit 1) (value "100nF") (footprint "1_NeoGeoLibrary:CAP3-5mm")
+    )
+    (path "/395516b4-de87-4f49-9253-15d185c97222/87ecedd6-48ab-4de8-91e9-dbdced00c214"
+      (reference "C109") (unit 1) (value "100nF") (footprint "1_NeoGeoLibrary:CAP3-5mm")
+    )
+    (path "/395516b4-de87-4f49-9253-15d185c97222/bb7fcb00-29b7-4168-a12a-a20a0ae1e770"
+      (reference "C110") (unit 1) (value "100nF") (footprint "1_NeoGeoLibrary:CAP3-5mm")
+    )
+    (path "/395516b4-de87-4f49-9253-15d185c97222/1d0e17a7-d6ad-4e55-8ad9-3e8315b23c82"
+      (reference "C111") (unit 1) (value "100nF") (footprint "1_NeoGeoLibrary:CAP3-5mm")
+    )
+    (path "/395516b4-de87-4f49-9253-15d185c97222/9cd01c50-f563-4e78-a984-d1faa0c3eaf1"
+      (reference "C112") (unit 1) (value "100nF") (footprint "1_NeoGeoLibrary:CAP3-5mm")
+    )
+    (path "/395516b4-de87-4f49-9253-15d185c97222/7440cb5c-65ba-4a13-a471-858c94efa60f"
+      (reference "C113") (unit 1) (value "100nF") (footprint "1_NeoGeoLibrary:CAP3-5mm")
+    )
+    (path "/395516b4-de87-4f49-9253-15d185c97222/e5fca7af-29f4-4f7e-9ebf-0daf2a075669"
+      (reference "C114") (unit 1) (value "100nF") (footprint "1_NeoGeoLibrary:CAP3-5mm")
+    )
+    (path "/395516b4-de87-4f49-9253-15d185c97222/3761fabc-b920-46c1-8cf8-a43f0d4411c1"
+      (reference "C115") (unit 1) (value "100nF") (footprint "1_NeoGeoLibrary:CAP3-5mm")
+    )
+    (path "/395516b4-de87-4f49-9253-15d185c97222/cd0aad3d-4470-40c5-a8fc-e114a9999cab"
+      (reference "C116") (unit 1) (value "100nF") (footprint "1_NeoGeoLibrary:CAP3-5mm")
     )
     (path "/85e729e3-96be-4fe1-8753-abec14de71c9/5d362477-53a7-4e39-9716-d822e5cbb066"
       (reference "CN1") (unit 1) (value "CTRL1") (footprint "Connector_Dsub:DSUB-15_Male_Horizontal_P2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset15.98mm")
