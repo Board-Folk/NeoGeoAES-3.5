@@ -589,9 +589,9 @@
       (effects (font (size 1.27 1.27)) (justify right))
       (uuid 8dbd1c5f-c803-4097-b663-88c3161624eb)
     )
-    (pin "SDD[0..15]" input (at 322.58 91.44 180)
+    (pin "SDD[0..7]" input (at 322.58 91.44 180)
       (effects (font (size 1.27 1.27)) (justify left))
-      (uuid bec35c9d-5c0e-41a8-a340-389b3246119c)
+      (uuid dd1d9fcb-8cc2-4a9a-b4fd-4482f6f865e0)
     )
   )
 

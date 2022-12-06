@@ -4922,7 +4922,7 @@
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 8d70b135-96d2-45a2-8571-8cdc7718e708)
   )
-  (hierarchical_label "SDD[0..15]" (shape input) (at 185.42 209.55 180)
+  (hierarchical_label "SDD[0..7]" (shape input) (at 185.42 209.55 180)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 930bdc77-aaa7-40b9-868a-8e330b259e5f)
   )
