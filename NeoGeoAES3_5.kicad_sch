@@ -1619,24 +1619,6 @@
     (path "/17d4dff8-1d4b-4fcd-9956-5ead09864ae3/0cb44d64-f630-4eeb-9445-2b944679d7c1"
       (reference "R21") (unit 1) (value "150Ω") (footprint "1_NeoGeoLibrary:Resistor1-5mm")
     )
-    (path "/85e729e3-96be-4fe1-8753-abec14de71c9/cf4b5c5f-3d1d-47ec-861f-3826ad27b8a7"
-      (reference "R22") (unit 1) (value "22Ω") (footprint "1_NeoGeoLibrary:Resistor1-5mm")
-    )
-    (path "/85e729e3-96be-4fe1-8753-abec14de71c9/693910aa-7c08-4422-b528-bf230968f6e7"
-      (reference "R23") (unit 1) (value "22Ω") (footprint "1_NeoGeoLibrary:Resistor1-5mm")
-    )
-    (path "/85e729e3-96be-4fe1-8753-abec14de71c9/95eab545-eb08-4e1d-a472-18860851138d"
-      (reference "R24") (unit 1) (value "22Ω") (footprint "1_NeoGeoLibrary:Resistor1-5mm")
-    )
-    (path "/85e729e3-96be-4fe1-8753-abec14de71c9/8c03b9c9-f3f8-4903-8845-79ca929950d6"
-      (reference "R25") (unit 1) (value "22Ω") (footprint "1_NeoGeoLibrary:Resistor1-5mm")
-    )
-    (path "/85e729e3-96be-4fe1-8753-abec14de71c9/0a0f5602-56d3-4404-8304-8533fa3772a2"
-      (reference "R26") (unit 1) (value "22Ω") (footprint "1_NeoGeoLibrary:Resistor1-5mm")
-    )
-    (path "/85e729e3-96be-4fe1-8753-abec14de71c9/43ca2578-843c-47d6-9d72-f8abfaa85159"
-      (reference "R27") (unit 1) (value "22Ω") (footprint "1_NeoGeoLibrary:Resistor1-5mm")
-    )
     (path "/a671da63-c188-4632-b677-2f60c419618b/57ea8965-982f-4bc2-b33b-0da79a156617"
       (reference "R28") (unit 1) (value "10KΩ") (footprint "1_NeoGeoLibrary:Resistor1-5mm")
     )
@@ -1783,6 +1765,30 @@
     )
     (path "/abf92dea-d97d-4ab6-a8b1-0d15ffdbb24b/1201e3e6-744e-4de0-abbd-60d8ff96abe2"
       (reference "RA1") (unit 1) (value "4.7KΩ") (footprint "Resistor_THT:R_Array_SIP5")
+    )
+    (path "/85e729e3-96be-4fe1-8753-abec14de71c9/1371d51c-d97e-42d6-a3af-2bf02840caa9"
+      (reference "RN1") (unit 1) (value "22Ω") (footprint "Resistor_THT:R_Array_SIP8")
+    )
+    (path "/85e729e3-96be-4fe1-8753-abec14de71c9/98d8f82a-e449-41f4-a38d-d5d93afd8808"
+      (reference "RN1") (unit 2) (value "22Ω") (footprint "Resistor_THT:R_Array_SIP8")
+    )
+    (path "/85e729e3-96be-4fe1-8753-abec14de71c9/6d5df0dc-19c7-4a22-ab33-da2eb992a4e7"
+      (reference "RN1") (unit 3) (value "22Ω") (footprint "Resistor_THT:R_Array_SIP8")
+    )
+    (path "/85e729e3-96be-4fe1-8753-abec14de71c9/6a88f9ac-6c16-4525-85c6-3a048ad577fa"
+      (reference "RN2") (unit 1) (value "22Ω") (footprint "Resistor_THT:R_Array_SIP8")
+    )
+    (path "/85e729e3-96be-4fe1-8753-abec14de71c9/d9d8aef6-9d08-4223-bbbd-20a97135b4b0"
+      (reference "RN2") (unit 2) (value "22Ω") (footprint "Resistor_THT:R_Array_SIP8")
+    )
+    (path "/85e729e3-96be-4fe1-8753-abec14de71c9/0c19fede-b951-475d-a5ef-58cb8f2efbd6"
+      (reference "RN2") (unit 3) (value "22Ω") (footprint "Resistor_THT:R_Array_SIP8")
+    )
+    (path "/395516b4-de87-4f49-9253-15d185c97222/e0825baa-89d9-4fc5-922b-6c8071b05c1e"
+      (reference "RN21") (unit 4) (value "22Ω") (footprint "Resistor_THT:R_Array_SIP8")
+    )
+    (path "/395516b4-de87-4f49-9253-15d185c97222/224642bb-5ad5-4c71-ae4c-f221f7f5a88a"
+      (reference "RN22") (unit 4) (value "22Ω") (footprint "Resistor_THT:R_Array_SIP8")
     )
     (path "/a671da63-c188-4632-b677-2f60c419618b/2dd69eb2-295c-4640-a5b0-08b245fbc521"
       (reference "SW1") (unit 1) (value "RESET SWITCH") (footprint "Button_Switch_THT:SW_Tactile_Straight_KSL0Axx1LFTR")
