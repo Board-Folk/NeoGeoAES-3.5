@@ -1775,6 +1775,9 @@
     (path "/85e729e3-96be-4fe1-8753-abec14de71c9/6d5df0dc-19c7-4a22-ab33-da2eb992a4e7"
       (reference "RN1") (unit 3) (value "22Ω") (footprint "Resistor_THT:R_Array_SIP8")
     )
+    (path "/395516b4-de87-4f49-9253-15d185c97222/e0825baa-89d9-4fc5-922b-6c8071b05c1e"
+      (reference "RN1") (unit 4) (value "22Ω") (footprint "Resistor_THT:R_Array_SIP8")
+    )
     (path "/85e729e3-96be-4fe1-8753-abec14de71c9/6a88f9ac-6c16-4525-85c6-3a048ad577fa"
       (reference "RN2") (unit 1) (value "22Ω") (footprint "Resistor_THT:R_Array_SIP8")
     )
@@ -1784,11 +1787,8 @@
     (path "/85e729e3-96be-4fe1-8753-abec14de71c9/0c19fede-b951-475d-a5ef-58cb8f2efbd6"
       (reference "RN2") (unit 3) (value "22Ω") (footprint "Resistor_THT:R_Array_SIP8")
     )
-    (path "/395516b4-de87-4f49-9253-15d185c97222/e0825baa-89d9-4fc5-922b-6c8071b05c1e"
-      (reference "RN21") (unit 4) (value "22Ω") (footprint "Resistor_THT:R_Array_SIP8")
-    )
     (path "/395516b4-de87-4f49-9253-15d185c97222/224642bb-5ad5-4c71-ae4c-f221f7f5a88a"
-      (reference "RN22") (unit 4) (value "22Ω") (footprint "Resistor_THT:R_Array_SIP8")
+      (reference "RN2") (unit 4) (value "22Ω") (footprint "Resistor_THT:R_Array_SIP8")
     )
     (path "/a671da63-c188-4632-b677-2f60c419618b/2dd69eb2-295c-4640-a5b0-08b245fbc521"
       (reference "SW1") (unit 1) (value "RESET SWITCH") (footprint "Button_Switch_THT:SW_Tactile_Straight_KSL0Axx1LFTR")
