@@ -1142,6 +1142,9 @@
     (path "/395516b4-de87-4f49-9253-15d185c97222/373bac46-2a4a-4a26-a4ca-0c3b83a1734f"
       (reference "#PWR0266") (unit 1) (value "GND") (footprint "")
     )
+    (path "/395516b4-de87-4f49-9253-15d185c97222/206db7a6-b964-44f4-8e5a-761190041187"
+      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
+    )
     (path "/85e729e3-96be-4fe1-8753-abec14de71c9/0ba6dbc2-2919-476c-ac0c-427268e07602"
       (reference "BF1") (unit 1) (value "ZBF253D") (footprint "1_NeoGeoLibrary:BF-2.5mm")
     )
@@ -1537,6 +1540,12 @@
     )
     (path "/395516b4-de87-4f49-9253-15d185c97222/035572c3-ef3e-4512-9d24-50a205c7bc1f"
       (reference "J4") (unit 1) (value "HEC0470-01-230") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm")
+    )
+    (path "/a671da63-c188-4632-b677-2f60c419618b/7349fbe6-5500-489c-b5af-9e4e5332d088"
+      (reference "JP3") (unit 1) (value "J3") (footprint "")
+    )
+    (path "/a671da63-c188-4632-b677-2f60c419618b/75d654e7-f7d2-4bf0-bf54-085bc0db4894"
+      (reference "JP4") (unit 1) (value "J4") (footprint "")
     )
     (path "/781c624d-8d97-4a0b-a978-70b607a101af/7d01ba83-beda-4719-883d-1d92edf05047"
       (reference "L1") (unit 1) (value "47uH") (footprint "1_NeoGeoLibrary:Resistor1-5mm")
