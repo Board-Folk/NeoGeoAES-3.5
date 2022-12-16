@@ -1542,7 +1542,7 @@
       (reference "J4") (unit 1) (value "HEC0470-01-230") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm")
     )
     (path "/a671da63-c188-4632-b677-2f60c419618b/7349fbe6-5500-489c-b5af-9e4e5332d088"
-      (reference "JP3") (unit 1) (value "J3") (footprint "Jumper:SolderJumper-2_P1.3mm_Closed_Pad1.0x1.5mm")
+      (reference "JP3") (unit 1) (value "J3") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm")
     )
     (path "/a671da63-c188-4632-b677-2f60c419618b/75d654e7-f7d2-4bf0-bf54-085bc0db4894"
       (reference "JP4") (unit 1) (value "J4") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm")
