@@ -1602,7 +1602,7 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 6caa6c50-d0f1-43df-9394-8358c9ca65a2)
   )
-  (wire (pts (xy 226.314 114.554) (xy 226.314 110.617))
+  (wire (pts (xy 226.314 110.617) (xy 226.314 114.681))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 6db668ea-2de8-469f-b046-78771a345dea)
   )
