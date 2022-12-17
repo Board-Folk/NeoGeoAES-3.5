@@ -1296,7 +1296,7 @@
       (reference "C19") (unit 1) (value "0.0022uF") (footprint "1_NeoGeoLibrary:CAP3-5mm")
     )
     (path "/c9473d33-e182-4f58-9f81-09857979aeb6/0a3b94ef-9bcd-40f2-bed8-549ea53d69f9"
-      (reference "C20") (unit 1) (value "4.7uF") (footprint "1_NeoGeoLibrary:CAP3-5mm")
+      (reference "C20") (unit 1) (value "4.7uF") (footprint "1_NeoGeoLibrary:CAP2-2.5mm")
     )
     (path "/c9473d33-e182-4f58-9f81-09857979aeb6/0b8b9bc2-46a5-4d9e-aa93-5557e2e6bb52"
       (reference "C21") (unit 1) (value "4.7uF") (footprint "1_NeoGeoLibrary:CAP3-5mm")
