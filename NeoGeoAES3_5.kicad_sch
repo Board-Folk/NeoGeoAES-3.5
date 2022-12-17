@@ -935,14 +935,14 @@
     (path "/c9473d33-e182-4f58-9f81-09857979aeb6/c90553aa-6338-41a3-9a29-fa4558789e54"
       (reference "#PWR0197") (unit 1) (value "GND") (footprint "")
     )
-    (path "/c9473d33-e182-4f58-9f81-09857979aeb6/27ab4b6c-4876-4b86-afa2-b12bf192358a"
-      (reference "#PWR0198") (unit 1) (value "GND") (footprint "")
-    )
     (path "/c9473d33-e182-4f58-9f81-09857979aeb6/93356826-a9db-4507-b087-9a9d78535927"
       (reference "#PWR0199") (unit 1) (value "GND") (footprint "")
     )
     (path "/c9473d33-e182-4f58-9f81-09857979aeb6/467f8b03-0f45-4556-9f9d-f3d2d23f0289"
       (reference "#PWR0200") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/c9473d33-e182-4f58-9f81-09857979aeb6/d0a70339-2061-4ca3-adc2-0c066796ae5d"
+      (reference "#PWR0202") (unit 1) (value "GND") (footprint "")
     )
     (path "/c9473d33-e182-4f58-9f81-09857979aeb6/ec2445fa-b963-4f42-b1b3-5ebf857ab2ec"
       (reference "#PWR0203") (unit 1) (value "GND") (footprint "")
@@ -1279,12 +1279,6 @@
     )
     (path "/c9473d33-e182-4f58-9f81-09857979aeb6/ceba27cf-4d3d-483c-807d-67305c006abb"
       (reference "C15") (unit 1) (value "4.7uF") (footprint "1_NeoGeoLibrary:CAP3-5mm")
-    )
-    (path "/c9473d33-e182-4f58-9f81-09857979aeb6/5640f002-88e4-47a9-b67c-c4690b02db33"
-      (reference "C16") (unit 1) (value "0.0027uF") (footprint "1_NeoGeoLibrary:CAP3-5mm")
-    )
-    (path "/c9473d33-e182-4f58-9f81-09857979aeb6/3436f59d-8407-48fc-860c-369474fad210"
-      (reference "C17") (unit 1) (value "0.0022uF") (footprint "1_NeoGeoLibrary:CAP3-5mm")
     )
     (path "/c9473d33-e182-4f58-9f81-09857979aeb6/d53247fc-f086-4412-9631-2fdc78bd6927"
       (reference "C18") (unit 1) (value "0.0027uF") (footprint "1_NeoGeoLibrary:CAP3-5mm")
