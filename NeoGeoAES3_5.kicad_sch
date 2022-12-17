@@ -1482,7 +1482,7 @@
       (reference "C201") (unit 1) (value "100nF") (footprint "1_NeoGeoLibrary:CAP3-5mm")
     )
     (path "/c9473d33-e182-4f58-9f81-09857979aeb6/9f78e0bb-9367-43e1-9c80-af00978356e0"
-      (reference "C201") (unit 1) (value "10uF") (footprint "1_NeoGeoLibrary:CAP1-5mm")
+      (reference "C301") (unit 1) (value "10uF") (footprint "1_NeoGeoLibrary:CAP1-5mm")
     )
     (path "/85e729e3-96be-4fe1-8753-abec14de71c9/5d362477-53a7-4e39-9716-d822e5cbb066"
       (reference "CN1") (unit 1) (value "CTRL1") (footprint "Connector_Dsub:DSUB-15_Male_Horizontal_P2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset15.98mm")
@@ -1764,7 +1764,7 @@
       (reference "R75") (unit 1) (value "3.3Ω") (footprint "1_NeoGeoLibrary:Resistor1-5mm")
     )
     (path "/c9473d33-e182-4f58-9f81-09857979aeb6/efa57a88-8247-4722-9594-c5a8b609e7b1"
-      (reference "R201") (unit 1) (value "1KΩ") (footprint "1_NeoGeoLibrary:Resistor1-5mm")
+      (reference "R301") (unit 1) (value "1KΩ") (footprint "1_NeoGeoLibrary:Resistor1-5mm")
     )
     (path "/a671da63-c188-4632-b677-2f60c419618b/ddedc9dc-8d8b-4090-8d89-4abb67c00de6"
       (reference "R5814") (unit 1) (value "0") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Vertical")
