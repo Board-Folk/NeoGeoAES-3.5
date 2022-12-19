@@ -2445,7 +2445,7 @@
     (uuid f7903d01-3155-4744-a4eb-ddf8089fd203)
     (property "Reference" "U34" (id 0) (at 245.491 76.454 0))
     (property "Value" "NEO-E0" (id 1) (at 253.746 170.434 0))
-    (property "Footprint" "Package_LCC:PLCC-84" (id 2) (at 253.746 136.144 0)
+    (property "Footprint" "1_NeoGeoLibrary:NEO-G0" (id 2) (at 253.746 136.144 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 253.746 136.144 0)
