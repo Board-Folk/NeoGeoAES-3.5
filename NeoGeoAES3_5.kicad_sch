@@ -1382,9 +1382,6 @@
     (path "/781c624d-8d97-4a0b-a978-70b607a101af/ce640540-5fa0-4916-bc35-94c65f67188e"
       (reference "C39") (unit 1) (value "100uF/6.3v") (footprint "1_NeoGeoLibrary:CAP3-5mm")
     )
-    (path "/781c624d-8d97-4a0b-a978-70b607a101af/e0430f53-7925-45a0-bd6d-bf1f457315d0"
-      (reference "C40") (unit 1) (value "100uF/6.3v") (footprint "1_NeoGeoLibrary:CAP3-5mm")
-    )
     (path "/781c624d-8d97-4a0b-a978-70b607a101af/0c856041-0ae8-4d74-b20d-bd6d17496dd3"
       (reference "C41") (unit 1) (value "10uF") (footprint "1_NeoGeoLibrary:CAP1-5mm")
     )
@@ -1858,9 +1855,6 @@
     )
     (path "/781c624d-8d97-4a0b-a978-70b607a101af/9ad22f67-6feb-49fa-8f4c-7274bf02d4a1"
       (reference "R60") (unit 1) (value "6.8KΩ") (footprint "1_NeoGeoLibrary:Resistor1-5mm")
-    )
-    (path "/781c624d-8d97-4a0b-a978-70b607a101af/51bf8061-1ea3-4c2a-ac4a-6cb037a49044"
-      (reference "R61") (unit 1) (value "68Ω") (footprint "1_NeoGeoLibrary:Resistor1-5mm")
     )
     (path "/781c624d-8d97-4a0b-a978-70b607a101af/08b40868-164d-40e2-abc8-4b28b38f61ad"
       (reference "R62") (unit 1) (value "68Ω") (footprint "1_NeoGeoLibrary:Resistor1-5mm")
