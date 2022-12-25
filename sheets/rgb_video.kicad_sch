@@ -1362,7 +1362,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 7f5e1e8a-434d-4740-b2d9-1374d70d77dc)
   )
-  (label "SYNC" (at 308.61 96.774 0)
+  (label "CSYNC" (at 308.61 96.774 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 95d4c288-cd43-42b4-8656-552cb31b25ab)
   )
