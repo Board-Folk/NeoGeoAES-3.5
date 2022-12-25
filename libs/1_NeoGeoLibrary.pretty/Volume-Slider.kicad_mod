@@ -1,4 +1,4 @@
-(footprint "Volume Slider" (version 20221018) (generator pcbnew)
+(footprint "Volume-Slider" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (property "Sheetfile" "sheets/ym2610_audio.kicad_sch")
   (property "Sheetname" "YM2610 AUDIO")
