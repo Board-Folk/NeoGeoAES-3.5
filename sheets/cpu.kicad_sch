@@ -4167,7 +4167,7 @@
     (uuid 1a9e67bf-d675-46dd-8c25-c5f44436e62c)
     (property "Reference" "J1" (id 0) (at 49.022 151.638 0))
     (property "Value" "BEER" (id 1) (at 49.022 156.718 0))
-    (property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm" (id 2) (at 49.022 154.178 0)
+    (property "Footprint" "1_NeoGeoLibrary:J2" (id 2) (at 49.022 154.178 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 49.022 154.178 0)
