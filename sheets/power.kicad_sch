@@ -3546,7 +3546,7 @@
     (property "Value" "100nF" (id 1) (at 142.24 130.81 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "1_NeoGeoLibrary:CAP3-5mm" (id 2) (at 140.335 129.54 0)
+    (property "Footprint" "1_NeoGeoLibrary:CAP2-2.5mm" (id 2) (at 140.335 129.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 140.335 129.54 0)
