@@ -1160,6 +1160,9 @@
     (path "/395516b4-de87-4f49-9253-15d185c97222/e3bb168b-5a17-42f8-a586-b65529453f84"
       (reference "#PWR0272") (unit 1) (value "VCC") (footprint "")
     )
+    (path "/2a5ccfb4-5e07-49ca-a83b-8f2b8b902202/ae71e1b6-dc83-47e8-8e2a-079d13027a1b"
+      (reference "#PWR0273") (unit 1) (value "GND") (footprint "")
+    )
     (path "/85e729e3-96be-4fe1-8753-abec14de71c9/0ba6dbc2-2919-476c-ac0c-427268e07602"
       (reference "BF1") (unit 1) (value "ZBF253D") (footprint "1_NeoGeoLibrary:BF-2.5mm")
     )
@@ -1410,7 +1413,7 @@
       (reference "C49") (unit 1) (value "1uF") (footprint "1_NeoGeoLibrary:CAP1-5mm")
     )
     (path "/2a5ccfb4-5e07-49ca-a83b-8f2b8b902202/caf0f69c-dbf9-464e-994b-a6cb2c461912"
-      (reference "C50") (unit 1) (value "1000pF") (footprint "1_NeoGeoLibrary:CAP1-5mm")
+      (reference "C50") (unit 1) (value "0.1uF") (footprint "1_NeoGeoLibrary:CAP1-5mm")
     )
     (path "/2a5ccfb4-5e07-49ca-a83b-8f2b8b902202/432d511a-f5fb-44d6-ba38-475f8fce9c33"
       (reference "C51") (unit 1) (value "0.1uF") (footprint "1_NeoGeoLibrary:CAP1-5mm")
@@ -1419,7 +1422,7 @@
       (reference "C52") (unit 1) (value "30pF(CH)") (footprint "1_NeoGeoLibrary:CAP1-5mm")
     )
     (path "/2a5ccfb4-5e07-49ca-a83b-8f2b8b902202/e2c0c283-fa62-4166-93e8-489fa9e02d78"
-      (reference "C53") (unit 1) (value "100pF(CH)") (footprint "1_NeoGeoLibrary:CAP1-5mm")
+      (reference "C53") (unit 1) (value "30pF") (footprint "1_NeoGeoLibrary:CAP1-5mm")
     )
     (path "/2a5ccfb4-5e07-49ca-a83b-8f2b8b902202/c7dd401f-5159-47d2-8eb9-7e9b854ed873"
       (reference "C54") (unit 1) (value "30pF(CH)") (footprint "1_NeoGeoLibrary:CAP1-5mm")
@@ -1459,6 +1462,9 @@
     )
     (path "/781c624d-8d97-4a0b-a978-70b607a101af/43380b65-d8d2-4335-a1e9-9e7ab3f4d850"
       (reference "C66") (unit 1) (value "1nF") (footprint "1_NeoGeoLibrary:CAP1-5mm")
+    )
+    (path "/2a5ccfb4-5e07-49ca-a83b-8f2b8b902202/98250d91-752e-48b8-afd5-ea28e0d57ec8"
+      (reference "C70") (unit 1) (value "0.1uF") (footprint "1_NeoGeoLibrary:CAP1-5mm")
     )
     (path "/395516b4-de87-4f49-9253-15d185c97222/c35de2b3-9994-41e0-b12d-ccbd7fc16830"
       (reference "C101") (unit 1) (value "100nF") (footprint "1_NeoGeoLibrary:CAP3-5mm")
@@ -1656,7 +1662,10 @@
       (reference "D2") (unit 1) (value "SR340") (footprint "Diode_THT:D_A-405_P10.16mm_Horizontal")
     )
     (path "/2a5ccfb4-5e07-49ca-a83b-8f2b8b902202/cab354b0-222d-40fc-a8de-7731e4b701d3"
-      (reference "D3") (unit 1) (value "FC52M-5") (footprint "Diode_THT:D_A-405_P10.16mm_Horizontal")
+      (reference "D3") (unit 1) (value "FC52M-5") (footprint "Package_TO_SOT_THT:SOD-70_P2.54mm")
+    )
+    (path "/2a5ccfb4-5e07-49ca-a83b-8f2b8b902202/a32454f5-9f56-431f-aae0-2e076df34a43"
+      (reference "D4") (unit 1) (value "FC52M-5") (footprint "Package_TO_SOT_THT:SOD-70_P2.54mm")
     )
     (path "/abf92dea-d97d-4ab6-a8b1-0d15ffdbb24b/1a9e67bf-d675-46dd-8c25-c5f44436e62c"
       (reference "J1") (unit 1) (value "BEER") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm")
@@ -1889,14 +1898,17 @@
     (path "/2a5ccfb4-5e07-49ca-a83b-8f2b8b902202/292c2d01-5392-42ee-84b7-8ca5ad81a4d8"
       (reference "R72") (unit 1) (value "1MΩ") (footprint "1_NeoGeoLibrary:Resistor1-5mm")
     )
-    (path "/2a5ccfb4-5e07-49ca-a83b-8f2b8b902202/182151e1-4bbb-4914-b972-4c62d997854f"
-      (reference "R73") (unit 1) (value "10Ω") (footprint "1_NeoGeoLibrary:Resistor1-5mm")
-    )
     (path "/2a5ccfb4-5e07-49ca-a83b-8f2b8b902202/cae325ea-6a15-4d51-bba4-b89279384378"
       (reference "R74") (unit 1) (value "220Ω") (footprint "1_NeoGeoLibrary:Resistor1-5mm")
     )
     (path "/781c624d-8d97-4a0b-a978-70b607a101af/d9c3a3b6-d3f2-4844-812f-1f8dfdee53d3"
       (reference "R75") (unit 1) (value "3.3Ω") (footprint "1_NeoGeoLibrary:Resistor1-5mm")
+    )
+    (path "/2a5ccfb4-5e07-49ca-a83b-8f2b8b902202/360a296a-0bb4-418e-b567-cbf90242c6a2"
+      (reference "R101") (unit 1) (value "100K") (footprint "1_NeoGeoLibrary:Resistor1-5mm")
+    )
+    (path "/2a5ccfb4-5e07-49ca-a83b-8f2b8b902202/79737f67-b4c3-4dbf-9b1c-02ef7e07db72"
+      (reference "R102") (unit 1) (value "100K") (footprint "1_NeoGeoLibrary:Resistor1-5mm")
     )
     (path "/c9473d33-e182-4f58-9f81-09857979aeb6/efa57a88-8247-4722-9594-c5a8b609e7b1"
       (reference "R301") (unit 1) (value "1KΩ") (footprint "1_NeoGeoLibrary:Resistor1-5mm")
@@ -1972,9 +1984,6 @@
     )
     (path "/2a5ccfb4-5e07-49ca-a83b-8f2b8b902202/59304b86-593e-4c10-a20e-5d8f1a2c2d2b"
       (reference "TC1") (unit 1) (value "0-50p") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Vertical")
-    )
-    (path "/2a5ccfb4-5e07-49ca-a83b-8f2b8b902202/427c900b-35e9-479c-b826-ba7f7139d5af"
-      (reference "TC2") (unit 1) (value "0-50p") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Vertical")
     )
     (path "/2a5ccfb4-5e07-49ca-a83b-8f2b8b902202/ee30e81e-4be0-421f-a2fc-53b9216fc8bf"
       (reference "TP1") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D4.0mm")
