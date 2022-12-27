@@ -1950,7 +1950,7 @@
     (property "Reference" "C65" (id 0) (at 285.496 92.456 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "30pF(CH)    (100pF(CH))" (id 1) (at 285.496 94.361 0)
+    (property "Value" "39pF (CH)" (id 1) (at 285.496 94.361 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "1_NeoGeoLibrary:CAP1-5mm" (id 2) (at 282.956 93.091 0)
