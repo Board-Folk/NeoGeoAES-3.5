@@ -1163,6 +1163,12 @@
     (path "/2a5ccfb4-5e07-49ca-a83b-8f2b8b902202/ae71e1b6-dc83-47e8-8e2a-079d13027a1b"
       (reference "#PWR0273") (unit 1) (value "GND") (footprint "")
     )
+    (path "/17d4dff8-1d4b-4fcd-9956-5ead09864ae3/2c81a2e4-e53f-43aa-b269-7ae6d8d47e58"
+      (reference "#PWR0274") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/395516b4-de87-4f49-9253-15d185c97222/31cc5628-26c7-4452-922d-2b2e7a4b25cc"
+      (reference "#PWR0275") (unit 1) (value "GND") (footprint "")
+    )
     (path "/85e729e3-96be-4fe1-8753-abec14de71c9/0ba6dbc2-2919-476c-ac0c-427268e07602"
       (reference "BF1") (unit 1) (value "ZBF253D") (footprint "1_NeoGeoLibrary:BF-2.5mm")
     )
@@ -1462,6 +1468,9 @@
     )
     (path "/781c624d-8d97-4a0b-a978-70b607a101af/43380b65-d8d2-4335-a1e9-9e7ab3f4d850"
       (reference "C66") (unit 1) (value "1nF") (footprint "1_NeoGeoLibrary:CAP3-5mm")
+    )
+    (path "/17d4dff8-1d4b-4fcd-9956-5ead09864ae3/7fa93754-47bb-40c2-9423-127b2ad872e9"
+      (reference "C67") (unit 1) (value "220pF") (footprint "1_NeoGeoLibrary:CAP3-5mm")
     )
     (path "/2a5ccfb4-5e07-49ca-a83b-8f2b8b902202/98250d91-752e-48b8-afd5-ea28e0d57ec8"
       (reference "C70") (unit 1) (value "10nF") (footprint "1_NeoGeoLibrary:CAP3-5mm")
@@ -2008,6 +2017,15 @@
     )
     (path "/17d4dff8-1d4b-4fcd-9956-5ead09864ae3/6ffcc149-84c7-440a-8d48-3f759cce05e2"
       (reference "U7") (unit 1) (value "uPD4364CX-12") (footprint "Package_DIP:DIP-28_W7.62mm")
+    )
+    (path "/395516b4-de87-4f49-9253-15d185c97222/3faec792-c98e-4974-8b28-d1f1c3b09485"
+      (reference "U8") (unit 1) (value "74HC04") (footprint "")
+    )
+    (path "/395516b4-de87-4f49-9253-15d185c97222/91099051-a012-4c9f-afd1-a6ea50f81046"
+      (reference "U8") (unit 2) (value "74HC04") (footprint "")
+    )
+    (path "/395516b4-de87-4f49-9253-15d185c97222/eccf85bd-5be9-4a32-9a46-86ef093a6a8d"
+      (reference "U8") (unit 3) (value "74HC04") (footprint "")
     )
     (path "/395516b4-de87-4f49-9253-15d185c97222/38ce2b8a-ca23-4d24-86d8-99ac8e0b7159"
       (reference "U8") (unit 4) (value "74HC04") (footprint "Package_DIP:DIP-14_W7.62mm")
