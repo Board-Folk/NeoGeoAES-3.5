@@ -1464,7 +1464,7 @@
       (reference "C64") (unit 1) (value "10pF(CH)") (footprint "1_NeoGeoLibrary:CAP3-5mm")
     )
     (path "/2a5ccfb4-5e07-49ca-a83b-8f2b8b902202/d60577da-ac52-4bc6-b363-a41b5ac5e603"
-      (reference "C65") (unit 1) (value "30pF(CH)    (100pF(CH))") (footprint "1_NeoGeoLibrary:CAP1-5mm")
+      (reference "C65") (unit 1) (value "39pF (CH)") (footprint "1_NeoGeoLibrary:CAP1-5mm")
     )
     (path "/781c624d-8d97-4a0b-a978-70b607a101af/43380b65-d8d2-4335-a1e9-9e7ab3f4d850"
       (reference "C66") (unit 1) (value "1nF") (footprint "1_NeoGeoLibrary:CAP3-5mm")
