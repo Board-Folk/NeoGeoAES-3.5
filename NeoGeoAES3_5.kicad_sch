@@ -1689,13 +1689,13 @@
       (reference "D4") (unit 1) (value "FC52M-5") (footprint "Package_TO_SOT_THT:SOD-70_P2.54mm")
     )
     (path "/395516b4-de87-4f49-9253-15d185c97222/ed2f5577-5cd4-4d40-a313-767252510041"
-      (reference "D11") (unit 1) (value "1N41") (footprint "")
+      (reference "D11") (unit 1) (value "1N41") (footprint "Diode_THT:D_A-405_P10.16mm_Horizontal")
     )
     (path "/395516b4-de87-4f49-9253-15d185c97222/2db7b343-5f22-42fe-a493-a3e4aa055327"
-      (reference "D12") (unit 1) (value "1N41") (footprint "")
+      (reference "D12") (unit 1) (value "1N41") (footprint "Diode_THT:D_A-405_P10.16mm_Horizontal")
     )
     (path "/395516b4-de87-4f49-9253-15d185c97222/d0eb42ce-4698-46bd-b658-3224103c8df1"
-      (reference "D13") (unit 1) (value "1N41") (footprint "")
+      (reference "D13") (unit 1) (value "1N41") (footprint "Diode_THT:D_A-405_P10.16mm_Horizontal")
     )
     (path "/abf92dea-d97d-4ab6-a8b1-0d15ffdbb24b/1a9e67bf-d675-46dd-8c25-c5f44436e62c"
       (reference "J1") (unit 1) (value "BEER") (footprint "1_NeoGeoLibrary:J2")
