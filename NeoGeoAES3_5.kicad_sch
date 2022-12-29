@@ -1692,7 +1692,7 @@
       (reference "J3") (unit 1) (value "SMK S-G8043") (footprint "1_NeoGeoLibrary:J3")
     )
     (path "/395516b4-de87-4f49-9253-15d185c97222/035572c3-ef3e-4512-9d24-50a205c7bc1f"
-      (reference "J4") (unit 1) (value "HEC0470-01-230") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm")
+      (reference "J4") (unit 1) (value "~") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm")
     )
     (path "/a671da63-c188-4632-b677-2f60c419618b/7349fbe6-5500-489c-b5af-9e4e5332d088"
       (reference "JP3") (unit 1) (value "J3") (footprint "1_NeoGeoLibrary:J2")
