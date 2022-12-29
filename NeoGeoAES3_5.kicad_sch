@@ -2031,7 +2031,7 @@
       (reference "SW1") (unit 1) (value "RESET SWITCH") (footprint "Button_Switch_THT:SW_Tactile_Straight_KSL0Axx1LFTR")
     )
     (path "/395516b4-de87-4f49-9253-15d185c97222/795aa217-816a-4fcc-aadf-1501b6fdb3c7"
-      (reference "SW2") (unit 1) (value "~") (footprint "")
+      (reference "SW2") (unit 1) (value "~") (footprint "Button_Switch_THT:SW_Slide_1P2T_CK_OS102011MS2Q")
     )
     (path "/395516b4-de87-4f49-9253-15d185c97222/d150c6ca-584a-4983-999d-996cfea4d38b"
       (reference "T1") (unit 1) (value "COIL") (footprint "Transformer_THT:Transformer_NF_ETAL_1-1_P1200")
