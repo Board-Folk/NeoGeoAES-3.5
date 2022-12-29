@@ -1175,6 +1175,9 @@
     (path "/395516b4-de87-4f49-9253-15d185c97222/2fea4398-d7b4-4741-8ae9-5aaa30b594e0"
       (reference "#PWR0277") (unit 1) (value "GND") (footprint "")
     )
+    (path "/395516b4-de87-4f49-9253-15d185c97222/fc3e3ee6-47a2-4c44-9255-cb011a7cf36e"
+      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
+    )
     (path "/85e729e3-96be-4fe1-8753-abec14de71c9/0ba6dbc2-2919-476c-ac0c-427268e07602"
       (reference "BF1") (unit 1) (value "ZBF253D") (footprint "1_NeoGeoLibrary:BF-2.5mm")
     )
@@ -1724,6 +1727,15 @@
     (path "/c9473d33-e182-4f58-9f81-09857979aeb6/47f60f01-ddbb-4351-9028-e7c1b955aa3f"
       (reference "Q102") (unit 1) (value "2SC1815") (footprint "1_NeoGeoLibrary:Transistor")
     )
+    (path "/395516b4-de87-4f49-9253-15d185c97222/1952815c-af5f-4dd1-914f-2ede4c56dbd3"
+      (reference "Q?") (unit 1) (value "A1442") (footprint "")
+    )
+    (path "/395516b4-de87-4f49-9253-15d185c97222/359cb435-1d7f-4cf6-aecd-3a357d7f419e"
+      (reference "Q?") (unit 1) (value "A1015") (footprint "Package_TO_SOT_THT:TO-92_Inline")
+    )
+    (path "/395516b4-de87-4f49-9253-15d185c97222/4877fef0-06e7-4b21-b156-6fd0d1bd2894"
+      (reference "Q?") (unit 1) (value "2SC1815") (footprint "Package_TO_SOT_THT:TO-92_Inline")
+    )
     (path "/17d4dff8-1d4b-4fcd-9956-5ead09864ae3/2c341fb6-da27-4683-990c-3dfe73ac4eeb"
       (reference "R1") (unit 1) (value "1KΩ") (footprint "1_NeoGeoLibrary:Resistor1-5mm")
     )
@@ -1916,6 +1928,15 @@
     (path "/781c624d-8d97-4a0b-a978-70b607a101af/d9c3a3b6-d3f2-4844-812f-1f8dfdee53d3"
       (reference "R75") (unit 1) (value "3.3Ω") (footprint "1_NeoGeoLibrary:Resistor1-5mm")
     )
+    (path "/395516b4-de87-4f49-9253-15d185c97222/8591d283-9e96-4af8-9eae-ca1f90cb8ca9"
+      (reference "R77") (unit 1) (value "10K") (footprint "")
+    )
+    (path "/395516b4-de87-4f49-9253-15d185c97222/7d4ab9eb-c7f0-44f7-98c4-119083f3412f"
+      (reference "R78") (unit 1) (value "1K") (footprint "")
+    )
+    (path "/395516b4-de87-4f49-9253-15d185c97222/aef94508-2222-487c-a0d8-e5596ce4c838"
+      (reference "R79") (unit 1) (value "510") (footprint "")
+    )
     (path "/2a5ccfb4-5e07-49ca-a83b-8f2b8b902202/360a296a-0bb4-418e-b567-cbf90242c6a2"
       (reference "R101") (unit 1) (value "100K") (footprint "1_NeoGeoLibrary:Resistor1-5mm")
     )
@@ -1987,6 +2008,9 @@
     )
     (path "/a671da63-c188-4632-b677-2f60c419618b/2dd69eb2-295c-4640-a5b0-08b245fbc521"
       (reference "SW1") (unit 1) (value "RESET SWITCH") (footprint "Button_Switch_THT:SW_Tactile_Straight_KSL0Axx1LFTR")
+    )
+    (path "/395516b4-de87-4f49-9253-15d185c97222/795aa217-816a-4fcc-aadf-1501b6fdb3c7"
+      (reference "SW2") (unit 1) (value "~") (footprint "")
     )
     (path "/395516b4-de87-4f49-9253-15d185c97222/a33dd830-acfa-4b93-b825-320c3cf83c2c"
       (reference "SW2") (unit 1) (value "FCC-0001SW") (footprint "Button_Switch_THT:SW_Tactile_Straight_KSL0Axx1LFTR")
