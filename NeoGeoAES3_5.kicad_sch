@@ -1178,6 +1178,9 @@
     (path "/395516b4-de87-4f49-9253-15d185c97222/fc3e3ee6-47a2-4c44-9255-cb011a7cf36e"
       (reference "#PWR0278") (unit 1) (value "VCC") (footprint "")
     )
+    (path "/395516b4-de87-4f49-9253-15d185c97222/eb329d00-a250-467a-9383-2ba59f6d8c9b"
+      (reference "#PWR0279") (unit 1) (value "GND") (footprint "")
+    )
     (path "/85e729e3-96be-4fe1-8753-abec14de71c9/0ba6dbc2-2919-476c-ac0c-427268e07602"
       (reference "BF1") (unit 1) (value "ZBF253D") (footprint "1_NeoGeoLibrary:BF-2.5mm")
     )
@@ -1685,6 +1688,15 @@
     (path "/2a5ccfb4-5e07-49ca-a83b-8f2b8b902202/a32454f5-9f56-431f-aae0-2e076df34a43"
       (reference "D4") (unit 1) (value "FC52M-5") (footprint "Package_TO_SOT_THT:SOD-70_P2.54mm")
     )
+    (path "/395516b4-de87-4f49-9253-15d185c97222/ed2f5577-5cd4-4d40-a313-767252510041"
+      (reference "D11") (unit 1) (value "1N41") (footprint "")
+    )
+    (path "/395516b4-de87-4f49-9253-15d185c97222/2db7b343-5f22-42fe-a493-a3e4aa055327"
+      (reference "D12") (unit 1) (value "1N41") (footprint "")
+    )
+    (path "/395516b4-de87-4f49-9253-15d185c97222/d0eb42ce-4698-46bd-b658-3224103c8df1"
+      (reference "D13") (unit 1) (value "1N41") (footprint "")
+    )
     (path "/abf92dea-d97d-4ab6-a8b1-0d15ffdbb24b/1a9e67bf-d675-46dd-8c25-c5f44436e62c"
       (reference "J1") (unit 1) (value "BEER") (footprint "1_NeoGeoLibrary:J2")
     )
@@ -1936,6 +1948,15 @@
     )
     (path "/395516b4-de87-4f49-9253-15d185c97222/aef94508-2222-487c-a0d8-e5596ce4c838"
       (reference "R79") (unit 1) (value "510") (footprint "1_NeoGeoLibrary:CAP3-5mm")
+    )
+    (path "/395516b4-de87-4f49-9253-15d185c97222/3886efa0-35a8-4105-b472-1c76190147ab"
+      (reference "R80") (unit 1) (value "470") (footprint "1_NeoGeoLibrary:CAP3-5mm")
+    )
+    (path "/395516b4-de87-4f49-9253-15d185c97222/1e1ecb66-582f-4447-8a49-0fdafca61226"
+      (reference "R81") (unit 1) (value "100") (footprint "1_NeoGeoLibrary:CAP3-5mm")
+    )
+    (path "/395516b4-de87-4f49-9253-15d185c97222/bc451cd3-d0aa-4d7f-9116-d052201dbcbb"
+      (reference "R82") (unit 1) (value "510") (footprint "1_NeoGeoLibrary:CAP3-5mm")
     )
     (path "/2a5ccfb4-5e07-49ca-a83b-8f2b8b902202/360a296a-0bb4-418e-b567-cbf90242c6a2"
       (reference "R101") (unit 1) (value "100K") (footprint "1_NeoGeoLibrary:Resistor1-5mm")
