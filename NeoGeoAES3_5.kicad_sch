@@ -1176,7 +1176,7 @@
       (reference "#PWR0277") (unit 1) (value "GND") (footprint "")
     )
     (path "/395516b4-de87-4f49-9253-15d185c97222/fc3e3ee6-47a2-4c44-9255-cb011a7cf36e"
-      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
+      (reference "#PWR0278") (unit 1) (value "VCC") (footprint "")
     )
     (path "/85e729e3-96be-4fe1-8753-abec14de71c9/0ba6dbc2-2919-476c-ac0c-427268e07602"
       (reference "BF1") (unit 1) (value "ZBF253D") (footprint "1_NeoGeoLibrary:BF-2.5mm")
@@ -2011,9 +2011,6 @@
     )
     (path "/395516b4-de87-4f49-9253-15d185c97222/795aa217-816a-4fcc-aadf-1501b6fdb3c7"
       (reference "SW2") (unit 1) (value "~") (footprint "")
-    )
-    (path "/395516b4-de87-4f49-9253-15d185c97222/a33dd830-acfa-4b93-b825-320c3cf83c2c"
-      (reference "SW2") (unit 1) (value "FCC-0001SW") (footprint "Button_Switch_THT:SW_Tactile_Straight_KSL0Axx1LFTR")
     )
     (path "/395516b4-de87-4f49-9253-15d185c97222/d150c6ca-584a-4983-999d-996cfea4d38b"
       (reference "T1") (unit 1) (value "COIL") (footprint "Transformer_THT:Transformer_NF_ETAL_1-1_P1200")
