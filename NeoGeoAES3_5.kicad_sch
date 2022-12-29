@@ -1169,6 +1169,12 @@
     (path "/395516b4-de87-4f49-9253-15d185c97222/31cc5628-26c7-4452-922d-2b2e7a4b25cc"
       (reference "#PWR0275") (unit 1) (value "GND") (footprint "")
     )
+    (path "/395516b4-de87-4f49-9253-15d185c97222/94a96e3a-94a5-4ba5-b031-6195ad8d1660"
+      (reference "#PWR0276") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/395516b4-de87-4f49-9253-15d185c97222/2fea4398-d7b4-4741-8ae9-5aaa30b594e0"
+      (reference "#PWR0277") (unit 1) (value "GND") (footprint "")
+    )
     (path "/85e729e3-96be-4fe1-8753-abec14de71c9/0ba6dbc2-2919-476c-ac0c-427268e07602"
       (reference "BF1") (unit 1) (value "ZBF253D") (footprint "1_NeoGeoLibrary:BF-2.5mm")
     )
