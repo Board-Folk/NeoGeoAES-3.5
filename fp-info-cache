@@ -1,4 +1,4 @@
-43449359432702
+50126028592028
 1_NeoGeoLibrary
 43256
 
@@ -55,6 +55,13 @@ CN1-2
 0
 17
 16
+1_NeoGeoLibrary
+CN3
+
+
+0
+12
+10
 1_NeoGeoLibrary
 CN4-5
 
@@ -155,6 +162,27 @@ R
 8
 1_NeoGeoLibrary
 Resistor1-5mm
+
+
+0
+2
+2
+1_NeoGeoLibrary
+SW1
+
+
+0
+2
+2
+1_NeoGeoLibrary
+T1
+
+
+0
+4
+4
+1_NeoGeoLibrary
+TC
 
 
 0

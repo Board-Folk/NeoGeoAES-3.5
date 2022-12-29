@@ -18,7 +18,7 @@
     "selection_filter": {
       "dimensions": true,
       "footprints": true,
-      "graphics": false,
+      "graphics": true,
       "keepouts": true,
       "lockedItems": true,
       "otherItems": true,
@@ -64,7 +64,7 @@
       35,
       36
     ],
-    "visible_layers": "ffdff77_ffffffff",
+    "visible_layers": "ffdff37_7fffffff",
     "zone_display_mode": 0
   },
   "meta": {
