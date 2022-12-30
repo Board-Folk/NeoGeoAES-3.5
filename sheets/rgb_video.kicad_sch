@@ -2200,7 +2200,7 @@
     (property "Value" "DIN-8" (id 1) (at 312.928 105.918 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Connector_Dsub:DSUB-9_Female_Horizontal_P2.77x2.84mm_EdgePinOffset4.94mm_Housed_MountingHolesOffset7.48mm" (id 2) (at 322.326 99.314 0)
+    (property "Footprint" "1_NeoGeoLibrary:CN3" (id 2) (at 322.326 99.314 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 322.326 99.314 0)
