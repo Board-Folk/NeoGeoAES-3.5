@@ -1922,9 +1922,6 @@
     (path "/781c624d-8d97-4a0b-a978-70b607a101af/8d563e59-2e25-425a-ba93-40f030e8b734"
       (reference "R66") (unit 1) (value "470Ω") (footprint "1_NeoGeoLibrary:Resistor1-5mm")
     )
-    (path "/395516b4-de87-4f49-9253-15d185c97222/74e8355d-0285-4efd-a8cf-a91ce3966790"
-      (reference "R67") (unit 1) (value "10KΩ") (footprint "1_NeoGeoLibrary:Resistor1-5mm")
-    )
     (path "/2a5ccfb4-5e07-49ca-a83b-8f2b8b902202/1dacf2c4-7e58-4737-9519-84849204d8e9"
       (reference "R68") (unit 1) (value "10KΩ") (footprint "1_NeoGeoLibrary:Resistor1-5mm")
     )
