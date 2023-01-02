@@ -1425,7 +1425,7 @@
       (reference "C46") (unit 1) (value "470uF/16v") (footprint "1_NeoGeoLibrary:CAP1-5mm")
     )
     (path "/395516b4-de87-4f49-9253-15d185c97222/dbab06d4-f4c7-41e7-b3dd-f4f7e8cbb466"
-      (reference "C47") (unit 1) (value "2200uF/6.3v") (footprint "1_NeoGeoLibrary:CAP1-5mm")
+      (reference "C47") (unit 1) (value "2200uF/6.3v") (footprint "1_NeoGeoLibrary:CAP4-Large")
     )
     (path "/2a5ccfb4-5e07-49ca-a83b-8f2b8b902202/d89af60d-cfa5-465b-a67b-6c35e40a6d2b"
       (reference "C48") (unit 1) (value "0.001uF") (footprint "1_NeoGeoLibrary:CAP3-5mm")
@@ -1710,7 +1710,7 @@
       (reference "J3") (unit 1) (value "SMK S-G8043") (footprint "1_NeoGeoLibrary:J3")
     )
     (path "/395516b4-de87-4f49-9253-15d185c97222/035572c3-ef3e-4512-9d24-50a205c7bc1f"
-      (reference "J4") (unit 1) (value "~") (footprint "Connector_BarrelJack:BarrelJack_Wuerth_6941xx301002")
+      (reference "J4") (unit 1) (value "~") (footprint "1_NeoGeoLibrary:J4")
     )
     (path "/a671da63-c188-4632-b677-2f60c419618b/7349fbe6-5500-489c-b5af-9e4e5332d088"
       (reference "JP3") (unit 1) (value "J3") (footprint "1_NeoGeoLibrary:J2")
@@ -1719,7 +1719,7 @@
       (reference "JP4") (unit 1) (value "J4") (footprint "1_NeoGeoLibrary:J2")
     )
     (path "/781c624d-8d97-4a0b-a978-70b607a101af/7d01ba83-beda-4719-883d-1d92edf05047"
-      (reference "L1") (unit 1) (value "47uH") (footprint "1_NeoGeoLibrary:Inductor")
+      (reference "L1") (unit 1) (value "47uH") (footprint "1_NeoGeoLibrary:L1")
     )
     (path "/781c624d-8d97-4a0b-a978-70b607a101af/6a2e9f87-62f4-4b94-973b-ed73345b67d0"
       (reference "L2") (unit 1) (value "47uH") (footprint "1_NeoGeoLibrary:Inductor")
@@ -2028,13 +2028,13 @@
       (reference "RN2") (unit 4) (value "22Ω") (footprint "1_NeoGeoLibrary:RN2")
     )
     (path "/c9473d33-e182-4f58-9f81-09857979aeb6/5ad8e206-cb24-4fb1-928e-3cac21725b48"
-      (reference "RV1") (unit 1) (value "Headphone Slider") (footprint "1_NeoGeoLibrary:Volume-Slider")
+      (reference "RV1") (unit 1) (value "Headphone Slider") (footprint "1_NeoGeoLibrary:RV1")
     )
     (path "/a671da63-c188-4632-b677-2f60c419618b/2dd69eb2-295c-4640-a5b0-08b245fbc521"
       (reference "SW1") (unit 1) (value "RESET SWITCH") (footprint "1_NeoGeoLibrary:SW1")
     )
     (path "/395516b4-de87-4f49-9253-15d185c97222/795aa217-816a-4fcc-aadf-1501b6fdb3c7"
-      (reference "SW2") (unit 1) (value "~") (footprint "Button_Switch_THT:SW_Slide_1P2T_CK_OS102011MS2Q")
+      (reference "SW2") (unit 1) (value "~") (footprint "1_NeoGeoLibrary:SW2")
     )
     (path "/395516b4-de87-4f49-9253-15d185c97222/d150c6ca-584a-4983-999d-996cfea4d38b"
       (reference "T1") (unit 1) (value "COIL") (footprint "1_NeoGeoLibrary:T1")

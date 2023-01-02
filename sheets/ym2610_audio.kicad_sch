@@ -3332,7 +3332,7 @@
     (property "Value" "Headphone Slider" (id 1) (at 54.991 212.09 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "1_NeoGeoLibrary:Volume-Slider" (id 2) (at 59.563 211.328 0)
+    (property "Footprint" "1_NeoGeoLibrary:RV1" (id 2) (at 59.563 211.328 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 59.563 211.328 0)
