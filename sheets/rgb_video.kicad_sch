@@ -1896,7 +1896,7 @@
     (uuid 7d01ba83-beda-4719-883d-1d92edf05047)
     (property "Reference" "L1" (id 0) (at 287.274 149.86 90))
     (property "Value" "47uH" (id 1) (at 287.274 152.4 90))
-    (property "Footprint" "1_NeoGeoLibrary:Inductor" (id 2) (at 287.274 154.686 0)
+    (property "Footprint" "1_NeoGeoLibrary:L1" (id 2) (at 287.274 154.686 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 287.274 154.686 0)
