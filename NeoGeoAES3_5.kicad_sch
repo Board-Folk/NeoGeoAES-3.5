@@ -1947,7 +1947,7 @@
       (reference "R75") (unit 1) (value "3.3Ω") (footprint "1_NeoGeoLibrary:Resistor1-5mm")
     )
     (path "/395516b4-de87-4f49-9253-15d185c97222/9a839ac8-c59c-4067-9739-7a0de489be01"
-      (reference "R76") (unit 1) (value "10K") (footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P25.40mm_Horizontal")
+      (reference "R76") (unit 1) (value "10K") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
     )
     (path "/395516b4-de87-4f49-9253-15d185c97222/8591d283-9e96-4af8-9eae-ca1f90cb8ca9"
       (reference "R77") (unit 1) (value "10K") (footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P25.40mm_Horizontal")
