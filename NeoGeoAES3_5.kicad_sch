@@ -1184,6 +1184,9 @@
     (path "/395516b4-de87-4f49-9253-15d185c97222/67b3f945-f003-4894-b651-51eb322821f2"
       (reference "#PWR0280") (unit 1) (value "VCC") (footprint "")
     )
+    (path "/395516b4-de87-4f49-9253-15d185c97222/cc1cbe83-28c3-4a06-8f31-4cc3c08e56be"
+      (reference "#PWR0281") (unit 1) (value "GND") (footprint "")
+    )
     (path "/85e729e3-96be-4fe1-8753-abec14de71c9/0ba6dbc2-2919-476c-ac0c-427268e07602"
       (reference "BF1") (unit 1) (value "ZBF253D") (footprint "1_NeoGeoLibrary:BF-2.5mm")
     )
@@ -1691,6 +1694,9 @@
     (path "/2a5ccfb4-5e07-49ca-a83b-8f2b8b902202/a32454f5-9f56-431f-aae0-2e076df34a43"
       (reference "D4") (unit 1) (value "FC52M-5") (footprint "Package_TO_SOT_THT:SOD-70_P2.54mm")
     )
+    (path "/395516b4-de87-4f49-9253-15d185c97222/9ba94919-4f42-492a-867a-9891e79e9732"
+      (reference "D5") (unit 1) (value "LED") (footprint "1_NeoGeoLibrary:Resistor1-5mm")
+    )
     (path "/395516b4-de87-4f49-9253-15d185c97222/ed2f5577-5cd4-4d40-a313-767252510041"
       (reference "D11") (unit 1) (value "1N41") (footprint "Diode_THT:D_A-405_P7.62mm_Horizontal")
     )
@@ -1939,6 +1945,9 @@
     )
     (path "/781c624d-8d97-4a0b-a978-70b607a101af/d9c3a3b6-d3f2-4844-812f-1f8dfdee53d3"
       (reference "R75") (unit 1) (value "3.3Ω") (footprint "1_NeoGeoLibrary:Resistor1-5mm")
+    )
+    (path "/395516b4-de87-4f49-9253-15d185c97222/9a839ac8-c59c-4067-9739-7a0de489be01"
+      (reference "R76") (unit 1) (value "10K") (footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P25.40mm_Horizontal")
     )
     (path "/395516b4-de87-4f49-9253-15d185c97222/8591d283-9e96-4af8-9eae-ca1f90cb8ca9"
       (reference "R77") (unit 1) (value "10K") (footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P25.40mm_Horizontal")
