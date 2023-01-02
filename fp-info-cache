@@ -1,4 +1,4 @@
-50138745988419
+58491139097354
 1_NeoGeoLibrary
 43256
 
@@ -43,6 +43,13 @@ CAP2-2.5mm
 2
 1_NeoGeoLibrary
 CAP3-5mm
+
+
+0
+2
+2
+1_NeoGeoLibrary
+CAP4-Large
 
 
 0
@@ -109,8 +116,22 @@ J3
 
 
 0
+6
 3
+1_NeoGeoLibrary
+J4
+
+
+0
+7
 3
+1_NeoGeoLibrary
+L1
+
+
+0
+2
+2
 1_NeoGeoLibrary
 LSPC2
 
@@ -161,6 +182,13 @@ R
 8
 8
 1_NeoGeoLibrary
+RV1
+
+
+0
+16
+6
+1_NeoGeoLibrary
 Resistor1-5mm
 
 
@@ -174,6 +202,13 @@ SW1
 0
 2
 2
+1_NeoGeoLibrary
+SW2
+
+
+0
+10
+3
 1_NeoGeoLibrary
 T1
 
