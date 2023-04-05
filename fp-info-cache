@@ -1,4 +1,4 @@
-21668268990150532
+21686781212309609
 1_NeoGeoLibrary
 43256
 
@@ -97,6 +97,62 @@ Crystal
 0
 4
 3
+1_NeoGeoLibrary
+DIP-14_W7.62mm
+14-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+14
+14
+1_NeoGeoLibrary
+DIP-16_W7.62mm
+16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+16
+16
+1_NeoGeoLibrary
+DIP-20_W7.62mm
+20-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+20
+20
+1_NeoGeoLibrary
+DIP-24_W7.62mm
+24-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+24
+24
+1_NeoGeoLibrary
+DIP-24_W10.16mm
+24-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils)
+THT DIP DIL PDIP 2.54mm 10.16mm 400mil
+0
+24
+24
+1_NeoGeoLibrary
+DIP-28_W7.62mm
+28-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+28
+28
+1_NeoGeoLibrary
+DIP-28_W15.24mm
+28-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils)
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil
+0
+28
+28
+1_NeoGeoLibrary
+DIP-40_W15.24mm
+40-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils)
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil
+0
+40
+40
 1_NeoGeoLibrary
 Diode-Big
 
@@ -238,6 +294,20 @@ RV1
 16
 6
 1_NeoGeoLibrary
+R_Array_SIP5
+5-pin Resistor SIP pack
+R
+0
+5
+5
+1_NeoGeoLibrary
+R_Array_SIP10
+10-pin Resistor SIP pack
+R
+0
+10
+10
+1_NeoGeoLibrary
 Resistor1-5mm
 
 
@@ -279,6 +349,13 @@ TE_5535653-1
 0
 68
 68
+1_NeoGeoLibrary
+TestPoint_Pad_D1.5mm
+SMD pad as test Point, diameter 1.5mm
+test point SMD pad
+0
+1
+1
 1_NeoGeoLibrary
 Transistor
 
