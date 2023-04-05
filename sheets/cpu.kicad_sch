@@ -4149,7 +4149,7 @@
     (property "Value" "4.7KΩ" (at 68.58 141.7319 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Resistor_THT:R_Array_SIP5" (at 53.467 140.208 90)
+    (property "Footprint" "1_NeoGeoLibrary:R_Array_SIP5" (at 53.467 140.208 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 60.452 140.208 0)

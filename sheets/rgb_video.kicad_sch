@@ -1607,7 +1607,7 @@
     (property "Value" "CXA1145P" (at 213.106 193.802 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_DIP:DIP-24_W10.16mm" (at 213.106 169.418 0)
+    (property "Footprint" "1_NeoGeoLibrary:DIP-24_W10.16mm" (at 213.106 169.418 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 214.376 215.138 0)
