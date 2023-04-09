@@ -4888,7 +4888,7 @@
     (property "Reference" "R76" (at 180.34 107.061 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "10K" (at 180.34 109.347 90)
+    (property "Value" "1K" (at 180.34 109.347 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "1_NeoGeoLibrary:R76" (at 180.34 111.125 0)
