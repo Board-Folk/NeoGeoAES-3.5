@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.2,
-          "height": 2.889996,
-          "width": 1.875396
+          "drill": 3.2,
+          "height": 7.0,
+          "width": 7.0
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -56,26 +56,6 @@
         }
       ],
       "drc_exclusions": [
-        "copper_sliver|269740047|225867600|00000000-0000-0000-0000-000000000000|F.Cu",
-        "copper_sliver|269740065|225867600|00000000-0000-0000-0000-000000000000|F.Cu",
-        "lib_footprint_issues|153050000|55690000|5d218ef1-6dad-40c1-a368-2ac3343881fd|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_issues|166350000|260130000|1dc59afc-9a7e-493b-94c8-a1cd12734a46|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_issues|178260000|164810000|84a3cd52-5506-48ec-82cc-1777e0f6ff5f|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_issues|187380000|92490000|a783ad35-2876-4786-ae8e-b212483e40d9|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_issues|219350000|200380000|fcaed840-34bd-4d27-9a2f-a9c2c05795d6|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_issues|221150000|139460000|4c5a3eff-211b-4462-a1e0-d4c66c7779bf|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_issues|247310000|175030000|229dcb8d-869a-4403-9f98-7707af240820|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_issues|293120000|79290000|f0065092-984d-4317-a8b2-8915e73a825a|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_issues|304680000|156750000|29f169b8-ef13-4c9e-93aa-c886ad0c8d8e|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_issues|331460000|186000000|704f2887-8520-4f9f-b7ef-fd93f06c3d8d|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_issues|331470000|40450000|d718e2c8-5099-48b8-b600-186e7524464a|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_issues|331780000|114490000|1761a6bd-05c0-42d6-9f57-a32bd5252d63|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_issues|345683400|44018200|6bbc7f80-5475-4184-a7f5-58684554dfb6|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_issues|41120000|238770000|7715ce33-d1b7-41c9-9175-7d45a7fea990|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_issues|41224200|44094400|fe006bfc-71bd-466b-8c70-d3c211060291|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_issues|43815000|251053600|0d0c3caa-d101-4542-b325-c65f361b540e|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_issues|47590000|177430000|bb81e960-d320-423b-aad1-966d00f09451|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_issues|84390000|139450000|664dc315-97d9-4306-bc1a-df64c063b310|00000000-0000-0000-0000-000000000000",
         "track_dangling|134310000|218350000|babe7770-4daa-42ca-ad44-330d0423b093|00000000-0000-0000-0000-000000000000",
         "track_dangling|162940000|52940000|106c41e4-7438-495f-b639-63b6ccf926e7|00000000-0000-0000-0000-000000000000",
         "track_dangling|168440000|77000000|02ed711d-f646-4622-a531-d057b11468af|00000000-0000-0000-0000-000000000000",
@@ -89,7 +69,8 @@
         "track_dangling|303220000|97630000|35c04dcc-15d3-4bc4-abc0-0f48ae4be15a|00000000-0000-0000-0000-000000000000",
         "track_dangling|304260000|101270000|7261987a-1475-40ea-9aaf-8993a3cb9c05|00000000-0000-0000-0000-000000000000",
         "track_dangling|304970000|99300000|76de7b0e-fdc5-4412-9ac9-66c3f2970b89|00000000-0000-0000-0000-000000000000",
-        "track_dangling|84730000|158820000|61faf2fc-2cc3-4a89-a189-bd9d45658f3f|00000000-0000-0000-0000-000000000000"
+        "track_dangling|84730000|158820000|61faf2fc-2cc3-4a89-a189-bd9d45658f3f|00000000-0000-0000-0000-000000000000",
+        "unconnected_items|219400473|250212104|05300fd3-4d04-421f-a4b3-4bdf3c3c3236|e84b6a87-62b1-4304-a3df-bf65cd188051"
       ],
       "meta": {
         "version": 2
@@ -107,7 +88,7 @@
         "duplicate_footprints": "warning",
         "extra_footprint": "warning",
         "footprint": "error",
-        "footprint_type_mismatch": "ignore",
+        "footprint_type_mismatch": "warning",
         "hole_clearance": "error",
         "hole_near_hole": "error",
         "invalid_outline": "error",
@@ -122,9 +103,9 @@
         "missing_courtyard": "ignore",
         "missing_footprint": "warning",
         "net_conflict": "warning",
-        "npth_inside_courtyard": "ignore",
+        "npth_inside_courtyard": "warning",
         "padstack": "warning",
-        "pth_inside_courtyard": "ignore",
+        "pth_inside_courtyard": "warning",
         "shorting_items": "error",
         "silk_edge_clearance": "warning",
         "silk_over_copper": "warning",
