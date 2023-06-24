@@ -1,0 +1,18 @@
+(footprint "MARK" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr smd)
+  (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.1)))
+    (tstamp 82f52d16-8449-4af8-b2e4-a06c658b1825)
+  )
+  (fp_text value "MARK" (at 0 1 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 23f60c7f-0170-4011-9d32-e71eb746f035)
+  )
+  (fp_text user "${REFERENCE}" (at 0 2.5 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 89fac77b-cda7-41a1-a209-550a4ce8346f)
+  )
+  (pad "1" smd circle (at 0 0) (size 1 1) (layers "F.Cu" "F.Mask")
+    (solder_mask_margin 2.5) (clearance 2.5) (tstamp 80bfd910-bf3b-4317-b504-e14130195c75))
+)
