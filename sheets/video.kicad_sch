@@ -4,6 +4,15 @@
 
   (paper "A3")
 
+  (title_block
+    (title "NeoGeo AES")
+    (date "2023-08-19")
+    (rev "3.5")
+    (company "SNK")
+    (comment 3 "https://github.com/Board-Folk")
+    (comment 4 "Recreated By The Board Folk Team")
+  )
+
   (lib_symbols
     (symbol "1_NeoGeoLibrary:NEO-G0" (in_bom yes) (on_board yes)
       (property "Reference" "U" (at -8.89 59.69 0)
