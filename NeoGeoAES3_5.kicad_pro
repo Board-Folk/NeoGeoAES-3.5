@@ -55,23 +55,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "track_dangling|134310000|218350000|babe7770-4daa-42ca-ad44-330d0423b093|00000000-0000-0000-0000-000000000000",
-        "track_dangling|162940000|52940000|106c41e4-7438-495f-b639-63b6ccf926e7|00000000-0000-0000-0000-000000000000",
-        "track_dangling|168440000|77000000|02ed711d-f646-4622-a531-d057b11468af|00000000-0000-0000-0000-000000000000",
-        "track_dangling|205040000|83070000|289677a9-e3fe-4d59-a0ef-bcfce2eeecdf|00000000-0000-0000-0000-000000000000",
-        "track_dangling|205330000|99870000|6f5d17bd-0406-4a18-9aac-5fcec3cc54ee|00000000-0000-0000-0000-000000000000",
-        "track_dangling|205670000|88990000|76777bcf-fd13-45c1-9b7c-93dce650c5bd|00000000-0000-0000-0000-000000000000",
-        "track_dangling|207060000|51910000|51a9f91e-6546-4508-aa08-a65d47c9288e|00000000-0000-0000-0000-000000000000",
-        "track_dangling|208080000|98010000|6ed81327-b9e6-4d36-bc19-08efbec740d9|00000000-0000-0000-0000-000000000000",
-        "track_dangling|209640000|87500000|5f13b163-0a47-44e8-b8ba-742874f17176|00000000-0000-0000-0000-000000000000",
-        "track_dangling|210030000|93890000|4fb5de5e-7021-406f-a721-641adfef661a|00000000-0000-0000-0000-000000000000",
-        "track_dangling|303220000|97630000|35c04dcc-15d3-4bc4-abc0-0f48ae4be15a|00000000-0000-0000-0000-000000000000",
-        "track_dangling|304260000|101270000|7261987a-1475-40ea-9aaf-8993a3cb9c05|00000000-0000-0000-0000-000000000000",
-        "track_dangling|304970000|99300000|76de7b0e-fdc5-4412-9ac9-66c3f2970b89|00000000-0000-0000-0000-000000000000",
-        "track_dangling|84730000|158820000|61faf2fc-2cc3-4a89-a189-bd9d45658f3f|00000000-0000-0000-0000-000000000000",
-        "unconnected_items|219400473|250212104|05300fd3-4d04-421f-a4b3-4bdf3c3c3236|e84b6a87-62b1-4304-a3df-bf65cd188051"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -108,7 +92,7 @@
         "pth_inside_courtyard": "warning",
         "shorting_items": "error",
         "silk_edge_clearance": "warning",
-        "silk_over_copper": "warning",
+        "silk_over_copper": "ignore",
         "silk_overlap": "ignore",
         "skew_out_of_range": "error",
         "solder_mask_bridge": "error",
@@ -416,7 +400,7 @@
       "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
-      "simulation_model_issue": "error",
+      "simulation_model_issue": "ignore",
       "unannotated": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
