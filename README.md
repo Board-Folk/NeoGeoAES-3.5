@@ -10,7 +10,8 @@ boards' copper layers, so should be reasonably accurate reproductions.
 ## PCB Production
 
 Minimum track widths, clearances and via sizes are within the standard
-offering of modern PCB fabricators. Development was done using JLCPCB.
+offering of modern PCB fabricators. Development was done using JLCPCB and as 
+such the Gerber files are provided to their specification.
 
 The design is verified to work as a 2-layer PCB.
 
