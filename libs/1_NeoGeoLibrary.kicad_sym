@@ -5209,9 +5209,6 @@
       )
     )
     (symbol "SW_Push_SPDT_1_1"
-      (text "Mounting" (at -6.2738 4.7244 0)
-        (effects (font (size 1.27 1.27)))
-      )
       (pin passive line (at 5.08 2.54 180) (length 2.54)
         (name "A" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
