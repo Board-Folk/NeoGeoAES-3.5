@@ -29,7 +29,7 @@ For a complete BOM, consult the KiCad projecs BOM folder, there you will find a 
 
 ### 9v or 5v
 
-The NeoGeo AES 3-5 could come configures as either 9v or 5v supply input.
+The NeoGeo AES 3-5 could come configured as either 9v or 5v supply input.
 
 My board is 9v which this repository is based on. Due to this i have marked on the schematics/bom 
 which parts are not to populate if using 9v or 5v and by default the 5v circuit is N.F (Not Fitted).
