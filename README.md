@@ -41,7 +41,7 @@ C66 was also not populated.
 
 There are various links around the board.
 
-* NTSC1 / PAL2 - Only one of these should be populated, i would be very very very bad if both are populated 
+* NTSC1 / PAL2 - Only one of these should be populated, it would be very very very bad if both are populated 
 as one links to GND and the other to VCC.
 <br>
 
