@@ -1,16 +1,16 @@
 # NeoGeoAES-3.5 PCB Reproduction
 
-This repository contains the recreation of main board PCB for NeoGeo AES
-console. This recreation is based on the available schematics for the
+This repository contains a recreation of the main board PCB for NeoGeo AES
+consoles. This recreation is based on the available schematics for the
 NeoGeo AES and reverse engineering using scanned images of the original
-boards' copper layers, so should be reasonably accurate reproductions.
+board's copper layers, so should be a reasonably accurate reproduction.
 
 ![PCB](images/NeoGeoAES3_5_Front.png)
 
 ## PCB Production
 
 Minimum track widths, clearances and via sizes are within the standard
-offering of modern PCB fabricators. Development was done using JLCPCB and as 
+offering of modern PCB fabricators. Development was done using JLCPCB and as
 such the Gerber files are provided to their specification.
 
 The design is verified to work as a 2-layer PCB.
@@ -21,19 +21,19 @@ The design is verified to work as a 2-layer PCB.
 Most parts are marked on the board and it is expected that these will be reused
 from a donor board. It is completely possible that your particular board uses
 different (but compatible) parts so it's advisable to take photos before starting.
-For a complete BOM, consult the KiCad projecs BOM folder, there you will find a csv file or a pdf.
+For a complete BOM, consult the KiCad project's BOM folder, there you will find a CSV file or a PDF.
 
 [**PDF BOM**][BOM]
 
 [**Interactive BOM**][IBOM]
 
 
-### 9v or 5v
+### 9V or 5V
 
-The NeoGeo AES 3-5 could come configured as either 9v or 5v supply input.
+The NeoGeo AES 3-5 could come configured as either 9V or 5V supply input.
 
-My board is 9v which this repository is based on. Due to this i have marked on the schematics/bom 
-which parts are not to populate if using 9v or 5v and by default the 5v circuit is N.F (Not Fitted).
+My board is 9V which this repository is based on. Due to this I have marked on the schematics/BOM
+which parts are not to populated if using 9V or 5V and by default the 5V circuit is N.F (Not Fitted).
 
 C66 was also not populated.
 
@@ -42,26 +42,22 @@ C66 was also not populated.
 
 There are various links around the board.
 
-* NTSC1 / PAL2 - Only one of these should be populated, it would be very very very bad if both are populated 
-as one links to GND and the other to VCC.
-<br>
-
+* __NTSC1 / PAL2 - Only one of these should be populated, it would be very very very bad if both are populated
+  as one links to GND and the other to VCC.__
 
 * PAL1 and PAL2 - if your board is configured for PAL with the appropriate crystal, these should be populated
-* NTSC1 - if your board is configured for NTSC, this should be populated with the appropriate crystal
-
-
-* 5863 / 5814 - depending on your memory type, one of these should be populated
-* J1 - BERR Signal into the CPU. Default is off
-* J2 - DOGE Signal into the NEO-B1. Default is off
-* J3 / J4 - This is for the EVEN signal to the LSPC2 chip. J3 is already enabled by default 
+* NTSC1 - if your board is configured for NTSC, this should be populated with the appropriate crystal.
+* 5863 / 5814 - depending on your memory type, one of these should be populated.
+* J1 - BERR Signal into the CPU. Default is off.
+* J2 - DOGE Signal into the NEO-B1. Default is off.
+* J3 / J4 - This is for the EVEN signal to the LSPC2 chip. J3 is already enabled by default.
 
 
 ### Memory
 
 * 5814 - The shorter of the RAM Chips, make sure to populate into socket to the far right and populate the correct
-  Jumper
-* 5863 -The longer of the RAM Chips, uses the whole socket. Populate the correct jumper.
+  jumper.
+* 5863 - The longer of the RAM Chips, uses the whole socket. Populate the correct jumper.
 
 
 ## Thanks
@@ -69,18 +65,18 @@ as one links to GND and the other to VCC.
   * Rob Taylor ([@PeepoUK](https://github.com/PeepoUK)) for doing most of
     the PCB layout.
 
-  * Simon "Aergan" Lock ([@Aergan](https://github.com/Aergan))
-    Cosam ([@cosam_the_great])
-    Dennis (@PointerFunction)
-    Leo Oliveria (@leo__oliveira)
-    Zaxour 阿宅, (@zaxour)
-    Ian Cudlip (@grandoldian) for their insights, support and
-    testing of the prototype boards.
+  * Simon "Aergan" Lock ([@Aergan](https://github.com/Aergan)),
+    Cosam ([@cosam_the_great]),
+    Dennis (@PointerFunction),
+    Leo Oliveria (@leo__oliveira),
+    Zaxour 阿宅, (@zaxour),
+    Ian Cudlip (@grandoldian)
+    for their insights, support and testing of the prototype boards.
 
   * The rest of the Board Folk Team for their support and general
     coolness.
 
-  * The NeoGeo Development Wiki (https://wiki.neogeodev.org/) for making
+  * The [NeoGeo Development Wiki](https://wiki.neogeodev.org/) for making
     the original NeoGeo-2 Schematics available, and the people who maintain
     this site.
 
