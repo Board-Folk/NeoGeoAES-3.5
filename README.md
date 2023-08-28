@@ -104,6 +104,6 @@ The resources are provided "as-is" without warranty of any kind, either
 expressed or implied, including, but not limited to, the implied warranties
 of merchantability and fitness for a particular purpose.
 
-[IBOM]: http://htmlpreview.github.io/?https://raw.githubusercontent.com/chris-jh/NeoGeoAES-3.5/tree/main/bom/NeoGeo-AES-3_5.html
+[IBOM]: http://htmlpreview.github.io/?https://raw.githubusercontent.com/Board-Folk/NeoGeoAES-3.5/main/bom/NeoGeo-AES-3_5.html
 
-[BOM]: http://htmlpreview.github.io/?https://raw.githubusercontent.com/chris-jh/NeoGeoAES-3.5/tree/main/bom/NeoGeoAES3_5-BOM
+[BOM]: http://htmlpreview.github.io/?https://raw.githubusercontent.com/Board-Folk/NeoGeoAES-3.5/main/bom/NeoGeoAES3_5-BOM.pdf
