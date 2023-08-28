@@ -26,6 +26,43 @@ For a complete BOM, consult the KiCad projecs BOM folder, there you will find a 
 
 [**Interactive BOM**][IBOM]
 
+
+### 9v or 5v
+
+The NeoGeo AES 3-5 could come configures as either 9v or 5v supply input.
+
+My board is 9v which this repository is based on. Due to this i have marked on the schematics/bom 
+which parts are not to populate if using 9v or 5v and by default the 5v circuit is N.F (Not Fitted).
+
+C66 was also not populated.
+
+
+### Links
+
+There are various links around the board.
+
+* NTSC1 / PAL2 - Only one of these should be populated, i would be very very very bad if both are populated 
+as one links to GND and the other to VCC.
+<br>
+
+
+* PAL1 and PAL2 - if your board is configured for PAL with the appropriate crystal, these should be populated
+* NTSC1 - if your board is configured for NTSC, this should be populated with the appropriate crystal
+
+
+* 5863 / 5814 - depending on your memory type, one of these should be populated
+* J1 - BERR Signal into the CPU. Default is off
+* J2 - DOGE Signal into the NEO-B1. Default is off
+* J3 / J4 - This is for the EVEN signal to the LSPC2 chip. J3 is already enabled by default 
+
+
+### Memory
+
+* 5814 - The shorter of the RAM Chips, make sure to populate into socket to the far right and populate the correct
+  Jumper
+* 5863 -The longer of the RAM Chips, uses the whole socket. Populate the correct jumper.
+
+
 ## Thanks
 
   * Rob Taylor ([@PeepoUK](https://github.com/PeepoUK)) for doing most of
