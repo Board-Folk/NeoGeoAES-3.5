@@ -10,7 +10,8 @@ boards' copper layers, so should be reasonably accurate reproductions.
 ## PCB Production
 
 Minimum track widths, clearances and via sizes are within the standard
-offering of modern PCB fabricators. Development was done using JLCPCB.
+offering of modern PCB fabricators. Development was done using JLCPCB and as 
+such the Gerber files are provided to their specification.
 
 The design is verified to work as a 2-layer PCB.
 
@@ -29,7 +30,7 @@ For a complete BOM, consult the KiCad projecs BOM folder, there you will find a 
 
 ### 9v or 5v
 
-The NeoGeo AES 3-5 could come configures as either 9v or 5v supply input.
+The NeoGeo AES 3-5 could come configured as either 9v or 5v supply input.
 
 My board is 9v which this repository is based on. Due to this i have marked on the schematics/bom 
 which parts are not to populate if using 9v or 5v and by default the 5v circuit is N.F (Not Fitted).
@@ -41,7 +42,7 @@ C66 was also not populated.
 
 There are various links around the board.
 
-* NTSC1 / PAL2 - Only one of these should be populated, i would be very very very bad if both are populated 
+* NTSC1 / PAL2 - Only one of these should be populated, it would be very very very bad if both are populated 
 as one links to GND and the other to VCC.
 <br>
 
@@ -104,6 +105,6 @@ The resources are provided "as-is" without warranty of any kind, either
 expressed or implied, including, but not limited to, the implied warranties
 of merchantability and fitness for a particular purpose.
 
-[IBOM]: http://htmlpreview.github.io/?https://raw.githubusercontent.com/chris-jh/NeoGeoAES-3.5/tree/main/bom/NeoGeo-AES-3_5.html
+[IBOM]: http://htmlpreview.github.io/?https://raw.githubusercontent.com/Board-Folk/NeoGeoAES-3.5/main/bom/NeoGeo-AES-3_5.html
 
-[BOM]: http://htmlpreview.github.io/?https://raw.githubusercontent.com/chris-jh/NeoGeoAES-3.5/tree/main/bom/NeoGeoAES3_5-BOM
+[BOM]: http://htmlpreview.github.io/?https://raw.githubusercontent.com/Board-Folk/NeoGeoAES-3.5/main/bom/NeoGeoAES3_5-BOM.pdf
