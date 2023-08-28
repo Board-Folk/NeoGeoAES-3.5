@@ -7,6 +7,7 @@ board's copper layers, so should be a reasonably accurate reproduction.
 
 ![PCB](images/NeoGeoAES3_5_Front.png)
 
+
 ## PCB Production
 
 Minimum track widths, clearances and via sizes are within the standard
@@ -28,7 +29,7 @@ For a complete BOM, consult the KiCad project's BOM folder, there you will find 
 [**Interactive BOM**][IBOM]
 
 
-### 9V or 5V
+## 9V or 5V
 
 The NeoGeo AES 3-5 could come configured as either 9V or 5V supply input.
 
@@ -38,13 +39,13 @@ which parts are not to populated if using 9V or 5V and by default the 5V circuit
 C66 was also not populated.
 
 
-### Links
+## Jumper / Links
 
 There are various links around the board.
 
 * __NTSC1 / PAL2 - Only one of these should be populated, it would be very very very bad if both are populated
-  as one links to GND and the other to VCC.__
-
+  as one links to GND and the other to VCC.__\
+&nbsp;
 * PAL1 and PAL2 - if your board is configured for PAL with the appropriate crystal, these should be populated
 * NTSC1 - if your board is configured for NTSC, this should be populated with the appropriate crystal.
 * 5863 / 5814 - depending on your memory type, one of these should be populated.
@@ -53,7 +54,7 @@ There are various links around the board.
 * J3 / J4 - This is for the EVEN signal to the LSPC2 chip. J3 is already enabled by default.
 
 
-### Memory
+## Memory
 
 * 5814 - The shorter of the RAM Chips, make sure to populate into socket to the far right and populate the correct
   jumper.
@@ -63,22 +64,23 @@ There are various links around the board.
 ## Thanks
 
   * Rob Taylor ([@PeepoUK](https://github.com/PeepoUK)) for doing most of
-    the PCB layout.
-
-  * Simon "Aergan" Lock ([@Aergan](https://github.com/Aergan)),
-    Cosam ([@cosam_the_great]),
-    Dennis (@PointerFunction),
-    Leo Oliveria (@leo__oliveira),
-    Zaxour 阿宅, (@zaxour),
-    Ian Cudlip (@grandoldian)
-    for their insights, support and testing of the prototype boards.
-
+    the PCB layout.\
+&nbsp;
+  * Simon "Aergan" Lock ([@Aergan](https://github.com/Aergan)),\
+    Cosam (@cosam_the_great),\
+    Dennis (@PointerFunction),\
+    Leo Oliveria (@leo__oliveira),\
+    Zaxour 阿宅, (@zaxour),\
+    Ian Cudlip (@grandoldian)\
+    for their insights, support and testing of the prototype boards.\
+&nbsp;
   * The rest of the Board Folk Team for their support and general
-    coolness.
-
+    coolness.\
+&nbsp;
   * The [NeoGeo Development Wiki](https://wiki.neogeodev.org/) for making
     the original NeoGeo-2 Schematics available, and the people who maintain
-    this site.
+    this site.\
+&nbsp;
 
 
 ## Legal
