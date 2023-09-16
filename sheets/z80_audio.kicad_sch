@@ -2324,7 +2324,7 @@
     (property "Reference" "R30" (at 140.208 48.5139 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "4.7KΩ" (at 140.208 51.0539 0)
+    (property "Value" "4.7K" (at 140.208 51.0539 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "1_NeoGeoLibrary:Resistor1-5mm" (at 138.684 49.784 0)

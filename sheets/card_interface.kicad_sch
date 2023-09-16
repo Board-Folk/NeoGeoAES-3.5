@@ -2072,7 +2072,7 @@
     (property "Comment" "5535653-1" (at 233.045 139.7 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
-    (property "Mouser" "" (at 233.045 139.7 0)
+    (property "Mouser" "571-5535653-1" (at 233.045 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid e3f2828a-cdbb-4344-a43d-7c4f94aa2f3a))
