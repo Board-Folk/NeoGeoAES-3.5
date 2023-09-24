@@ -29,7 +29,7 @@ For a complete BOM, consult the KiCad project's BOM folder, there you will find 
 [**Interactive BOM**][IBOM]
 
 
-List of components available from Mouser, anything else use from the original board.
+List of components available from [**Mouser**][MOUSER], anything else use from the original board.
 
 | Qty | Reference | Value | Mouser No. |
 |:---------:|:-----:|:---------:|:-----------------:|
@@ -180,3 +180,5 @@ of merchantability and fitness for a particular purpose.
 [IBOM]: http://htmlpreview.github.io/?https://raw.githubusercontent.com/Board-Folk/NeoGeoAES-3.5/main/bom/NeoGeo-AES-3_5.html
 
 [BOM]: http://htmlpreview.github.io/?https://raw.githubusercontent.com/Board-Folk/NeoGeoAES-3.5/main/bom/NeoGeoAES3_5-BOM.pdf
+
+[MOUSER]: http://htmlpreview.github.io/?https://raw.githubusercontent.com/Board-Folk/NeoGeoAES-3.5/main/bom/NeoGeoAES3_5-MouserParts.csv
