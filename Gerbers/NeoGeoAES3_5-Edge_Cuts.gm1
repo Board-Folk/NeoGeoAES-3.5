@@ -1,11 +1,11 @@
-G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,7.0.1-0*
-G04 #@! TF.CreationDate,2023-09-16T16:04:33+01:00*
-G04 #@! TF.ProjectId,NeoGeoAES3_5,4e656f47-656f-4414-9553-335f352e6b69,BF1.1*
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,7.0.7*
+G04 #@! TF.CreationDate,2023-09-24T15:07:16+01:00*
+G04 #@! TF.ProjectId,NeoGeoAES3_5,4e656f47-656f-4414-9553-335f352e6b69,BF1.2*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Profile,NP*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 7.0.1-0) date 2023-09-16 16:04:33*
+G04 Created by KiCad (PCBNEW 7.0.7) date 2023-09-24 15:07:16*
 %MOMM*%
 %LPD*%
 G01*

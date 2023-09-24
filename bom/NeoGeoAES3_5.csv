@@ -1,131 +1,106 @@
-"Reference","Value","Footprint","Comment","Qty"
-"BF1-BF32, BF51-BF56, BF301-BF303","ZBF253D","1_NeoGeoLibrary:BF-2.5mm","","41"
-"C1, C2, C4-C8, C11, C12, C20, C24, C25, C32, C34, C41, C49, C113, C301","10uF","1_NeoGeoLibrary:CAP2-2.5mm","","18"
-"C3","68pF","1_NeoGeoLibrary:CAP3-5mm","","1"
-"C9, C10","470uF","1_NeoGeoLibrary:CAP1-5mm","","2"
-"C13, C14","272M","1_NeoGeoLibrary:CAP3-5mm","","2"
-"C22, C23, C66","1nF","1_NeoGeoLibrary:CAP3-5mm","","3"
-"C26-C28","0.1uF","1_NeoGeoLibrary:CAP3-5mm","","3"
-"C29","100p (82p)","1_NeoGeoLibrary:CAP3-5mm","","1"
-"C30, C45","0.01uF","1_NeoGeoLibrary:CAP3-5mm","","2"
-"C31","39pF (30pF)","1_NeoGeoLibrary:CAP3-5mm","","1"
-"C33, C42, C58-C60, C201","100pF","1_NeoGeoLibrary:CAP3-5mm","","6"
-"C35","10uf","1_NeoGeoLibrary:CAP2-2.5mm","","1"
-"C36-C39, C46","470uF/16v","1_NeoGeoLibrary:CAP1-5mm","","5"
-"C43","47pF","1_NeoGeoLibrary:CAP3-5mm","","1"
-"C44, C50, C70","10nF","1_NeoGeoLibrary:CAP3-5mm","","3"
-"C47","2200uF/6.3v","1_NeoGeoLibrary:CAP4-Large","","1"
-"C48","150pF","1_NeoGeoLibrary:CAP3-5mm","","1"
-"C51, C63, C101-C112, C114-C125, C127","100nF","1_NeoGeoLibrary:CAP3-5mm","","27"
-"C52, C54","30pF(CH)","1_NeoGeoLibrary:CAP3-5mm","","2"
-"C53","6pF","1_NeoGeoLibrary:CAP3-5mm","","1"
-"C55","20pF(CH)","1_NeoGeoLibrary:CAP3-5mm","","1"
-"C56, C67","220pF","1_NeoGeoLibrary:CAP3-5mm","","2"
-"C57","331pF","1_NeoGeoLibrary:CAP3-5mm","","1"
-"C61","221pF","1_NeoGeoLibrary:CAP3-5mm","","1"
-"C62","221","1_NeoGeoLibrary:CAP3-5mm","","1"
-"C64","10pF(CH)","1_NeoGeoLibrary:CAP3-5mm","","1"
-"C65","39pF (CH)","1_NeoGeoLibrary:CAP3-5mm","","1"
-"C126","100nF","1_NeoGeoLibrary:CAP2-2.5mm","","1"
-"CN1","CTRL1","1_NeoGeoLibrary:CN1-2","","1"
-"CN2","CTRL2","1_NeoGeoLibrary:CN1-2","","1"
-"CN3","DIN-8","1_NeoGeoLibrary:CN3","","1"
-"CN4, CN5","AXC90020","1_NeoGeoLibrary:CN4-5","","2"
-"CN6","5535653-1","1_NeoGeoLibrary:CN6","5535653-1","1"
-"CR1-CR5","CRE401","1_NeoGeoLibrary:R_Array_SIP10","","5"
-"D1, D2","SR340","1_NeoGeoLibrary:Diode-Big","Not Fitted when 5v Circuit","2"
-"D3, D4","FC52M-5","Package_TO_SOT_THT:SOD-70_P2.54mm","","2"
-"D5","LED","1_NeoGeoLibrary:LED","","1"
-"D11, D12","1S1588","1_NeoGeoLibrary:Diode","Not Fitted when 9v Circuit","2"
-"D13","RD5.6A","1_NeoGeoLibrary:Diode_RD","Not Fitted when 9v Circuit","1"
-"H1-H14","~","1_NeoGeoLibrary:MARK","","14"
-"H16","~","1_NeoGeoLibrary:HOLE2","","1"
-"H17, H18","~","1_NeoGeoLibrary:HOLE","","2"
-"J1","BEER","1_NeoGeoLibrary:J2","","1"
-"J2","CUT DOG","1_NeoGeoLibrary:J2","","1"
-"J3","SMK S-G8043","1_NeoGeoLibrary:J3","","1"
-"J4","POWER JACK","1_NeoGeoLibrary:J4","","1"
-"JP3","J3","1_NeoGeoLibrary:J2","","1"
-"JP4","J4","1_NeoGeoLibrary:J2","","1"
-"L1","47uH","1_NeoGeoLibrary:L1","","1"
-"L2","47uH","1_NeoGeoLibrary:Inductor","","1"
-"L3","180uH","1_NeoGeoLibrary:Inductor-Large","Not Fitted when 5v Circuit","1"
-"NTSC1","0","1_NeoGeoLibrary:PAL","","1"
-"PAL1","0","Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Vertical","","1"
-"PAL2","0","1_NeoGeoLibrary:PAL","","1"
-"Q11","C1815","1_NeoGeoLibrary:Transistor","Not Fitted when 9v Circuit","1"
-"Q12","A1015","1_NeoGeoLibrary:Transistor","Not Fitted when 9v Circuit","1"
-"Q13","A1442","1_NeoGeoLibrary:Q15","Not Fitted when 9v Circuit","1"
-"Q101, Q102","2SC1815","1_NeoGeoLibrary:Transistor","","2"
-"R1-R3, R32, R36-R43, R45, R54, R55, R301","1KΩ","1_NeoGeoLibrary:Resistor1-5mm","","16"
-"R4-R6","8.2KΩ","1_NeoGeoLibrary:Resistor1-5mm","","3"
-"R7, R11, R15","3.9KΩ","1_NeoGeoLibrary:Resistor1-5mm","","3"
-"R8, R12, R16","2.2KΩ","1_NeoGeoLibrary:Resistor1-5mm","","3"
-"R9, R13, R17, R66","470Ω","1_NeoGeoLibrary:Resistor1-5mm","","4"
-"R10, R14, R18","220Ω","1_NeoGeoLibrary:Resistor1-5mm","","3"
-"R19-R21","150Ω","1_NeoGeoLibrary:Resistor1-5mm","","3"
-"R28, R57, R68, R303","10KΩ","1_NeoGeoLibrary:Resistor1-5mm","","4"
-"R29","47Ω","1_NeoGeoLibrary:Resistor1-5mm","","1"
-"R30, R31","4.7KΩ","1_NeoGeoLibrary:Resistor1-5mm","","2"
-"R33, R34","10Ω","1_NeoGeoLibrary:R76","","2"
-"R46, R49, R53","27KΩ","1_NeoGeoLibrary:Resistor1-5mm","","3"
-"R47, R48","47KΩ","1_NeoGeoLibrary:Resistor1-5mm","","2"
-"R50-R52, R75","3KΩ","1_NeoGeoLibrary:Resistor1-5mm","","4"
-"R56","820Ω","1_NeoGeoLibrary:Resistor1-5mm","","1"
-"R58-R60","6.8KΩ","1_NeoGeoLibrary:Resistor1-5mm","","3"
-"R62-R65, R401, R501","75Ω","1_NeoGeoLibrary:Resistor1-5mm","","6"
-"R70, R72","1MΩ","1_NeoGeoLibrary:Resistor1-5mm","","2"
-"R71","10Ω","1_NeoGeoLibrary:Resistor1-5mm","","1"
-"R74","220KΩ","1_NeoGeoLibrary:Resistor1-5mm","","1"
-"R76, R78","1K","1_NeoGeoLibrary:R76","Not Fitted when 9v Circuit","2"
-"R77","0.18","1_NeoGeoLibrary:R77","Not Fitted when 9v Circuit","1"
-"R79, R82","510","1_NeoGeoLibrary:R76","Not Fitted when 9v Circuit","2"
-"R80","470","1_NeoGeoLibrary:R76","Not Fitted when 9v Circuit","1"
-"R81","100","1_NeoGeoLibrary:R76","Not Fitted when 9v Circuit","1"
-"R83","150","1_NeoGeoLibrary:R83","Not Fitted when 9v Circuit","1"
-"R101, R102","100K","1_NeoGeoLibrary:Resistor1-5mm","","2"
-"R302","30KΩ","1_NeoGeoLibrary:Resistor1-5mm","","1"
-"R402, R502","51KΩ","1_NeoGeoLibrary:Resistor1-5mm","","2"
-"R403, R503","15KΩ","1_NeoGeoLibrary:Resistor1-5mm","","2"
-"R5814, R5863","0","1_NeoGeoLibrary:PAL","","2"
-"RA1","4.7ΩX4","1_NeoGeoLibrary:R_Array_SIP5","","1"
-"RN1","22ΩX4","1_NeoGeoLibrary:RN2","","1"
-"RN2","22Ω","1_NeoGeoLibrary:RN2","","1"
-"RV1","Headphone Slider (0-1K)","1_NeoGeoLibrary:RV1","","1"
-"SW1","RESET SWITCH","1_NeoGeoLibrary:SW1","","1"
-"SW2","POWER SWITCH","1_NeoGeoLibrary:SW2","","1"
-"T1","SH-302","1_NeoGeoLibrary:T1","","1"
-"TC1","0-50p","1_NeoGeoLibrary:TC","","1"
-"TP1","TestPoint","1_NeoGeoLibrary:TestPoint_Pad_D1.5mm","","1"
-"TP2","TestPoint","TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm","","1"
-"U1, U2, U17, U18","uPD43256AGU-12L","1_NeoGeoLibrary:43256","","4"
-"U3","HD68HC000P","1_NeoGeoLibrary:68000","","1"
-"U4","NEO-C1","1_NeoGeoLibrary:NEO-C1","","1"
-"U5","NEO-G0","1_NeoGeoLibrary:NEO-G0","","1"
-"U6, U7","uPD4364CX-12","1_NeoGeoLibrary:DIP-28_W7.62mm","","2"
-"U8, U80","74HC04","1_NeoGeoLibrary:DIP-14_W7.62mm","","2"
-"U9, U10","74LS273","1_NeoGeoLibrary:DIP-20_W7.62mm","","2"
-"U11","74LS05","1_NeoGeoLibrary:DIP-14_W7.62mm","","1"
-"U12","74LS06","1_NeoGeoLibrary:DIP-14_W7.62mm","","1"
-"U13","NEO-B1","1_NeoGeoLibrary:NEO-B1","","1"
-"U14","PST518B","1_NeoGeoLibrary:PST518B","","1"
-"U15","74LS244","1_NeoGeoLibrary:DIP-20_W7.62mm","","1"
-"U16","TC531000AP","1_NeoGeoLibrary:DIP-28_W15.24mm","","1"
-"U19, U20","CXK5864P-35","1_NeoGeoLibrary:DIP-28_W7.62mm","","2"
-"U21","LSPC2","1_NeoGeoLibrary:LSPC2","","1"
-"U22","NEO-D0","1_NeoGeoLibrary:NEO-G0","","1"
-"U23","HM6116ASP-20","1_NeoGeoLibrary:DIP-24_W7.62mm","","1"
-"U24","Z80CPU","1_NeoGeoLibrary:DIP-40_W15.24mm","","1"
-"U26","YM3016D","1_NeoGeoLibrary:DIP-16_W7.62mm","","1"
-"U27","YM2610","1_NeoGeoLibrary:68000","","1"
-"U28, U29","PC4741","1_NeoGeoLibrary:DIP-14_W7.62mm","","2"
-"U32","CXA1145P","1_NeoGeoLibrary:DIP-24_W10.16mm","","1"
-"U33","74AS04","1_NeoGeoLibrary:DIP-14_W7.62mm","","1"
-"U34","NEO-E0","1_NeoGeoLibrary:NEO-G0","","1"
-"U35","74LS259","1_NeoGeoLibrary:DIP-16_W7.62mm","","1"
-"U36","27C1024","1_NeoGeoLibrary:DIP-40_W15.24mm","","1"
-"U37","LM2576T-5","Package_TO_SOT_THT:TO-220-5_Vertical","Not Fitted when 5v Circuit","1"
-"U38","74HC32","1_NeoGeoLibrary:DIP-14_W7.62mm","","1"
-"U39","CX23065A","1_NeoGeoLibrary:CX23065A","","1"
-"X1","24.167829MHz","1_NeoGeoLibrary:Crystal","","1"
-"X2","3.579545MHz","1_NeoGeoLibrary:Crystal","","1"
+Item,Qty,Reference(s),Value,Mouser,Alternative,Comment
+1,41,"BF1, BF2, BF3, BF4, BF5, BF6, BF7, BF8, BF9, BF10, BF11, BF12, BF13, BF14, BF15, BF16, BF17, BF18, BF19, BF20, BF21, BF22, BF23, BF24, BF25, BF26, BF27, BF28, BF29, BF30, BF31, BF32, BF51, BF52, BF53, BF54, BF55, BF56, BF301, BF302, BF303",ZBF253D,80-B-06-R-25,,
+2,19,"C1, C2, C4, C5, C6, C7, C8, C11, C12, C20, C24, C25, C32, C34, C35, C41, C49, C113, C301",10uF,667-ECA-1CM100I,,
+3,1,C3,68pF,810-FG28C0G2A680JNT6,,
+4,7,"C9, C10, C36, C37, C38, C39, C46",470uF/16v,647-UHE1C471MPD6,,
+5,2,"C13, C14",272M,80-MMK5272K63J01TA18,,
+6,2,"C22, C23",1nF,810-FG28C0G1H102JNT6,,
+7,3,"C26, C27, C28",0.1uF,810-FG26C0G1H104JNT0,,
+8,1,C29,100pF (82p),810-FG28C0G1H101JNT6,,
+9,2,"C30, C45",0.01uF,810-FG28C0G1H103JNT0,,
+10,1,C31,39pF (30pF),810-FG28C0G1H390JNT6,,
+11,6,"C33, C42, C58, C59, C60, C201",100pF,810-FG28C0G1H101JNT6,,
+12,1,C43,47pF,810-FG28C0G1H101JNT6,,
+13,3,"C44, C50, C70",10nF,810-FG28C0G1H103JNT0,,
+14,1,C47,2200uF/6.3v,667-EEU-FC0J222S,,
+15,1,C48,150pF,810-FG28C0G1H151JNT6,,
+16,27,"C51, C63, C101, C102, C103, C104, C105, C106, C107, C108, C109, C110, C111, C112, C114, C115, C116, C117, C118, C119, C120, C121, C122, C123, C124, C125, C127",100nF,810-FG26C0G1H104JNT0,,
+17,2,"C52, C54",30pF(CH),80-C322C300K3G5TA,,
+18,1,C53,6pF,810-FG28C0G1H060DNT6,,
+19,1,C55,20pF(CH),80-C317C200J5G,,
+20,2,"C56, C67",220pF,810-FG28C0G1H221JNT0,,
+21,1,C57,331pF,810-FG28C0G1H331JNT6,,
+22,2,"C61, C62",221pF,810-FG28C0G1H221JNT0,,
+23,1,C64,10pF(CH),810-FG28C0G1H100DNT6,,
+24,1,C65,39pF (CH),810-FG28C0G1H390JNT6,,
+25,1,C126,100uF,667-ECA-1CM101I,,
+26,1,CN1,CTRL1,,,Use Original
+27,1,CN2,CTRL2,,,Use Original
+28,1,CN3,DIN-8,,,Use Original
+29,2,"CN4, CN5",AXC90020,587-395-100-524-204,,
+30,1,CN6,5535653-1,571-5535653-1,,5535653-1
+31,5,"CR1, CR2, CR3, CR4, CR5",CRE401,,https://github.com/mourix/CRE401,
+32,2,"D1, D2",SR340,583-SR340-T,,Not Fitted when 5v Circuit
+33,2,"D3, D4",FC52M-5,,,Use Original
+34,1,D5,LED,604-WP7113ID5V,,
+35,1,J3,SMK S-G8043,,,
+36,1,J4,POWER JACK,490-PJ-102B,,
+37,1,JP3,J3,,,
+38,1,L1,47uH,530-SFAPI-470K-UL,,
+39,1,L2,47uH,530-SFAPI-470K-UL,,
+40,1,L3,180uH,,,Not Fitted when 5v Circuit
+41,2,"Q101, Q102",2SC1815,610-2SC1815,,
+42,16,"R1, R2, R3, R32, R36, R37, R38, R39, R40, R41, R42, R43, R45, R54, R55, R301",1K,71-CMF501K0000FHEA,,
+43,3,"R4, R5, R6",8.2K,71-RN60D-F-8.2K,,
+44,3,"R7, R11, R15",3.9K,71-RN60D3901F,,
+45,3,"R8, R12, R16",2.2K,71-RN60D2201F,,
+46,4,"R9, R13, R17, R66",470,71-RN60C4700F,,
+47,3,"R10, R14, R18",220,71-RN60D2200F,,
+48,3,"R19, R20, R21",150,71-RN60E1500F,,
+49,4,"R28, R57, R68, R303",10K,71-RN60E1002F,,
+50,1,R29,47,71-RN60D47R0F,,
+51,2,"R30, R31",4.7K,71-RN60D4701F,,
+52,2,"R33, R34",10,71-CMF5010R000FHEK,,
+53,3,"R46, R49, R53",27K,71-RN60D-F-27K,,
+54,2,"R47, R48",47K,71-RN60D4702F,,
+55,4,"R50, R51, R52, R75",3K,71-RN60D3001F,,
+56,1,R56,820,71-RN60D8200F,,
+57,3,"R58, R59, R60",6.8K,71-RN60D6801F,,
+58,6,"R62, R63, R64, R65, R401, R501",75,71-CMF5075R000FHEB,,
+59,2,"R70, R72",1M,71-RN60D-F-1M/R,,
+60,1,R71,10,71-CMF5010R000FHEK,,
+61,1,R74,220K,71-RN60D2203F,,
+62,1,R76,1K,,,Not Fitted when 9v Circuit
+63,2,"R101, R102",100K,71-RN60E1003F,,
+64,1,R302,30K,71-RN60D-F-30K,,
+65,2,"R402, R502",51K,71-RN60D5102F,,
+66,2,"R403, R503",15K,71-CMF5015K000FHEK,,
+67,2,"R5814, R5863",0,,,
+68,1,RA1,4.7Kx4,652-4605X-1LF-47K,,
+69,2,"RN1, RN2",22x4,652-4608X-2LF-22,,
+70,1,RV1,Headphone Slider (0-1K),,,Use Original
+71,1,SW1,RESET SWITCH,,,Use Original
+72,1,SW2,POWER SWITCH,,,Use Original
+73,1,T1,SH-302,80-SH-302,,
+74,1,TC1,0-50p,,,Use Original
+75,4,"U1, U2, U17, U18",uPD43256AGU-12L,,,Use Original
+76,1,U3,HD68HC000P,,,Use Original
+77,1,U4,NEO-C1,,,Use Original
+78,1,U5,NEO-G0,,,Use Original
+79,2,"U6, U7",uPD4364CX-12,,,Use Original
+80,2,"U8, U80",74HC04,595-SN74HC04N,,
+81,2,"U9, U10",74LS273,595-SN74LS273N,,
+82,1,U11,74LS05,595-SN74LS05N,,
+83,1,U12,74LS06,595-SN74LS06N,,
+84,1,U13,NEO-B1,,,Use Original
+85,1,U14,PST518B,,,Use Original
+86,1,U15,74LS244,595-SN74LS244N,,
+87,1,U16,TC531000AP,,,Use Original
+88,2,"U19, U20",CXK5864P-35,,,Use Original
+89,1,U21,LSPC2,,,Use Original
+90,1,U22,NEO-D0,,,Use Original
+91,1,U23,HM6116ASP-20,,,Use Original
+92,1,U24,Z80CPU,,,Use Original
+93,1,U26,YM3016D,,,Use Original
+94,1,U27,YM2610,,,Use Original
+95,2,"U28, U29",PC4741,,,Use Original
+96,1,U32,CXA1145P,,,Use Original
+97,1,U33,74AS04,595-SN74AS04N,,
+98,1,U34,NEO-E0,,,Use Original
+99,1,U35,74HC259,595-SN74HC259N,,
+100,1,U36,27C1024,,,Use Original
+101,1,U37,LM2576T-5,,https://www.aliexpress.com/item/1005004285746293.html,Not Fitted when 5v Circuit
+102,1,U38,74HC32,595-SN74HC32N,,
+103,1,U39,CX23065A,,,Use Original
+104,1,X1,24.167829MHz,,,Use Original
+105,1,X2,3.579545MHz,815-AB-3.579545-B2,,
