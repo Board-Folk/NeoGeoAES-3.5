@@ -7,7 +7,7 @@ board's copper layers, so should be a reasonably accurate reproduction.
 
 ![PCB](images/NeoGeoAES3_5_Front.png)
 
-### Current Revisions
+### Revisions
 
 | Revision | Tested | Comments |
 |:--------:|:------:| --- |
