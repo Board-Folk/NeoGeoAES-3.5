@@ -2333,7 +2333,7 @@
     (property "Datasheet" "" (at 138.684 49.784 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Mouser" "71-RN60D4701F" (at 138.684 49.784 0)
+    (property "Mouser" "" (at 138.684 49.784 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Alternative" "" (at 138.684 49.784 0)

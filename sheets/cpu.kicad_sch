@@ -4190,7 +4190,7 @@
     (property "Reference" "J1" (at 49.022 151.638 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "BEER" (at 49.022 156.718 0)
+    (property "Value" "BERR" (at 49.022 156.718 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "1_NeoGeoLibrary:J2" (at 49.022 154.178 0)

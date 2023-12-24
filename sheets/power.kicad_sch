@@ -3673,7 +3673,7 @@
     (property "Comment" "Not Fitted when 5v Circuit" (at 187.833 63.246 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Mouser" "" (at 187.833 63.246 0)
+    (property "Mouser" "926-LM2576T-5.0/NOPB" (at 187.833 63.246 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Alternative" "https://www.aliexpress.com/item/1005004285746293.html" (at 187.833 63.246 0)
