@@ -7,11 +7,21 @@ board's copper layers, so should be a reasonably accurate reproduction.
 
 ![PCB](images/NeoGeoAES3_5_Front.png)
 
+### Current Revisions
+
 | Revision | Tested | Comments |
 |:--------:|:------:| --- |
 | 1.1      | Working | Prototype |
 | 1.2      | Not Tested | Added some missing silk screen |
 | 1.3      | Not Tested | Moved some components on far right by 1mm to be in alignment |
+
+### Future Features
+ * Replace power section with something better
+ * Add RGB ByPass Mod
+ * Add Dual Controller component layput for using standard DB15
+ * Do a SMD Version
+
+
 
 ## PCB Production
 
