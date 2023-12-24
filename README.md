@@ -33,6 +33,8 @@ For a complete BOM, consult the KiCad project's BOM folder, there you will find 
 
 [**Interactive BOM**][IBOM]
 
+There are some components with mouser parts listed in Kicad BOM, *DO NOT USE THESE*. Need to verify they work.
+
 ## 9V or 5V
 
 The NeoGeo AES 3-5 could come configured as either 9V or 5V supply input.
