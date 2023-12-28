@@ -3782,7 +3782,7 @@
     (property "Datasheet" "~" (at 59.563 211.328 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Mouser" "" (at 61.468 217.678 0)
+    (property "Mouser" "688-RS20H12AC002" (at 61.468 217.678 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Comment" "Use Original" (at 61.468 217.678 0)

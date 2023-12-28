@@ -1852,7 +1852,7 @@
     (property "Datasheet" "" (at 222.885 155.575 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Mouser" "" (at 222.885 155.575 0)
+    (property "Mouser" "71-CMF5010R000FHEK" (at 222.885 155.575 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Alternative" "" (at 222.885 155.575 0)
