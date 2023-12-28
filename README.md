@@ -7,11 +7,21 @@ board's copper layers, so should be a reasonably accurate reproduction.
 
 ![PCB](images/NeoGeoAES3_5_Front.png)
 
+### Revisions
+
 | Revision | Tested | Comments |
 |:--------:|:------:| --- |
 | 1.1      | Working | Prototype |
 | 1.2      | Not Tested | Added some missing silk screen |
 | 1.3      | Not Tested | Moved some components on far right by 1mm to be in alignment |
+
+### Future Features
+ * Replace power section with something better
+ * Add RGB ByPass Mod
+ * Add Dual Controller component layput for using standard DB15
+ * Do a SMD Version
+
+
 
 ## PCB Production
 
@@ -32,6 +42,8 @@ For a complete BOM, consult the KiCad project's BOM folder, there you will find 
 [**PDF BOM**][BOM]
 
 [**Interactive BOM**][IBOM]
+
+There are some components with mouser parts listed in Kicad BOM, *DO NOT USE THESE*. Need to verify they work.
 
 ## 9V or 5V
 
@@ -109,4 +121,4 @@ of merchantability and fitness for a particular purpose.
 
 [IBOM]: http://htmlpreview.github.io/?https://raw.githubusercontent.com/Board-Folk/NeoGeoAES-3.5/main/bom/NeoGeo-AES-3_5.html
 
-[BOM]: http://htmlpreview.github.io/?https://raw.githubusercontent.com/Board-Folk/NeoGeoAES-3.5/main/bom/NeoGeoAES3_5-BOM.pdf
+[BOM]: https://raw.githubusercontent.com/Board-Folk/NeoGeoAES-3.5/main/bom/NeoGeoAES3_5-BOM.pdf
