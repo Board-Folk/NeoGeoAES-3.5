@@ -4164,7 +4164,7 @@
     (property "Datasheet" "" (at 60.452 140.208 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Mouser" "652-4605X-1LF-47K" (at 60.452 140.208 0)
+    (property "Mouser" "652-4605X-1LF-4.7K" (at 60.452 140.208 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Alternative" "" (at 60.452 140.208 0)
