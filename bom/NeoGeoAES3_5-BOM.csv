@@ -35,9 +35,6 @@ Qty,Reference,Value,Mouser,Alternative,Comment
 1,D5,LED,604-WP7113ID5V,,
 2,"D11, D12",1S1588,,,Not Fitted when 9v Circuit
 1,D13,RD5.6A,,,Not Fitted when 9v Circuit
-14,H1-H14,~,,,
-1,H16,~,,,
-2,"H17, H18",~,,,
 1,J1,BERR,,,
 1,J2,CUT DOG,,,
 1,J3,SMK S-G8043,,,
@@ -47,9 +44,9 @@ Qty,Reference,Value,Mouser,Alternative,Comment
 1,L1,47uH,,,
 1,L2,47uH,,,
 1,L3,180uH,,,"Not Fitted when 5v Circuit, Use Original"
-1,NTSC1,0,,,Fit if NTSC
-1,PAL1,0,,,Fit if PAL
-1,PAL2,0,,,Fit if PAL
+1,NTSC1,Link Wire,,,Fit if NTSC
+1,PAL1,Link Wire,,,Fit if PAL
+1,PAL2,Link Wire,,,Fit if PAL
 1,Q11,C1815,,,Not Fitted when 9v Circuit
 1,Q12,A1015,,,Not Fitted when 9v Circuit
 1,Q13,A1442,,,Not Fitted when 9v Circuit
@@ -69,7 +66,7 @@ Qty,Reference,Value,Mouser,Alternative,Comment
 2,"R47, R48",47K,594-5063JD47K00FT,,
 4,"R50-R52, R75",3K,594-5063JD3K000F,,
 1,R56,820,594-5063JD820R0FT,,
-3,R58-R60,6.8K,594-5063JD75R00F,,
+3,R58-R60,6.8K,594-5063JD6R800F5,,
 6,"R62-R65, R401, R501",75,594-5063JD75R00FT,,
 2,"R70, R72",1M,594-5063JD1M000FT,,
 1,R71,10,594-5063JD10R00FT,,
@@ -84,7 +81,7 @@ Qty,Reference,Value,Mouser,Alternative,Comment
 1,R302,30K,594-5063JD30K00F,,
 2,"R402, R502",51K,594-5063JD51K00F,,
 2,"R403, R503",15K,594-5063JD15K00F5,,
-2,"R5814, R5863",0,,,Fitted if either 5814 or 5863 link for RAM type
+2,"R5814, R5863",Link Wire,,,Fitted if either 5814 or 5863 link for RAM type
 1,RA1,4.7Kx4,652-4605X-1LF-4.7K,,
 2,"RN1, RN2",22x4,652-4608X-2LF-22,,
 1,RV1,Headphone Slider (0-1K),,Alps Alpine RS20H12AC002,Use Original
@@ -92,13 +89,11 @@ Qty,Reference,Value,Mouser,Alternative,Comment
 1,SW2,POWER SWITCH,,,Use Original
 1,T1,SH-302,80-SH-302,,
 1,TC1,0-50p,,Mouser 594-2222-808-23279 ?? 4pF-27pF or Digikey 2447-GKG50015-ND ?,Use Original
-1,TP1,TestPoint,,,
-1,TP2,TestPoint,,,
-4,"U1, U2, U17, U18",uPD43256AGU-12L,870-62C256AL-25ULI,JEDEC 62256 (32k x 8) SRAM,Use Original
+4,"U1, U2, U17, U18",43256,870-62C256AL-25ULI,JEDEC 62256 (32k x 8) SRAM,Use Original
 1,U3,HD68HC000P,,,Use Original
 1,U4,NEO-C1,,,Use Original
 1,U5,NEO-G0,,,Use Original
-2,"U6, U7",uPD4364CX-12,972-5962-3829407MXA,JEDEC 6264 (8k x 8) SRAM,Use Original
+2,"U6, U7",4364,972-5962-3829407MXA,JEDEC 6264 (8k x 8) SRAM,Use Original
 2,"U8, U80",74HC04,595-SN74HC04N,,
 2,"U9, U10",74LS273,595-SN74LS273N,,
 1,U11,74LS05,595-SN74LS05N,,
@@ -107,10 +102,10 @@ Qty,Reference,Value,Mouser,Alternative,Comment
 1,U14,PST518B,579-MCP120-450GI/TO,,Use Original
 1,U15,74LS244,595-SN74LS244N,,
 1,U16,TC531000AP,,,Use Original
-2,"U19, U20",CXK5864P-35,,JEDEC 6116 (2k x 8) SRAM 35ns,Use Original
+2,"U19, U20",5864 / 5814,,JEDEC 6116 (2k x 8) SRAM 35ns,Use Original
 1,U21,LSPC2,,,Use Original
 1,U22,NEO-D0,,,Use Original
-1,U23,HM6116ASP-20,,,Use Original
+1,U23,6116,,JEDEC 6116 (2k x 8) SRAM 35ns,Use Original
 1,U24,Z80CPU,,,Use Original
 1,U26,YM3016D,,,Use Original
 1,U27,YM2610,,,Use Original
