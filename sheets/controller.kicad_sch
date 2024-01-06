@@ -6,8 +6,8 @@
 
   (title_block
     (title "NeoGeo AES 3-5")
-    (date "2023-12-30")
-    (rev "BF1.3")
+    (date "2024-01-06")
+    (rev "BF1.4")
     (company "SNK")
     (comment 3 "https://github.com/Board-Folk")
     (comment 4 "Recreated By The Board Folk Team")
