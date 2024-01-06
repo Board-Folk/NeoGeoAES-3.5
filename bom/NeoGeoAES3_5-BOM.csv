@@ -93,7 +93,7 @@ Qty,Reference,Value,Mouser,Alternative,Comment
 1,U3,HD68HC000P,,,Use Original
 1,U4,NEO-C1,,,Use Original
 1,U5,NEO-G0,,,Use Original
-2,"U6, U7",4364,972-5962-3829407MXA,JEDEC 6264 (8k x 8) SRAM,Use Original
+2,"U6, U7",4364,913-AS7C164A-15PCN,JEDEC 6264 (8k x 8) SRAM,Use Original
 2,"U8, U80",74HC04,595-SN74HC04N,,
 2,"U9, U10",74LS273,595-SN74LS273N,,
 1,U11,74LS05,595-SN74LS05N,,
@@ -109,7 +109,7 @@ Qty,Reference,Value,Mouser,Alternative,Comment
 1,U24,Z80CPU,,,Use Original
 1,U26,YM3016D,,,Use Original
 1,U27,YM2610,,,Use Original
-2,"U28, U29",PC4741,,,Use Original
+2,"U28, U29",PC4741,968-UPC4741G2-E1-A,,Use Original
 1,U32,CXA1145P,,CXA1645 or CXA2075 needs adapter,Use Original
 1,U33,74AS04,595-SN74AS04N,,
 1,U34,NEO-E0,,,Use Original
