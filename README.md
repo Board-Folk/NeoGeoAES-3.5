@@ -33,6 +33,10 @@ such the Gerber files are provided to their specification.
 The design is verified to work as a 2-layer PCB.
 
 
+I have added it to the PCBWay Shared projects here
+
+<a href="https://www.pcbway.com/project/shareproject/NeoGeo_AES_3_5_reproduction_main_PCB_179da741.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
+
 ## Bill of Materials
 
 Most parts are marked on the board and it is expected that these will be reused
