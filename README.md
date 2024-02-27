@@ -14,7 +14,7 @@ board's copper layers, so should be a reasonably accurate reproduction.
 | 1.1      | Working | Prototype |
 | 1.2      | Not Tested | Added some missing silk screen |
 | 1.3      | Tested     | Moved some components on far right by 1mm to be in alignment |
-| 1.4      | Not Tested | Tweaks to BOM, updated Silkscreen |
+| 1.4      | Tested (not by me) | Tweaks to BOM, updated Silkscreen |
 
 ### Future Features
  * Replace power section with something better
