@@ -1,690 +1,1714 @@
-(kicad_sch (version 20230121) (generator eeschema)
-
-  (uuid e226ecbc-35ef-48b6-a608-5f12ffad334e)
-
-  (paper "A3")
-
-  (title_block
-    (title "NeoGeo AES 3-5")
-    (date "2024-01-06")
-    (rev "BF1.4")
-    (company "SNK")
-    (comment 3 "https://github.com/Board-Folk")
-    (comment 4 "Recreated By The Board Folk Team")
-  )
-
-  (lib_symbols
-  )
-
-  (junction (at 166.37 50.8) (diameter 0) (color 0 0 0 0)
-    (uuid 35c1bffb-f6d8-40af-bca8-8cb5d73d1ce2)
-  )
-  (junction (at 300.99 50.8) (diameter 0) (color 0 0 0 0)
-    (uuid 4198d6b1-a0bd-4ee3-b93e-6f0e176090fe)
-  )
-  (junction (at 298.45 118.11) (diameter 0) (color 0 0 0 0)
-    (uuid 6abc98d3-8d7d-4b39-9e95-095fdf2cf87c)
-  )
-  (junction (at 233.68 50.8) (diameter 0) (color 0 0 0 0)
-    (uuid 7a353a73-31cd-47db-8e48-c44e393ff740)
-  )
-  (junction (at 298.45 48.26) (diameter 0) (color 0 0 0 0)
-    (uuid 9e1bee0e-2e42-456b-982d-3fb9bc051090)
-  )
-  (junction (at 298.45 91.44) (diameter 0) (color 0 0 0 0)
-    (uuid a7fd5c17-b1ba-4aa8-a178-79c7fc4d0ee1)
-  )
-  (junction (at 303.53 88.9) (diameter 0) (color 0 0 0 0)
-    (uuid e2c86d65-825c-4f50-a097-bc358f6c865c)
-  )
-  (junction (at 184.15 50.8) (diameter 0) (color 0 0 0 0)
-    (uuid eb82d783-be02-4c5f-8839-87c891c84856)
-  )
-  (junction (at 163.83 48.26) (diameter 0) (color 0 0 0 0)
-    (uuid f56299e1-db60-4fab-a0ad-cd38ba757916)
-  )
-  (junction (at 231.14 48.26) (diameter 0) (color 0 0 0 0)
-    (uuid f9b3fa1e-7f08-4296-8aac-fc2a2eb7fc65)
-  )
-
-  (bus (pts (xy 241.3 93.98) (xy 227.33 93.98))
-    (stroke (width 0) (type default))
-    (uuid 07f93ea0-4b73-4317-bbca-4512fbd8a927)
-  )
-  (bus (pts (xy 163.83 48.26) (xy 163.83 83.82))
-    (stroke (width 0) (type default))
-    (uuid 0cff5d43-c2aa-4d46-b033-9b0dbcd12d74)
-  )
-  (bus (pts (xy 184.15 140.97) (xy 184.15 50.8))
-    (stroke (width 0) (type default))
-    (uuid 103289a6-6894-499b-9a41-e3630a1251f8)
-  )
-  (bus (pts (xy 163.83 110.49) (xy 163.83 140.97))
-    (stroke (width 0) (type default))
-    (uuid 121e1e62-f826-4d35-93ed-e654d373efc3)
-  )
-  (bus (pts (xy 294.64 91.44) (xy 298.45 91.44))
-    (stroke (width 0) (type default))
-    (uuid 13fd2fa9-7151-493d-b15a-c8bc78c06db5)
-  )
-  (bus (pts (xy 227.33 91.44) (xy 238.76 91.44))
-    (stroke (width 0) (type default))
-    (uuid 151072db-9d5b-407f-973b-671f8e19923d)
-  )
-  (bus (pts (xy 96.52 83.82) (xy 96.52 48.26))
-    (stroke (width 0) (type default))
-    (uuid 17945d5c-8347-41cd-83fa-dcfa334df6e2)
-  )
-  (bus (pts (xy 373.38 91.44) (xy 373.38 55.88))
-    (stroke (width 0) (type default))
-    (uuid 1aafdd1c-5af5-4121-982a-589be626286e)
-  )
-  (bus (pts (xy 365.76 48.26) (xy 365.76 83.82))
-    (stroke (width 0) (type default))
-    (uuid 24405aa5-0fe8-4354-9ceb-db3c6fe2d138)
-  )
-  (bus (pts (xy 227.33 88.9) (xy 236.22 88.9))
-    (stroke (width 0) (type default))
-    (uuid 263148c9-b876-413d-853c-08c897eb25d0)
-  )
-  (bus (pts (xy 298.45 48.26) (xy 365.76 48.26))
-    (stroke (width 0) (type default))
-    (uuid 27bca526-a3bd-4d55-a882-ba5b4cae80dd)
-  )
-  (bus (pts (xy 378.46 96.52) (xy 378.46 60.96))
-    (stroke (width 0) (type default))
-    (uuid 2dcbb5c1-1fff-4558-8423-d43d58c65f0a)
-  )
-  (bus (pts (xy 166.37 50.8) (xy 166.37 86.36))
-    (stroke (width 0) (type default))
-    (uuid 34fb5858-cb10-469c-a69f-d1b43ab4dcd3)
-  )
-  (bus (pts (xy 238.76 58.42) (xy 375.92 58.42))
-    (stroke (width 0) (type default))
-    (uuid 35afb054-1f62-46d3-8855-f8a3255df6ae)
-  )
-  (bus (pts (xy 294.64 83.82) (xy 298.45 83.82))
-    (stroke (width 0) (type default))
-    (uuid 36d6605c-5617-4ca3-ac9c-983af0ecaed8)
-  )
-  (bus (pts (xy 163.83 140.97) (xy 160.02 140.97))
-    (stroke (width 0) (type default))
-    (uuid 3c5e1956-5e49-478a-ab8c-4f33b429db68)
-  )
-  (bus (pts (xy 361.95 86.36) (xy 368.3 86.36))
-    (stroke (width 0) (type default))
-    (uuid 3fd24300-7628-4c4c-ad32-3561bc54bb94)
-  )
-  (bus (pts (xy 227.33 86.36) (xy 233.68 86.36))
-    (stroke (width 0) (type default))
-    (uuid 43ecf215-15f2-4fee-b907-41a1664842a0)
-  )
-  (bus (pts (xy 166.37 50.8) (xy 184.15 50.8))
-    (stroke (width 0) (type default))
-    (uuid 450493e7-65f7-40b3-91cb-6f4d38867750)
-  )
-  (bus (pts (xy 238.76 91.44) (xy 238.76 58.42))
-    (stroke (width 0) (type default))
-    (uuid 4781cba6-7438-4d42-9eac-78d489cd2383)
-  )
-  (bus (pts (xy 187.96 140.97) (xy 184.15 140.97))
-    (stroke (width 0) (type default))
-    (uuid 4a8f0e1d-b40b-46e2-816a-473e0fc88066)
-  )
-  (bus (pts (xy 100.33 118.11) (xy 298.45 118.11))
-    (stroke (width 0) (type default))
-    (uuid 51ced154-3e8d-45bb-8405-c60b8411fc5e)
-  )
-  (bus (pts (xy 368.3 148.59) (xy 294.64 148.59))
-    (stroke (width 0) (type default))
-    (uuid 556903fb-58cb-49ac-8017-d1deb365e251)
-  )
-  (bus (pts (xy 375.92 93.98) (xy 361.95 93.98))
-    (stroke (width 0) (type default))
-    (uuid 57012240-e1e3-4608-b0e3-acf0510f268a)
-  )
-  (bus (pts (xy 370.84 53.34) (xy 370.84 88.9))
-    (stroke (width 0) (type default))
-    (uuid 58171543-f9fa-43cf-ab31-83363ab4fbd1)
-  )
-  (bus (pts (xy 96.52 48.26) (xy 163.83 48.26))
-    (stroke (width 0) (type default))
-    (uuid 5c2cf420-3532-4dc4-9a8c-34c0df186e4c)
-  )
-  (bus (pts (xy 298.45 91.44) (xy 298.45 118.11))
-    (stroke (width 0) (type default))
-    (uuid 5d3238b7-be49-4e64-8968-1eb128dc8ced)
-  )
-  (bus (pts (xy 96.52 140.97) (xy 92.71 140.97))
-    (stroke (width 0) (type default))
-    (uuid 637ba5ee-6b5a-4c2a-b051-712106eeb1ef)
-  )
-  (bus (pts (xy 160.02 143.51) (xy 187.96 143.51))
-    (stroke (width 0) (type default))
-    (uuid 6c38709e-3873-4a18-bddd-1f9ab5210a8b)
-  )
-  (bus (pts (xy 166.37 50.8) (xy 99.06 50.8))
-    (stroke (width 0) (type default))
-    (uuid 6c8b9216-a104-4fc2-ac21-984395ae6e68)
-  )
-  (bus (pts (xy 294.64 143.51) (xy 303.53 143.51))
-    (stroke (width 0) (type default))
-    (uuid 70a280a4-97cf-44cb-ac28-5429e7d0ed8b)
-  )
-  (bus (pts (xy 298.45 48.26) (xy 298.45 83.82))
-    (stroke (width 0) (type default))
-    (uuid 76f84ecd-6426-416a-b571-98c86f54a20d)
-  )
-  (bus (pts (xy 298.45 118.11) (xy 298.45 140.97))
-    (stroke (width 0) (type default))
-    (uuid 7a512a06-ef55-42ae-88fc-55bcbcd21feb)
-  )
-  (bus (pts (xy 365.76 83.82) (xy 361.95 83.82))
-    (stroke (width 0) (type default))
-    (uuid 81eed36d-11b8-4901-a0d6-a92da8eb4209)
-  )
-  (bus (pts (xy 303.53 143.51) (xy 303.53 88.9))
-    (stroke (width 0) (type default))
-    (uuid 844c2800-cbe6-4016-babf-bf8ec1215cc0)
-  )
-  (bus (pts (xy 368.3 107.95) (xy 368.3 148.59))
-    (stroke (width 0) (type default))
-    (uuid 86c5a0e1-b97c-4a17-806f-15cb5cbe5617)
-  )
-  (bus (pts (xy 233.68 50.8) (xy 233.68 86.36))
-    (stroke (width 0) (type default))
-    (uuid 8790f921-90db-405c-bee3-74002fda711c)
-  )
-  (bus (pts (xy 231.14 48.26) (xy 298.45 48.26))
-    (stroke (width 0) (type default))
-    (uuid 88afffad-c057-4177-b8d4-0ea539195a5d)
-  )
-  (bus (pts (xy 298.45 140.97) (xy 294.64 140.97))
-    (stroke (width 0) (type default))
-    (uuid 8e1a4347-5604-44e3-bc71-e5f110d619ad)
-  )
-  (bus (pts (xy 227.33 83.82) (xy 231.14 83.82))
-    (stroke (width 0) (type default))
-    (uuid 8efd21eb-5491-4593-895f-cad18c57ea0a)
-  )
-  (bus (pts (xy 300.99 50.8) (xy 300.99 86.36))
-    (stroke (width 0) (type default))
-    (uuid 974498ae-ddc0-42df-97fe-216df6c4ceb0)
-  )
-  (bus (pts (xy 370.84 88.9) (xy 361.95 88.9))
-    (stroke (width 0) (type default))
-    (uuid 987acf3c-d36d-42d2-9404-ab080a6aa6cb)
-  )
-  (bus (pts (xy 160.02 83.82) (xy 163.83 83.82))
-    (stroke (width 0) (type default))
-    (uuid 9962d0f7-aae9-45e5-93fe-debe94c61324)
-  )
-  (bus (pts (xy 92.71 107.95) (xy 100.33 107.95))
-    (stroke (width 0) (type default))
-    (uuid 9a74d99d-ddeb-47f7-be7b-f1d3ee8ada53)
-  )
-  (bus (pts (xy 184.15 50.8) (xy 233.68 50.8))
-    (stroke (width 0) (type default))
-    (uuid 9bd0a0dd-b970-4ff2-b2a5-8d53508b4940)
-  )
-  (bus (pts (xy 241.3 60.96) (xy 241.3 93.98))
-    (stroke (width 0) (type default))
-    (uuid a0697181-758d-4c38-8823-1a1c61af5262)
-  )
-  (bus (pts (xy 361.95 107.95) (xy 368.3 107.95))
-    (stroke (width 0) (type default))
-    (uuid a1a95843-d91c-4966-8e0d-479f3b0c8e5f)
-  )
-  (bus (pts (xy 294.64 146.05) (xy 365.76 146.05))
-    (stroke (width 0) (type default))
-    (uuid aa7742fc-30bf-44ae-9bf4-b1b498cf4901)
-  )
-  (bus (pts (xy 368.3 86.36) (xy 368.3 50.8))
-    (stroke (width 0) (type default))
-    (uuid b093348c-1824-4f1f-99c1-f23921a74e4b)
-  )
-  (bus (pts (xy 160.02 110.49) (xy 163.83 110.49))
-    (stroke (width 0) (type default))
-    (uuid b5d58481-fb77-4f58-aef9-b8a9fc7faf78)
-  )
-  (bus (pts (xy 100.33 107.95) (xy 100.33 118.11))
-    (stroke (width 0) (type default))
-    (uuid b82717d1-999b-4d23-860a-f1128ef57c49)
-  )
-  (bus (pts (xy 236.22 55.88) (xy 236.22 88.9))
-    (stroke (width 0) (type default))
-    (uuid b86123a6-1209-44a1-8bd3-37b50acf338e)
-  )
-  (bus (pts (xy 294.64 88.9) (xy 303.53 88.9))
-    (stroke (width 0) (type default))
-    (uuid b9e97ae4-41fc-4e54-94b3-f4b7e7bd8f29)
-  )
-  (bus (pts (xy 92.71 83.82) (xy 96.52 83.82))
-    (stroke (width 0) (type default))
-    (uuid c3be3274-e72a-48b2-90ac-5bb1f9dc5e5f)
-  )
-  (bus (pts (xy 303.53 88.9) (xy 303.53 53.34))
-    (stroke (width 0) (type default))
-    (uuid c76c571a-63ad-4ba5-aeb1-eb8411eb876e)
-  )
-  (bus (pts (xy 163.83 48.26) (xy 231.14 48.26))
-    (stroke (width 0) (type default))
-    (uuid cab64e7e-afcc-458b-a446-aba357fa2aea)
-  )
-  (bus (pts (xy 99.06 50.8) (xy 99.06 86.36))
-    (stroke (width 0) (type default))
-    (uuid cacaa3d1-a62b-4881-b030-b293bcc7a9eb)
-  )
-  (bus (pts (xy 375.92 58.42) (xy 375.92 93.98))
-    (stroke (width 0) (type default))
-    (uuid cba2cbdd-0deb-4fc9-8742-20ec6f0be602)
-  )
-  (bus (pts (xy 361.95 96.52) (xy 378.46 96.52))
-    (stroke (width 0) (type default))
-    (uuid cbdc19ac-8c8e-4939-956c-09bd929e8f89)
-  )
-  (bus (pts (xy 231.14 48.26) (xy 231.14 83.82))
-    (stroke (width 0) (type default))
-    (uuid cf9aa55f-77e6-44f4-b5c4-af8c0965c9e3)
-  )
-  (bus (pts (xy 365.76 146.05) (xy 365.76 110.49))
-    (stroke (width 0) (type default))
-    (uuid d494a0a0-9e3e-4cb6-9162-5b30f2fa6ec4)
-  )
-  (bus (pts (xy 365.76 110.49) (xy 361.95 110.49))
-    (stroke (width 0) (type default))
-    (uuid dd4f680e-1333-41a0-8ce3-71d43feda93f)
-  )
-  (bus (pts (xy 361.95 91.44) (xy 373.38 91.44))
-    (stroke (width 0) (type default))
-    (uuid def7ffe4-bcc3-4a6c-8e8a-472d274c7920)
-  )
-  (bus (pts (xy 160.02 86.36) (xy 166.37 86.36))
-    (stroke (width 0) (type default))
-    (uuid df9c8cab-a20d-4167-bd9d-80ce5d086200)
-  )
-  (bus (pts (xy 298.45 91.44) (xy 322.58 91.44))
-    (stroke (width 0) (type default))
-    (uuid e61f4a32-99a3-4909-9f37-73f50b78bc4c)
-  )
-  (bus (pts (xy 294.64 86.36) (xy 300.99 86.36))
-    (stroke (width 0) (type default))
-    (uuid eafa3e01-7038-4d3b-b66b-b8f613b1dbdf)
-  )
-  (bus (pts (xy 378.46 60.96) (xy 241.3 60.96))
-    (stroke (width 0) (type default))
-    (uuid ecb4e970-437a-4255-9229-11c19d4bbd71)
-  )
-  (bus (pts (xy 373.38 55.88) (xy 236.22 55.88))
-    (stroke (width 0) (type default))
-    (uuid f19e388d-fd08-4e4b-a2ff-f13e8bb436b8)
-  )
-  (bus (pts (xy 92.71 86.36) (xy 99.06 86.36))
-    (stroke (width 0) (type default))
-    (uuid f1b32bac-1069-4ce4-99c6-2d5aea94afb1)
-  )
-  (bus (pts (xy 233.68 50.8) (xy 300.99 50.8))
-    (stroke (width 0) (type default))
-    (uuid f21b0b93-3e36-4784-b4e1-e30a7592794b)
-  )
-  (bus (pts (xy 303.53 53.34) (xy 370.84 53.34))
-    (stroke (width 0) (type default))
-    (uuid f6e13e23-d189-4550-8918-1a03cfa9f626)
-  )
-  (bus (pts (xy 96.52 110.49) (xy 96.52 140.97))
-    (stroke (width 0) (type default))
-    (uuid fa651dd5-4c53-49cc-901e-2e8df403d6da)
-  )
-  (bus (pts (xy 300.99 50.8) (xy 368.3 50.8))
-    (stroke (width 0) (type default))
-    (uuid fbb2aa68-c509-47a9-aa92-3fff0e051d42)
-  )
-  (bus (pts (xy 92.71 110.49) (xy 96.52 110.49))
-    (stroke (width 0) (type default))
-    (uuid fff47f9e-5145-466e-863c-cdf48c1decfc)
-  )
-
-  (sheet (at 187.96 139.7) (size 39.37 29.21) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid))
-    (fill (color 0 0 0 0.0000))
-    (uuid 17d4dff8-1d4b-4fcd-9956-5ead09864ae3)
-    (property "Sheetname" "VIDEO" (at 187.96 138.9884 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheetfile" "sheets/video.kicad_sch" (at 187.96 169.4946 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (pin "CDD[0..15]" bidirectional (at 187.96 143.51 180)
-      (effects (font (size 1.27 1.27)) (justify left))
-      (uuid 7f99ddd9-e175-412e-8d3b-7ea541862304)
-    )
-    (pin "D[0..15]" bidirectional (at 187.96 140.97 180)
-      (effects (font (size 1.27 1.27)) (justify left))
-      (uuid ce440dca-a60e-48fd-bf02-5abd9f8407c1)
-    )
-    (instances
-      (project "NeoGeoAES3_5"
-        (path "/e226ecbc-35ef-48b6-a608-5f12ffad334e" (page "2"))
-      )
-    )
-  )
-
-  (sheet (at 120.65 196.85) (size 39.37 29.21) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid))
-    (fill (color 0 0 0 0.0000))
-    (uuid 2a5ccfb4-5e07-49ca-a83b-8f2b8b902202)
-    (property "Sheetname" "CLOCK" (at 120.65 196.1384 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheetfile" "sheets/clock.kicad_sch" (at 120.65 226.6446 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (instances
-      (project "NeoGeoAES3_5"
-        (path "/e226ecbc-35ef-48b6-a608-5f12ffad334e" (page "11"))
-      )
-    )
-  )
-
-  (sheet (at 255.27 196.85) (size 39.37 29.21) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid))
-    (fill (color 0 0 0 0.0000))
-    (uuid 395516b4-de87-4f49-9253-15d185c97222)
-    (property "Sheetname" "POWER" (at 255.27 196.1384 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheetfile" "sheets/power.kicad_sch" (at 255.27 226.6446 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (instances
-      (project "NeoGeoAES3_5"
-        (path "/e226ecbc-35ef-48b6-a608-5f12ffad334e" (page "12"))
-      )
-    )
-  )
-
-  (sheet (at 255.27 82.55) (size 39.37 29.21) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid))
-    (fill (color 0 0 0 0.0000))
-    (uuid 3cfae109-7808-4780-b2af-d719568614ca)
-    (property "Sheetname" "Z80 AUDIO" (at 255.27 81.8384 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheetfile" "sheets/z80_audio.kicad_sch" (at 255.27 112.3446 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (pin "A[0..23]" input (at 294.64 83.82 0)
-      (effects (font (size 1.27 1.27)) (justify right))
-      (uuid 26b9c5d3-32ba-4f16-ba86-6975d68238c4)
-    )
-    (pin "D[0..15]" bidirectional (at 294.64 86.36 0)
-      (effects (font (size 1.27 1.27)) (justify right))
-      (uuid 5183bec8-9256-4890-8ed6-5401ccec56f9)
-    )
-    (pin "SDA[0..15]" input (at 294.64 88.9 0)
-      (effects (font (size 1.27 1.27)) (justify right))
-      (uuid daa0bfb4-84a3-4d1d-a54d-c2d35f7d9a49)
-    )
-    (pin "SDD[0..7]" bidirectional (at 294.64 91.44 0)
-      (effects (font (size 1.27 1.27)) (justify right))
-      (uuid baaea3be-7a92-45f6-8735-8bc15ea56be0)
-    )
-    (instances
-      (project "NeoGeoAES3_5"
-        (path "/e226ecbc-35ef-48b6-a608-5f12ffad334e" (page "5"))
-      )
-    )
-  )
-
-  (sheet (at 120.65 82.55) (size 39.37 29.21) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid))
-    (fill (color 0 0 0 0.0000))
-    (uuid 59d4c677-2163-45d2-9b78-b9f56fabecac)
-    (property "Sheetname" "ROM" (at 120.65 81.8384 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheetfile" "sheets/rom.kicad_sch" (at 120.65 112.3446 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (pin "A[0..23]" input (at 160.02 83.82 0)
-      (effects (font (size 1.27 1.27)) (justify right))
-      (uuid 7bad1c33-d531-4425-8bd7-78dfdec114eb)
-    )
-    (pin "D[0..15]" input (at 160.02 86.36 0)
-      (effects (font (size 1.27 1.27)) (justify right))
-      (uuid c7db8acc-b13f-4e7f-b188-2b295bbf1d07)
-    )
-    (pin "CDA[0..23]" input (at 160.02 110.49 0)
-      (effects (font (size 1.27 1.27)) (justify right))
-      (uuid 262832f0-8903-418e-92a2-b1568accc431)
-    )
-    (instances
-      (project "NeoGeoAES3_5"
-        (path "/e226ecbc-35ef-48b6-a608-5f12ffad334e" (page "9"))
-      )
-    )
-  )
-
-  (sheet (at 187.96 196.85) (size 39.37 29.21) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid))
-    (fill (color 0 0 0 0.0000))
-    (uuid 781c624d-8d97-4a0b-a978-70b607a101af)
-    (property "Sheetname" "RGB VIDEO" (at 187.96 196.1384 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheetfile" "sheets/rgb_video.kicad_sch" (at 187.96 226.6446 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (instances
-      (project "NeoGeoAES3_5"
-        (path "/e226ecbc-35ef-48b6-a608-5f12ffad334e" (page "7"))
-      )
-    )
-  )
-
-  (sheet (at 53.34 139.7) (size 39.37 29.21) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid))
-    (fill (color 0 0 0 0.0000))
-    (uuid 85e729e3-96be-4fe1-8753-abec14de71c9)
-    (property "Sheetname" "CONTROLLER" (at 53.34 138.9884 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheetfile" "sheets/controller.kicad_sch" (at 53.34 169.4946 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (pin "IN[0..23]" input (at 92.71 140.97 0)
-      (effects (font (size 1.27 1.27)) (justify right))
-      (uuid 53a33b3f-e664-4e89-bb2e-336298a7d5dc)
-    )
-    (instances
-      (project "NeoGeoAES3_5"
-        (path "/e226ecbc-35ef-48b6-a608-5f12ffad334e" (page "4"))
-      )
-    )
-  )
-
-  (sheet (at 187.96 82.55) (size 39.37 29.21) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid))
-    (fill (color 0 0 0 0.0000))
-    (uuid a671da63-c188-4632-b677-2f60c419618b)
-    (property "Sheetname" "GRAPHICS" (at 187.96 81.8384 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheetfile" "sheets/graphics.kicad_sch" (at 187.96 112.3446 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (pin "A[0..23]" input (at 227.33 83.82 0)
-      (effects (font (size 1.27 1.27)) (justify right))
-      (uuid a6d434c2-dde1-466d-9d27-47aea09539fc)
-    )
-    (pin "D[0..15]" bidirectional (at 227.33 86.36 0)
-      (effects (font (size 1.27 1.27)) (justify right))
-      (uuid 3cc6279d-4ae2-4630-ba79-d9c99b0e5bc0)
-    )
-    (pin "FIXD[0..7]" input (at 227.33 88.9 0)
-      (effects (font (size 1.27 1.27)) (justify right))
-      (uuid 53c539b7-7d79-48d0-a2b9-b8f3f72ea63f)
-    )
-    (pin "P[0..15]" input (at 227.33 91.44 0)
-      (effects (font (size 1.27 1.27)) (justify right))
-      (uuid 7f09538b-318c-415d-8978-2c174182a81f)
-    )
-    (pin "P[16..23]" bidirectional (at 227.33 93.98 0)
-      (effects (font (size 1.27 1.27)) (justify right))
-      (uuid 9dd28dd0-43f4-49b3-9d58-c0096e31b4b2)
-    )
-    (instances
-      (project "NeoGeoAES3_5"
-        (path "/e226ecbc-35ef-48b6-a608-5f12ffad334e" (page "3"))
-      )
-    )
-  )
-
-  (sheet (at 53.34 82.55) (size 39.37 29.21) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid))
-    (fill (color 0 0 0 0.0000))
-    (uuid abf92dea-d97d-4ab6-a8b1-0d15ffdbb24b)
-    (property "Sheetname" "CPU" (at 53.34 81.8384 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheetfile" "sheets/cpu.kicad_sch" (at 53.34 112.3446 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (pin "IN[0..23]" input (at 92.71 110.49 0)
-      (effects (font (size 1.27 1.27)) (justify right))
-      (uuid 6409e1ca-8438-465a-b731-91013b34c575)
-    )
-    (pin "A[0..23]" input (at 92.71 83.82 0)
-      (effects (font (size 1.27 1.27)) (justify right))
-      (uuid 4c0eb793-dd94-4827-8452-c923b4057240)
-    )
-    (pin "D[0..15]" bidirectional (at 92.71 86.36 0)
-      (effects (font (size 1.27 1.27)) (justify right))
-      (uuid 9755bce0-bf7e-411e-94f7-e4d9da4875da)
-    )
-    (pin "SDD[0..7]" bidirectional (at 92.71 107.95 0)
-      (effects (font (size 1.27 1.27)) (justify right))
-      (uuid ff78b9b5-dd5c-4324-8103-45c545afa725)
-    )
-    (instances
-      (project "NeoGeoAES3_5"
-        (path "/e226ecbc-35ef-48b6-a608-5f12ffad334e" (page "1"))
-      )
-    )
-  )
-
-  (sheet (at 255.27 139.7) (size 39.37 29.21) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid))
-    (fill (color 0 0 0 0.0000))
-    (uuid c9473d33-e182-4f58-9f81-09857979aeb6)
-    (property "Sheetname" "YM2610 AUDIO" (at 255.27 138.9884 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheetfile" "sheets/ym2610_audio.kicad_sch" (at 255.27 169.4946 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (pin "SDRAD[0..7]" bidirectional (at 294.64 148.59 0)
-      (effects (font (size 1.27 1.27)) (justify right))
-      (uuid 43b1ad82-be14-4058-919a-acfc1f21769e)
-    )
-    (pin "SDPAD[0..7]" bidirectional (at 294.64 146.05 0)
-      (effects (font (size 1.27 1.27)) (justify right))
-      (uuid 5d91208a-802d-45a8-8651-52d1b45082a5)
-    )
-    (pin "SDA[0..15]" input (at 294.64 143.51 0)
-      (effects (font (size 1.27 1.27)) (justify right))
-      (uuid c4a77bf8-6328-4989-b2a6-71061655b182)
-    )
-    (pin "SDD[0..7]" bidirectional (at 294.64 140.97 0)
-      (effects (font (size 1.27 1.27)) (justify right))
-      (uuid 4355325a-70a2-42ed-ac90-0c4a02de6b27)
-    )
-    (instances
-      (project "NeoGeoAES3_5"
-        (path "/e226ecbc-35ef-48b6-a608-5f12ffad334e" (page "6"))
-      )
-    )
-  )
-
-  (sheet (at 322.58 82.55) (size 39.37 29.21) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid))
-    (fill (color 0 0 0 0.0000))
-    (uuid ca39996a-8fd1-4ca6-9c25-0e1871cc05db)
-    (property "Sheetname" "Cartridge Slots" (at 322.58 81.8384 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheetfile" "sheets/cartridge_slots.kicad_sch" (at 322.58 112.3446 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (pin "A[0..23]" input (at 361.95 83.82 0)
-      (effects (font (size 1.27 1.27)) (justify right))
-      (uuid e7a80fe8-e8ba-4dbe-adb5-1c7f4619239b)
-    )
-    (pin "D[0..15]" tri_state (at 361.95 86.36 0)
-      (effects (font (size 1.27 1.27)) (justify right))
-      (uuid c5907403-881a-4644-a2a7-63691840bbd0)
-    )
-    (pin "P[16..23]" tri_state (at 361.95 96.52 0)
-      (effects (font (size 1.27 1.27)) (justify right))
-      (uuid 39403d05-f776-44a7-b914-9bee47cb00e9)
-    )
-    (pin "P[0..15]" input (at 361.95 93.98 0)
-      (effects (font (size 1.27 1.27)) (justify right))
-      (uuid 69a11e1c-ed59-4a24-80e9-a56dff571d02)
-    )
-    (pin "SDA[0..15]" input (at 361.95 88.9 0)
-      (effects (font (size 1.27 1.27)) (justify right))
-      (uuid 728064de-e4d4-4c88-8210-1b81021b306b)
-    )
-    (pin "FIXD[0..7]" input (at 361.95 91.44 0)
-      (effects (font (size 1.27 1.27)) (justify right))
-      (uuid 3877c988-e905-47b3-bf6d-f239211b6b4a)
-    )
-    (pin "SDRAD[0..7]" tri_state (at 361.95 107.95 0)
-      (effects (font (size 1.27 1.27)) (justify right))
-      (uuid ed6585d1-d583-4c9a-9241-81d0a1397a45)
-    )
-    (pin "SDPAD[0..7]" tri_state (at 361.95 110.49 0)
-      (effects (font (size 1.27 1.27)) (justify right))
-      (uuid 8dbd1c5f-c803-4097-b663-88c3161624eb)
-    )
-    (pin "SDD[0..7]" input (at 322.58 91.44 180)
-      (effects (font (size 1.27 1.27)) (justify left))
-      (uuid dd1d9fcb-8cc2-4a9a-b4fd-4482f6f865e0)
-    )
-    (instances
-      (project "NeoGeoAES3_5"
-        (path "/e226ecbc-35ef-48b6-a608-5f12ffad334e" (page "8"))
-      )
-    )
-  )
-
-  (sheet (at 120.65 139.7) (size 39.37 29.21) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid))
-    (fill (color 0 0 0 0.0000))
-    (uuid d4d0d7f2-0fd8-4bab-9d7c-b81093425dee)
-    (property "Sheetname" "CARD INTERFACE" (at 120.65 138.9884 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheetfile" "sheets/card_interface.kicad_sch" (at 120.65 169.4946 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (pin "CDA[0..23]" input (at 160.02 140.97 0)
-      (effects (font (size 1.27 1.27)) (justify right))
-      (uuid 521f360c-4ac3-49a5-96f1-c63fc13dfd50)
-    )
-    (pin "CDD[0..15]" bidirectional (at 160.02 143.51 0)
-      (effects (font (size 1.27 1.27)) (justify right))
-      (uuid 0a1ca2d8-a071-43b3-9db1-1bc98c1b362a)
-    )
-    (instances
-      (project "NeoGeoAES3_5"
-        (path "/e226ecbc-35ef-48b6-a608-5f12ffad334e" (page "10"))
-      )
-    )
-  )
-
-  (sheet_instances
-    (path "/" (page "1"))
-  )
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "e226ecbc-35ef-48b6-a608-5f12ffad334e")
+	(paper "A3")
+	(title_block
+		(title "NeoGeo AES 3-5")
+		(date "2026-10-17")
+		(rev "BF1.5")
+		(company "SNK")
+		(comment 3 "https://github.com/Board-Folk")
+		(comment 4 "Recreated By The Board Folk Team")
+	)
+	(lib_symbols)
+	(junction
+		(at 166.37 48.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "35c1bffb-f6d8-40af-bca8-8cb5d73d1ce2")
+	)
+	(junction
+		(at 300.99 48.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4198d6b1-a0bd-4ee3-b93e-6f0e176090fe")
+	)
+	(junction
+		(at 298.45 115.57)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6abc98d3-8d7d-4b39-9e95-095fdf2cf87c")
+	)
+	(junction
+		(at 233.68 48.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7a353a73-31cd-47db-8e48-c44e393ff740")
+	)
+	(junction
+		(at 298.45 45.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9e1bee0e-2e42-456b-982d-3fb9bc051090")
+	)
+	(junction
+		(at 298.45 88.9)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a7fd5c17-b1ba-4aa8-a178-79c7fc4d0ee1")
+	)
+	(junction
+		(at 303.53 86.36)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e2c86d65-825c-4f50-a097-bc358f6c865c")
+	)
+	(junction
+		(at 184.15 48.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "eb82d783-be02-4c5f-8839-87c891c84856")
+	)
+	(junction
+		(at 163.83 45.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f56299e1-db60-4fab-a0ad-cd38ba757916")
+	)
+	(junction
+		(at 231.14 45.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f9b3fa1e-7f08-4296-8aac-fc2a2eb7fc65")
+	)
+	(bus
+		(pts
+			(xy 241.3 91.44) (xy 227.33 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "07f93ea0-4b73-4317-bbca-4512fbd8a927")
+	)
+	(bus
+		(pts
+			(xy 163.83 45.72) (xy 163.83 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0cff5d43-c2aa-4d46-b033-9b0dbcd12d74")
+	)
+	(bus
+		(pts
+			(xy 184.15 138.43) (xy 184.15 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "103289a6-6894-499b-9a41-e3630a1251f8")
+	)
+	(bus
+		(pts
+			(xy 163.83 107.95) (xy 163.83 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "121e1e62-f826-4d35-93ed-e654d373efc3")
+	)
+	(bus
+		(pts
+			(xy 294.64 88.9) (xy 298.45 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "13fd2fa9-7151-493d-b15a-c8bc78c06db5")
+	)
+	(bus
+		(pts
+			(xy 227.33 88.9) (xy 238.76 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "151072db-9d5b-407f-973b-671f8e19923d")
+	)
+	(bus
+		(pts
+			(xy 96.52 81.28) (xy 96.52 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "17945d5c-8347-41cd-83fa-dcfa334df6e2")
+	)
+	(bus
+		(pts
+			(xy 373.38 88.9) (xy 373.38 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1aafdd1c-5af5-4121-982a-589be626286e")
+	)
+	(bus
+		(pts
+			(xy 365.76 45.72) (xy 365.76 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "24405aa5-0fe8-4354-9ceb-db3c6fe2d138")
+	)
+	(bus
+		(pts
+			(xy 227.33 86.36) (xy 236.22 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "263148c9-b876-413d-853c-08c897eb25d0")
+	)
+	(bus
+		(pts
+			(xy 298.45 45.72) (xy 365.76 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "27bca526-a3bd-4d55-a882-ba5b4cae80dd")
+	)
+	(bus
+		(pts
+			(xy 378.46 93.98) (xy 378.46 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2dcbb5c1-1fff-4558-8423-d43d58c65f0a")
+	)
+	(bus
+		(pts
+			(xy 166.37 48.26) (xy 166.37 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "34fb5858-cb10-469c-a69f-d1b43ab4dcd3")
+	)
+	(bus
+		(pts
+			(xy 238.76 55.88) (xy 375.92 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "35afb054-1f62-46d3-8855-f8a3255df6ae")
+	)
+	(bus
+		(pts
+			(xy 294.64 81.28) (xy 298.45 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "36d6605c-5617-4ca3-ac9c-983af0ecaed8")
+	)
+	(bus
+		(pts
+			(xy 163.83 138.43) (xy 160.02 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3c5e1956-5e49-478a-ab8c-4f33b429db68")
+	)
+	(bus
+		(pts
+			(xy 361.95 83.82) (xy 368.3 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3fd24300-7628-4c4c-ad32-3561bc54bb94")
+	)
+	(bus
+		(pts
+			(xy 227.33 83.82) (xy 233.68 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "43ecf215-15f2-4fee-b907-41a1664842a0")
+	)
+	(bus
+		(pts
+			(xy 166.37 48.26) (xy 184.15 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "450493e7-65f7-40b3-91cb-6f4d38867750")
+	)
+	(bus
+		(pts
+			(xy 238.76 88.9) (xy 238.76 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4781cba6-7438-4d42-9eac-78d489cd2383")
+	)
+	(bus
+		(pts
+			(xy 187.96 138.43) (xy 184.15 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4a8f0e1d-b40b-46e2-816a-473e0fc88066")
+	)
+	(bus
+		(pts
+			(xy 100.33 115.57) (xy 298.45 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "51ced154-3e8d-45bb-8405-c60b8411fc5e")
+	)
+	(bus
+		(pts
+			(xy 368.3 146.05) (xy 294.64 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "556903fb-58cb-49ac-8017-d1deb365e251")
+	)
+	(bus
+		(pts
+			(xy 375.92 91.44) (xy 361.95 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "57012240-e1e3-4608-b0e3-acf0510f268a")
+	)
+	(bus
+		(pts
+			(xy 370.84 50.8) (xy 370.84 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "58171543-f9fa-43cf-ab31-83363ab4fbd1")
+	)
+	(bus
+		(pts
+			(xy 96.52 45.72) (xy 163.83 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5c2cf420-3532-4dc4-9a8c-34c0df186e4c")
+	)
+	(bus
+		(pts
+			(xy 298.45 88.9) (xy 298.45 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d3238b7-be49-4e64-8968-1eb128dc8ced")
+	)
+	(bus
+		(pts
+			(xy 96.52 138.43) (xy 92.71 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "637ba5ee-6b5a-4c2a-b051-712106eeb1ef")
+	)
+	(bus
+		(pts
+			(xy 160.02 140.97) (xy 187.96 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6c38709e-3873-4a18-bddd-1f9ab5210a8b")
+	)
+	(bus
+		(pts
+			(xy 166.37 48.26) (xy 99.06 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6c8b9216-a104-4fc2-ac21-984395ae6e68")
+	)
+	(bus
+		(pts
+			(xy 294.64 140.97) (xy 303.53 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "70a280a4-97cf-44cb-ac28-5429e7d0ed8b")
+	)
+	(bus
+		(pts
+			(xy 298.45 45.72) (xy 298.45 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "76f84ecd-6426-416a-b571-98c86f54a20d")
+	)
+	(bus
+		(pts
+			(xy 298.45 115.57) (xy 298.45 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7a512a06-ef55-42ae-88fc-55bcbcd21feb")
+	)
+	(bus
+		(pts
+			(xy 365.76 81.28) (xy 361.95 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "81eed36d-11b8-4901-a0d6-a92da8eb4209")
+	)
+	(bus
+		(pts
+			(xy 303.53 140.97) (xy 303.53 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "844c2800-cbe6-4016-babf-bf8ec1215cc0")
+	)
+	(bus
+		(pts
+			(xy 368.3 105.41) (xy 368.3 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "86c5a0e1-b97c-4a17-806f-15cb5cbe5617")
+	)
+	(bus
+		(pts
+			(xy 233.68 48.26) (xy 233.68 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8790f921-90db-405c-bee3-74002fda711c")
+	)
+	(bus
+		(pts
+			(xy 231.14 45.72) (xy 298.45 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "88afffad-c057-4177-b8d4-0ea539195a5d")
+	)
+	(bus
+		(pts
+			(xy 298.45 138.43) (xy 294.64 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e1a4347-5604-44e3-bc71-e5f110d619ad")
+	)
+	(bus
+		(pts
+			(xy 227.33 81.28) (xy 231.14 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8efd21eb-5491-4593-895f-cad18c57ea0a")
+	)
+	(bus
+		(pts
+			(xy 300.99 48.26) (xy 300.99 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "974498ae-ddc0-42df-97fe-216df6c4ceb0")
+	)
+	(bus
+		(pts
+			(xy 370.84 86.36) (xy 361.95 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "987acf3c-d36d-42d2-9404-ab080a6aa6cb")
+	)
+	(bus
+		(pts
+			(xy 160.02 81.28) (xy 163.83 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9962d0f7-aae9-45e5-93fe-debe94c61324")
+	)
+	(bus
+		(pts
+			(xy 92.71 105.41) (xy 100.33 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9a74d99d-ddeb-47f7-be7b-f1d3ee8ada53")
+	)
+	(bus
+		(pts
+			(xy 184.15 48.26) (xy 233.68 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9bd0a0dd-b970-4ff2-b2a5-8d53508b4940")
+	)
+	(bus
+		(pts
+			(xy 241.3 58.42) (xy 241.3 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a0697181-758d-4c38-8823-1a1c61af5262")
+	)
+	(bus
+		(pts
+			(xy 361.95 105.41) (xy 368.3 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1a95843-d91c-4966-8e0d-479f3b0c8e5f")
+	)
+	(bus
+		(pts
+			(xy 294.64 143.51) (xy 365.76 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aa7742fc-30bf-44ae-9bf4-b1b498cf4901")
+	)
+	(bus
+		(pts
+			(xy 368.3 83.82) (xy 368.3 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b093348c-1824-4f1f-99c1-f23921a74e4b")
+	)
+	(bus
+		(pts
+			(xy 160.02 107.95) (xy 163.83 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b5d58481-fb77-4f58-aef9-b8a9fc7faf78")
+	)
+	(bus
+		(pts
+			(xy 100.33 105.41) (xy 100.33 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b82717d1-999b-4d23-860a-f1128ef57c49")
+	)
+	(bus
+		(pts
+			(xy 236.22 53.34) (xy 236.22 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b86123a6-1209-44a1-8bd3-37b50acf338e")
+	)
+	(bus
+		(pts
+			(xy 294.64 86.36) (xy 303.53 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b9e97ae4-41fc-4e54-94b3-f4b7e7bd8f29")
+	)
+	(bus
+		(pts
+			(xy 92.71 81.28) (xy 96.52 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c3be3274-e72a-48b2-90ac-5bb1f9dc5e5f")
+	)
+	(bus
+		(pts
+			(xy 303.53 86.36) (xy 303.53 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c76c571a-63ad-4ba5-aeb1-eb8411eb876e")
+	)
+	(bus
+		(pts
+			(xy 163.83 45.72) (xy 231.14 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cab64e7e-afcc-458b-a446-aba357fa2aea")
+	)
+	(bus
+		(pts
+			(xy 99.06 48.26) (xy 99.06 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cacaa3d1-a62b-4881-b030-b293bcc7a9eb")
+	)
+	(bus
+		(pts
+			(xy 375.92 55.88) (xy 375.92 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cba2cbdd-0deb-4fc9-8742-20ec6f0be602")
+	)
+	(bus
+		(pts
+			(xy 361.95 93.98) (xy 378.46 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cbdc19ac-8c8e-4939-956c-09bd929e8f89")
+	)
+	(bus
+		(pts
+			(xy 231.14 45.72) (xy 231.14 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cf9aa55f-77e6-44f4-b5c4-af8c0965c9e3")
+	)
+	(bus
+		(pts
+			(xy 365.76 143.51) (xy 365.76 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d494a0a0-9e3e-4cb6-9162-5b30f2fa6ec4")
+	)
+	(bus
+		(pts
+			(xy 365.76 107.95) (xy 361.95 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dd4f680e-1333-41a0-8ce3-71d43feda93f")
+	)
+	(bus
+		(pts
+			(xy 361.95 88.9) (xy 373.38 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "def7ffe4-bcc3-4a6c-8e8a-472d274c7920")
+	)
+	(bus
+		(pts
+			(xy 160.02 83.82) (xy 166.37 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "df9c8cab-a20d-4167-bd9d-80ce5d086200")
+	)
+	(bus
+		(pts
+			(xy 298.45 88.9) (xy 322.58 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e61f4a32-99a3-4909-9f37-73f50b78bc4c")
+	)
+	(bus
+		(pts
+			(xy 294.64 83.82) (xy 300.99 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eafa3e01-7038-4d3b-b66b-b8f613b1dbdf")
+	)
+	(bus
+		(pts
+			(xy 378.46 58.42) (xy 241.3 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ecb4e970-437a-4255-9229-11c19d4bbd71")
+	)
+	(bus
+		(pts
+			(xy 373.38 53.34) (xy 236.22 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f19e388d-fd08-4e4b-a2ff-f13e8bb436b8")
+	)
+	(bus
+		(pts
+			(xy 92.71 83.82) (xy 99.06 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f1b32bac-1069-4ce4-99c6-2d5aea94afb1")
+	)
+	(bus
+		(pts
+			(xy 233.68 48.26) (xy 300.99 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f21b0b93-3e36-4784-b4e1-e30a7592794b")
+	)
+	(bus
+		(pts
+			(xy 303.53 50.8) (xy 370.84 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f6e13e23-d189-4550-8918-1a03cfa9f626")
+	)
+	(bus
+		(pts
+			(xy 96.52 107.95) (xy 96.52 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa651dd5-4c53-49cc-901e-2e8df403d6da")
+	)
+	(bus
+		(pts
+			(xy 300.99 48.26) (xy 368.3 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fbb2aa68-c509-47a9-aa92-3fff0e051d42")
+	)
+	(bus
+		(pts
+			(xy 92.71 107.95) (xy 96.52 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fff47f9e-5145-466e-863c-cdf48c1decfc")
+	)
+	(sheet
+		(at 187.96 137.16)
+		(size 39.37 29.21)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "17d4dff8-1d4b-4fcd-9956-5ead09864ae3")
+		(property "Sheetname" "VIDEO"
+			(at 187.96 136.4484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheets/video.kicad_sch"
+			(at 187.96 166.9546 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "CDD[0..15]" bidirectional
+			(at 187.96 140.97 180)
+			(uuid "7f99ddd9-e175-412e-8d3b-7ea541862304")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "D[0..15]" bidirectional
+			(at 187.96 138.43 180)
+			(uuid "ce440dca-a60e-48fd-bf02-5abd9f8407c1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "NeoGeoAES3_5"
+				(path "/e226ecbc-35ef-48b6-a608-5f12ffad334e"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 120.65 194.31)
+		(size 39.37 29.21)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "2a5ccfb4-5e07-49ca-a83b-8f2b8b902202")
+		(property "Sheetname" "CLOCK"
+			(at 120.65 193.5984 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheets/clock.kicad_sch"
+			(at 120.65 224.1046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "NeoGeoAES3_5"
+				(path "/e226ecbc-35ef-48b6-a608-5f12ffad334e"
+					(page "11")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 255.27 194.31)
+		(size 39.37 29.21)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "395516b4-de87-4f49-9253-15d185c97222")
+		(property "Sheetname" "POWER"
+			(at 255.27 193.5984 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheets/power.kicad_sch"
+			(at 255.27 224.1046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "NeoGeoAES3_5"
+				(path "/e226ecbc-35ef-48b6-a608-5f12ffad334e"
+					(page "12")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 255.27 80.01)
+		(size 39.37 29.21)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "3cfae109-7808-4780-b2af-d719568614ca")
+		(property "Sheetname" "Z80 AUDIO"
+			(at 255.27 79.2984 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheets/z80_audio.kicad_sch"
+			(at 255.27 109.8046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "A[0..23]" input
+			(at 294.64 81.28 0)
+			(uuid "26b9c5d3-32ba-4f16-ba86-6975d68238c4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "D[0..15]" bidirectional
+			(at 294.64 83.82 0)
+			(uuid "5183bec8-9256-4890-8ed6-5401ccec56f9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SDA[0..15]" input
+			(at 294.64 86.36 0)
+			(uuid "daa0bfb4-84a3-4d1d-a54d-c2d35f7d9a49")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SDD[0..7]" bidirectional
+			(at 294.64 88.9 0)
+			(uuid "baaea3be-7a92-45f6-8735-8bc15ea56be0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "NeoGeoAES3_5"
+				(path "/e226ecbc-35ef-48b6-a608-5f12ffad334e"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 120.65 80.01)
+		(size 39.37 29.21)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "59d4c677-2163-45d2-9b78-b9f56fabecac")
+		(property "Sheetname" "ROM"
+			(at 120.65 79.2984 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheets/rom.kicad_sch"
+			(at 120.65 109.8046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "A[0..23]" input
+			(at 160.02 81.28 0)
+			(uuid "7bad1c33-d531-4425-8bd7-78dfdec114eb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "D[0..15]" input
+			(at 160.02 83.82 0)
+			(uuid "c7db8acc-b13f-4e7f-b188-2b295bbf1d07")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CDA[0..23]" input
+			(at 160.02 107.95 0)
+			(uuid "262832f0-8903-418e-92a2-b1568accc431")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "NeoGeoAES3_5"
+				(path "/e226ecbc-35ef-48b6-a608-5f12ffad334e"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 187.96 194.31)
+		(size 39.37 29.21)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "781c624d-8d97-4a0b-a978-70b607a101af")
+		(property "Sheetname" "RGB VIDEO"
+			(at 187.96 193.5984 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheets/rgb_video.kicad_sch"
+			(at 187.96 224.1046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "NeoGeoAES3_5"
+				(path "/e226ecbc-35ef-48b6-a608-5f12ffad334e"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 53.34 137.16)
+		(size 39.37 29.21)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "85e729e3-96be-4fe1-8753-abec14de71c9")
+		(property "Sheetname" "CONTROLLER"
+			(at 53.34 136.4484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheets/controller.kicad_sch"
+			(at 53.34 166.9546 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "IN[0..23]" input
+			(at 92.71 138.43 0)
+			(uuid "53a33b3f-e664-4e89-bb2e-336298a7d5dc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "NeoGeoAES3_5"
+				(path "/e226ecbc-35ef-48b6-a608-5f12ffad334e"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 187.96 80.01)
+		(size 39.37 29.21)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "a671da63-c188-4632-b677-2f60c419618b")
+		(property "Sheetname" "GRAPHICS"
+			(at 187.96 79.2984 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheets/graphics.kicad_sch"
+			(at 187.96 109.8046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "A[0..23]" input
+			(at 227.33 81.28 0)
+			(uuid "a6d434c2-dde1-466d-9d27-47aea09539fc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "D[0..15]" bidirectional
+			(at 227.33 83.82 0)
+			(uuid "3cc6279d-4ae2-4630-ba79-d9c99b0e5bc0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "FIXD[0..7]" input
+			(at 227.33 86.36 0)
+			(uuid "53c539b7-7d79-48d0-a2b9-b8f3f72ea63f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "P[0..15]" input
+			(at 227.33 88.9 0)
+			(uuid "7f09538b-318c-415d-8978-2c174182a81f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "P[16..23]" bidirectional
+			(at 227.33 91.44 0)
+			(uuid "9dd28dd0-43f4-49b3-9d58-c0096e31b4b2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "NeoGeoAES3_5"
+				(path "/e226ecbc-35ef-48b6-a608-5f12ffad334e"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 53.34 80.01)
+		(size 39.37 29.21)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "abf92dea-d97d-4ab6-a8b1-0d15ffdbb24b")
+		(property "Sheetname" "CPU"
+			(at 53.34 79.2984 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheets/cpu.kicad_sch"
+			(at 53.34 109.8046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "IN[0..23]" input
+			(at 92.71 107.95 0)
+			(uuid "6409e1ca-8438-465a-b731-91013b34c575")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "A[0..23]" input
+			(at 92.71 81.28 0)
+			(uuid "4c0eb793-dd94-4827-8452-c923b4057240")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "D[0..15]" bidirectional
+			(at 92.71 83.82 0)
+			(uuid "9755bce0-bf7e-411e-94f7-e4d9da4875da")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SDD[0..7]" bidirectional
+			(at 92.71 105.41 0)
+			(uuid "ff78b9b5-dd5c-4324-8103-45c545afa725")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "NeoGeoAES3_5"
+				(path "/e226ecbc-35ef-48b6-a608-5f12ffad334e"
+					(page "1")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 255.27 137.16)
+		(size 39.37 29.21)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "c9473d33-e182-4f58-9f81-09857979aeb6")
+		(property "Sheetname" "YM2610 AUDIO"
+			(at 255.27 136.4484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheets/ym2610_audio.kicad_sch"
+			(at 255.27 166.9546 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "SDRAD[0..7]" bidirectional
+			(at 294.64 146.05 0)
+			(uuid "43b1ad82-be14-4058-919a-acfc1f21769e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SDPAD[0..7]" bidirectional
+			(at 294.64 143.51 0)
+			(uuid "5d91208a-802d-45a8-8651-52d1b45082a5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SDA[0..15]" input
+			(at 294.64 140.97 0)
+			(uuid "c4a77bf8-6328-4989-b2a6-71061655b182")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SDD[0..7]" bidirectional
+			(at 294.64 138.43 0)
+			(uuid "4355325a-70a2-42ed-ac90-0c4a02de6b27")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "NeoGeoAES3_5"
+				(path "/e226ecbc-35ef-48b6-a608-5f12ffad334e"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 322.58 80.01)
+		(size 39.37 29.21)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "ca39996a-8fd1-4ca6-9c25-0e1871cc05db")
+		(property "Sheetname" "Cartridge Slots"
+			(at 322.58 79.2984 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheets/cartridge_slots.kicad_sch"
+			(at 322.58 109.8046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "A[0..23]" input
+			(at 361.95 81.28 0)
+			(uuid "e7a80fe8-e8ba-4dbe-adb5-1c7f4619239b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "D[0..15]" tri_state
+			(at 361.95 83.82 0)
+			(uuid "c5907403-881a-4644-a2a7-63691840bbd0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "P[16..23]" tri_state
+			(at 361.95 93.98 0)
+			(uuid "39403d05-f776-44a7-b914-9bee47cb00e9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "P[0..15]" input
+			(at 361.95 91.44 0)
+			(uuid "69a11e1c-ed59-4a24-80e9-a56dff571d02")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SDA[0..15]" input
+			(at 361.95 86.36 0)
+			(uuid "728064de-e4d4-4c88-8210-1b81021b306b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "FIXD[0..7]" input
+			(at 361.95 88.9 0)
+			(uuid "3877c988-e905-47b3-bf6d-f239211b6b4a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SDRAD[0..7]" tri_state
+			(at 361.95 105.41 0)
+			(uuid "ed6585d1-d583-4c9a-9241-81d0a1397a45")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SDPAD[0..7]" tri_state
+			(at 361.95 107.95 0)
+			(uuid "8dbd1c5f-c803-4097-b663-88c3161624eb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SDD[0..7]" input
+			(at 322.58 88.9 180)
+			(uuid "dd1d9fcb-8cc2-4a9a-b4fd-4482f6f865e0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "NeoGeoAES3_5"
+				(path "/e226ecbc-35ef-48b6-a608-5f12ffad334e"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 120.65 137.16)
+		(size 39.37 29.21)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "d4d0d7f2-0fd8-4bab-9d7c-b81093425dee")
+		(property "Sheetname" "CARD INTERFACE"
+			(at 120.65 136.4484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheets/card_interface.kicad_sch"
+			(at 120.65 166.9546 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "CDA[0..23]" input
+			(at 160.02 138.43 0)
+			(uuid "521f360c-4ac3-49a5-96f1-c63fc13dfd50")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CDD[0..15]" bidirectional
+			(at 160.02 140.97 0)
+			(uuid "0a1ca2d8-a071-43b3-9db1-1bc98c1b362a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "NeoGeoAES3_5"
+				(path "/e226ecbc-35ef-48b6-a608-5f12ffad334e"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
 )

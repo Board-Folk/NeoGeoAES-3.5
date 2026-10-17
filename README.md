@@ -15,6 +15,7 @@ board's copper layers, so should be a reasonably accurate reproduction.
 | 1.2      | Not Tested | Added some missing silk screen |
 | 1.3      | Tested     | Moved some components on far right by 1mm to be in alignment |
 | 1.4      | Tested (not by me) | Tweaks to BOM, updated Silkscreen |
+| 1.5      | Not Tested | Updated to Kicad 10, fixed invalid GND connection on T1
 
 ### Future Features
  * Replace power section with something better
@@ -32,10 +33,11 @@ such the Gerber files are provided to their specification.
 
 The design is verified to work as a 2-layer PCB.
 
+PCBWay will no longer make it, traces too close apparrently now.
 
-I have added it to the PCBWay Shared projects here
+So get from JLCPCB, all mine have always been from JLC and cheaper too.
 
-<a href="https://www.pcbway.com/project/shareproject/NeoGeo_AES_3_5_reproduction_main_PCB_179da741.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
+[**JLC Gerbers**][GERBERS]
 
 I recommend getting ENIG, but HASL will work also.
 
@@ -129,3 +131,5 @@ of merchantability and fitness for a particular purpose.
 [IBOM]: http://htmlpreview.github.io/?https://raw.githubusercontent.com/Board-Folk/NeoGeoAES-3.5/main/bom/NeoGeo-AES-3_5.html
 
 [BOM]: https://raw.githubusercontent.com/Board-Folk/NeoGeoAES-3.5/main/bom/NeoGeoAES3_5-BOM.pdf
+
+[GERBERS]: https://github.com/Board-Folk/NeoGeoAES-3.5/raw/refs/heads/main/jlcpcb/production_files/GERBER-NeoGeoAES3_5.zip
