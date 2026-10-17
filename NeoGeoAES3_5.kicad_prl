@@ -43,8 +43,8 @@
       "zones",
       "shapes"
     ],
-    "visible_layers": "00000000_00000000_0ff3ffff_ffffffff",
-    "zone_display_mode": 0
+    "visible_layers": "00000000_00000000_0ff3fdff_ffffffff",
+    "zone_display_mode": 1
   },
   "git": {
     "integration_disabled": false,
