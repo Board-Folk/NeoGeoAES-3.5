@@ -15,7 +15,7 @@ board's copper layers, so should be a reasonably accurate reproduction.
 | 1.2      | Not Tested | Added some missing silk screen |
 | 1.3      | Tested     | Moved some components on far right by 1mm to be in alignment |
 | 1.4      | Tested (not by me) | Tweaks to BOM, updated Silkscreen |
-| 1.5      | Not Tested | Updated to Kicad 10, fixed invalid GND connection on T1
+| 1.5      | Not Tested (ordered a batch) | Updated to Kicad 10, fixed invalid GND connection on T1, moved around some traces|
 
 ### Future Features
  * Replace power section with something better
